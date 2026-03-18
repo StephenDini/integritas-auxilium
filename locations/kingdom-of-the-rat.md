@@ -52,10 +52,10 @@ Traveling through this region is hazardous:
 
 ## The Lizard Men Problem
 
-King Walter has a problem with Lizard Men in his swamp. He offered the party a deal: eliminate the Lizard Men, and he will release the Noldori elf he holds captive ("a reluctant guest" — Taelendra/Swan).
+King Walter has a problem with Lizard Men in his swamp. He offered the party a deal: eliminate the Lizard Men, and he will release the Noldori elf he holds captive ("a reluctant guest" — Taelendra).
 
 **How to deal with Lizard Folk** (per Raynor): Hold both hands open above your head. Lay your cloak on the ground. Place trade goods on the cloak. Do not haggle more than once. Raynor also suggested putting color bands on Burt and blood or paint lines under his eyes — with Frank the skeleton making Burt resemble a shaman, this may help in negotiations.
 
 ## Walter's Captive
 
-King Walter holds a Noldori elf — Taelendra (Commander Swan) — as a "reluctant guest." He refers to her as "Tinker Belle." She captains his deep-sea fishing ship in exchange for food, water, and necessities. She sabotages his Old Tek finds. She wants to be free.
+King Walter holds a Noldori elf — Taelendra — as a "reluctant guest." He calls her "Tinker Belle." She captains his deep-sea fishing ship in exchange for food, water, and necessities. She sabotages his Old Tek finds. She wants to be free.

@@ -6,7 +6,7 @@
 
 ## Description
 
-Fighter. His enchanted longsword contains a North Central Positronics gem — noted by Commander Swan (Taelendra).
+Fighter. His enchanted longsword contains a North Central Positronics gem — identified by Taelendra ("Tinker Belle").
 
 ## Equipment (from Session 1)
 
@@ -14,7 +14,7 @@ Fighter. His enchanted longsword contains a North Central Positronics gem — no
 
 ## The Sword's Gem
 
-Taelendra identified a North Central Positronics gem in Rowan's sword. Context from her: frog idol and snake idol are associated with these gems. The gems have tiny swords that fit into sheathes on their items. **Incorrect orientation ruins the magic.** Handle with care.
+Taelendra ("Tinker Belle") identified a North Central Positronics gem in Rowan's sword. Frog idol and snake idol are associated with these gems. The gems have tiny swords that fit into sheathes on their items. **Incorrect orientation ruins the magic.** Handle with care.
 
 ## Notes
 

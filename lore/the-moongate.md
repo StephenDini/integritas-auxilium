@@ -25,6 +25,6 @@ The pearl and onyx center gems' functions have not yet been fully determined.
 
 ## Notes
 
-- Commander Swan (Taelendra) has knowledge of Moongates — she may be able to provide additional operational details.
+- Taelendra ("Tinker Belle") has knowledge of Moongates — she may be able to provide additional operational details.
 - The disc is described as Old Tek — pre-Reckoning technology from North Central Positronics. It predates the current magical system.
 - Orientation and gem alignment appear to matter for North Central Positronics items generally (see: Rowan's sword gem). Handle with care.

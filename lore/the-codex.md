@@ -26,12 +26,12 @@ The current known locations or identities of the glyph-bearers:
 
 | Direction | Identity | Status |
 |-----------|----------|--------|
-| Unknown | Commander Swan (Voronwë / Taelendra) | Captive aboard ship under King Walter's control |
-| Unknown | Taelendra | (see Swan — same person) |
+| Unknown | Commander Swan (Voronwë) | At Threshold; male |
+| Unknown | Taelendra ("Tinker Belle") | Captive aboard ship under King Walter; female |
 | Unknown | Unknown | — |
 | Unknown | Unknown | — |
 
-The party has been directed to find Swan first, in Threshold. One other known Noldori by name is Taelendra — who is Swan. At least one other Noldori name in records: Taelendra is the only one confirmed by name beyond Swan.
+Swan and Taelendra are two separate Noldori. The party has been directed to Threshold to find Swan. Taelendra is held captive by King Walter in the swamp.
 
 ## Nemmerle's Role
 

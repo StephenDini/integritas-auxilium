@@ -14,7 +14,7 @@ The surrounding region features verdant farmlands, fresh water, and relatively e
 
 > "Threshold was originally Whitman. I wanted to change that, make it bigger than a person. People can come and go, but ideas; ideas persist. This is the threshold of civilization. This is where law stands before chaos. Good before evil. Civility before savagery."
 
-*(attributed to Commander Swan / Voronwë)*
+*(attributed to Commander Swan, Voronwë)*
 
 The settlement was previously called Whitman. Swan renamed it Threshold.
 
@@ -25,4 +25,4 @@ The settlement was previously called Whitman. Swan renamed it Threshold.
 
 ## Known NPCs
 
-- **Commander Swan (Voronwë / Taelendra)** — leads or led this outpost; see npcs/commander-swan.md
+- **Commander Swan (Voronwë)** — leads this outpost; male Noldori; see npcs/commander-swan.md

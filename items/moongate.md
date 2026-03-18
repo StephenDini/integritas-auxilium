@@ -30,7 +30,7 @@ The Moongate is a teleportation network device. Each red gem anchor corresponds 
 
 ## Notes
 
-- Commander Swan (Taelendra) has direct knowledge of how Moongates function. She may be the best source for unlocking the full capabilities of this device.
+- Taelendra ("Tinker Belle") has direct knowledge of how Moongates function. She may be the best source for unlocking the full capabilities of this device.
 - Handle with care: North Central Positronics items generally require correct gem/component orientation. Wrong orientation ruins the magic (see: Rowan's sword).
 - Full operational manual, if one exists, has not been found.
 

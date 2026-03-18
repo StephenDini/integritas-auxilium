@@ -8,7 +8,7 @@
 
 The party seeks to read the **Codex of Infinite Wisdom**, held by the sage Nemmerle in Lockleed. The Codex is unreadable without four translation glyphs tattooed on four Noldori elves, who were dispersed to the four cardinal directions long ago. The party must find all four Noldori.
 
-One confirmed glyph-bearer: **Commander Swan (Taelendra / Voronwë)**, currently held captive by King Walter in the Kingdom of the Rat.
+Two confirmed glyph-bearers located: **Commander Swan (Voronwë)**, male, at Threshold; and **Taelendra ("Tinker Belle")**, female, held captive by King Walter in the Kingdom of the Rat.
 
 ## Modules Completed
 
@@ -21,7 +21,7 @@ One confirmed glyph-bearer: **Commander Swan (Taelendra / Voronwë)**, currently
 - All PCs at level 6
 - Party XP: 25,531
 - Moongate anchor established: Lockleed (moonstone buried)
-- Party directed to Threshold to find Swan — Swan is not in Threshold; she is captive under King Walter
+- Party directed to Threshold to find Swan (Voronwë) — he is there; separate from Taelendra who is captive under King Walter
 
 ## Party
 
@@ -42,22 +42,23 @@ See `/party/` for individual character files.
 A cult/order seeking pre-Reckoning (Old Tek) knowledge. Insignia: eagle on a circle with three stars. Motto: *"integritas auxilium optimum."* Alton and Raynor are known members. They recruited or attempted to recruit OJ Simpson.
 
 **The Noldori**
-Ancient elves bearing the four translation glyphs for the Codex. At least one — Taelendra (Swan) — is confirmed and located. Three others are unaccounted for.
+Ancient elves bearing the four translation glyphs for the Codex. Two confirmed: Swan (Voronwë) at Threshold, and Taelendra ("Tinker Belle") captive under King Walter. Two others unaccounted for.
 
 **Silverwood Elves / Silverwood Sentinels**
-Based near Threshold. Swan commands or commanded them. Grateful to the party for clearing the Whispering Caves. Have offered their ongoing support.
+Based near Threshold. Commander Swan (Voronwë) leads them. Grateful to the party for clearing the Whispering Caves. Have offered their ongoing support.
 
 **Kingdom of the Rat**
-King Walter's swamp domain in the southeast. Were-rat culture. Walter holds Swan captive. He has offered to free her if the party clears Lizard Men from his swamp. Ratfolk were found carrying drawings of the party — someone is tracking them.
+King Walter's swamp domain in the southeast. Were-rat culture. Walter holds Taelendra ("Tinker Belle") captive. He has offered to free her if the party clears Lizard Men from his swamp. Ratfolk were found carrying drawings of the party — someone is tracking them.
 
 ## Open Threads
 
-- Find and free Commander Swan (King Walter's captive) — requires clearing Lizard Men from his swamp, or finding another way
-- Locate the other three Noldori glyph-bearers (directions: N, S, E, W — Swan's direction unknown)
+- Find Swan (Voronwë) at Threshold
+- Find and free Taelendra from King Walter — requires clearing Lizard Men from his swamp, or finding another way
+- Locate the other two unknown Noldori glyph-bearers (4 total; Swan and Taelendra confirmed)
 - Identify who is tracking the party (Ratfolk scroll with party drawings, discovered by Raynor)
 - Valen — wanted dead or alive; stole a druid staff; fled with shadowy companion; his order was slaughtered by trolls after he left
 - Alton's recruitment letter to OJ: meeting at the Crooked Oak by the Shadowfen
 - Dungeon/cave levels beneath the Castleton cliffside manor (lift discovered, not explored)
 - The brass key and large key found in the manor have not been matched to locks
 - Enchanted short bow ownership unresolved (Fraxiga or Burt)
-- King Walter's Old Tek finds (being sabotaged by Swan — may contain useful artifacts)
+- King Walter's Old Tek finds (being sabotaged by Taelendra — may contain useful artifacts)

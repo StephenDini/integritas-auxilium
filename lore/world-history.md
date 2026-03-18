@@ -40,6 +40,6 @@ A cult or order called the **USAF Warriors** seeks ancient knowledge — specifi
 
 ## Taelendra's Account (Corroborating Source)
 
-The Noldori elf known as Swan (Taelendra/Voronwë) corroborates the historical account with additional detail: ancient worshippers of Tek summoned ATLAS, who destroyed Luna. North Central Positronics built ARTEMIS and fled through the Tannhauser Gate. Without them, chaos erupted — Barron's Folly burned the world.
+The Noldori elf Taelendra ("Tinker Belle"), held captive by King Walter, corroborates the historical account with additional detail: ancient worshippers of Tek summoned ATLAS, who destroyed Luna. North Central Positronics built ARTEMIS and fled through the Tannhauser Gate. Without them, chaos erupted — Barron's Folly burned the world.
 
 She has direct knowledge of: Moongates, Old Tek magic, North Central Positronics, New Atlantis, ARTEMIS, and the Tannhauser Gate — suggesting access to pre-Reckoning records or firsthand proximity to surviving knowledge.

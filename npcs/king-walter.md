@@ -13,7 +13,7 @@ The name "Walter" is a title applied to every ruler of this kingdom regardless o
 
 ## Known Info
 
-- Holds Taelendra (Commander Swan) as a "reluctant guest" aboard his deep-sea fishing ship. He calls her "Tinker Belle."
+- Holds Taelendra ("Tinker Belle") as a "reluctant guest" aboard his deep-sea fishing ship. Taelendra and Commander Swan are separate people.
 - The arrangement: she captains his ship in exchange for food, water, and necessities. She has no choice — her curse prevents her feet from touching dry land, so the ship is both her prison and her only option.
 - Offered the party a deal: eliminate the Lizard Men from his swamp, and he will release the elf.
 - Has Old Tek finds that Taelendra routinely sabotages.
