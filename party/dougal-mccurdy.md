@@ -14,6 +14,11 @@ Cleric. Carries the party's most significant items — the Moongate and the Staf
 - **Staff of Healing** — Derek the Lesser's staff; 1d6+1 HP, divine only, once/day/individual, unlimited uses, cannot self-heal; see items/staff-of-healing.md
 - Enchanted shield
 - 2 fire sacks (harvested from fire beetle encountered under a bed in the Castleton manor)
+- 3 scrolls of Cure Light Wounds
+- 3 scrolls of Bless
+- 3 scrolls of Cure Disease
+- Cask of wine
+- 16 LVNV poker chips (labeled "coins," LVNV printed on each side) — origin/significance unknown
 
 ## Notes
 

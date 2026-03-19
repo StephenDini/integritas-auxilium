@@ -11,9 +11,10 @@ Fighter. His full name may be "Orenthal" — Alton's recruitment letter is addre
 ## Equipment (from Session 1)
 
 - Enchanted longsword
-- Pouch of 16 gems (8 lapaz + 8 topaz)
-- Small silver necklace
-- Ring
+- Pouch of 16 gems (8 lapis + 8 topaz) — 35 gp each
+- Small silver necklace — 80 gp
+- Ring — 20 gp
+- Signet ring — 16 gp (worn)
 
 ## Connections
 

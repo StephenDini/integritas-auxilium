@@ -11,6 +11,7 @@ Fighter. His enchanted longsword contains a North Central Positronics gem — id
 ## Equipment (from Session 1)
 
 - Enchanted longsword (contains a North Central Positronics gem)
+- 30 gp
 
 ## The Sword's Gem
 

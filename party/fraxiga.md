@@ -12,6 +12,7 @@ Wood Elf. Name spelling is uncertain across sources — also seen as "Forxiga."
 
 - Enchanted chainmail
 - Enchanted short bow (attribution uncertain — may be Burt's)
+- 2 healing potions
 
 ## Notes
 

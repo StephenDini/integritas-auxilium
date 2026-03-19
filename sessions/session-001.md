@@ -50,7 +50,7 @@ They also met **Linus Larabee** — a human fence who goes by "Double L, Give em
 
 ### The Cliffside Manor
 
-**Exterior / Entrance:** Gnolls and half-orcs guarded the entrance. The party fought their way in.
+**Exterior / Approach:** The manor sits at the top of a large hill. Sheer unscalable walls flank both sides; the rear backs against a cliff face dropping hundreds of feet to rocks and a river below. The only viable entry is the front. The party briefly discussed alternatives, then OJ, Rowan, and Dougal walked up and asked the guards to leave — knowing they wouldn't. Gnolls and a half-orc were stationed at the entrance. The party fought their way in.
 
 **Guard Turrets and Sleeping Quarters:** Explored, cleared. Dougal was attacked by a fire beetle hiding under a bed. He kept two fire sacks from the creature.
 
@@ -62,7 +62,7 @@ They also met **Linus Larabee** — a human fence who goes by "Double L, Give em
 
 **Locks:** Burt picked his first lock of the campaign. He also obtained a brass key and a large key from the manor.
 
-**The Dead Thief — Frank:** The party discovered a skeleton of a dead thief, half-pulled into a hole in the ground. They tied a rope around the remains and hauled the skeleton free. Burt now carries this skeleton. His name, as understood by the party, is Frank.
+**The Dead Thief — Frank:** The party discovered a skeleton of a dead thief, half-pulled into a hole in the ground. Frank had a merchant's scale and a sack of 20 gems on him. The party tied a rope around the remains and hauled the skeleton free. Dougal and OJ then investigated the hole by tossing a fire sack down it — the sack fell far enough that it was barely visible and barely audible on impact, indicating a deep cave system below. Burt now carries Frank.
 
 **The Lift:** The party discovered a lift descending to dungeon levels and caves beneath the manor. These were not fully explored this session.
 
@@ -72,29 +72,47 @@ They also met **Linus Larabee** — a human fence who goes by "Double L, Give em
 
 ## Loot
 
-| Item | Holder |
-|------|--------|
-| Moongate (platinum disc, 6 red gem anchors, pearl/onyx center) | Dougal |
-| Enchanted shield | Dougal |
-| Wand of detect magic | Bruce |
-| Enchanted chainmail | Fraxiga |
-| Enchanted short bow (attribution uncertain — Fraxiga or Burt) | Fraxiga / Burt |
-| Enchanted longsword | OJ |
-| Enchanted longsword | Rowan |
-| Enchanted leather armor | Burt |
-| Brass key | Burt |
-| Large key | Burt |
-| Expensive goblet | Burt |
-| Pouch of 16 gems (8 lapaz + 8 topaz) | OJ |
-| Small silver necklace | OJ |
-| Ring | OJ |
-| 80 gp (split) | Party |
-| 30 gp (additional) | Party |
-| 2 fire sacks (from fire beetle) | Dougal |
-| Deed to manor + forged deed | Returned to Linus |
-| Standard chainmail | To sell |
-| Silver pitcher | To sell |
-| Frank (skeleton) | Burt (carried) |
+| Item | Value | Holder |
+|------|-------|--------|
+| Moongate (platinum disc, 6 red gem anchors, pearl/onyx center) | — | Dougal |
+| Enchanted shield | — | Dougal |
+| 2 fire sacks (from fire beetle) | — | Dougal |
+| 3 scrolls of Cure Light Wounds | — | Dougal |
+| 3 scrolls of Bless | — | Dougal |
+| 3 scrolls of Cure Disease | — | Dougal |
+| Cask of wine | — | Dougal |
+| 16 LVNV poker chips ("coins") | unknown | Dougal |
+| Wand of detect magic | — | Bruce |
+| Enchanted chainmail | — | Fraxiga |
+| Enchanted short bow (attribution uncertain — Fraxiga or Burt) | — | Fraxiga / Burt |
+| 2 healing potions | — | Fraxiga |
+| Enchanted longsword | — | OJ |
+| Pouch of 16 gems (8 lapis + 8 topaz) | 35 gp each | OJ |
+| Small silver necklace | 80 gp | OJ |
+| Ring | 20 gp | OJ |
+| Signet ring | 16 gp | OJ (worn) |
+| Enchanted longsword | — | Rowan |
+| 30 gp | — | Rowan |
+| Enchanted leather armor | — | Burt |
+| Brass key | — | Burt |
+| Large key | — | Burt |
+| Expensive goblet | 1,800 gp | Burt |
+| Torn black tabard (two red handprints shaped like a bird) | — | Burt (worn) |
+| 8 crystals | 7 gp each | Burt |
+| Merchant's scale (from Frank) | 50 gp | Burt |
+| Statue of a monkey | 7 gp | Burt |
+| Sack of 20 gems (from Frank) | 35 gp each | Burt (stored) |
+| 50 gp | — | Party |
+| 30 gp | — | Party |
+| 40 gp | — | Party |
+| 500 cp | — | Party |
+| Standard chainmail | 40 gp | To sell |
+| Silver pitcher | 35 gp | To sell |
+| Copper chalice | 7 gp | To sell |
+| 7 silver goblets | 5 gp each | To sell |
+| Music case with lute | 35 gp | To sell |
+| Deed to manor + forged deed | — | Returned to Linus |
+| Frank (skeleton) | — | Burt (carried) |
 
 ---
 
