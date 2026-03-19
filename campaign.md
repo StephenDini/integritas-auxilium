@@ -61,6 +61,5 @@ King Walter's swamp domain in the southeast. Were-rat culture. Walter holds Tael
 - Dungeon/cave levels beneath the Castleton cliffside manor (lift discovered, not explored)
 - The brass key and large key found in the manor have not been matched to locks
 - Enchanted short bow ownership unresolved (Fraxiga or Burt)
-- Torn black tabard (two red handprints shaped like a bird) — found in manor, worn by Burt; faction unknown
-- 16 LVNV poker chips — found in manor, held by Dougal; origin and significance unknown
+- Torn black tabard (two red handprints shaped like a bird) + 16 LVNV chips — from the eight skeletons in the manor dungeon; LVNV = Las Vegas Nevada (pre-Reckoning old world artifact); the bird-hand symbol's faction is unidentified
 - King Walter's Old Tek finds (being sabotaged by Taelendra — may contain useful artifacts)

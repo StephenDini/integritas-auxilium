@@ -24,9 +24,20 @@ The Three (Chronos, Terra, and Sol — Luna being destroyed) eventually forgave 
 - **One Magic** split into the Eight Schools of Arcane Magic
 - New gods emerged to fill the void
 
+## The True Nature of the World
+
+**The setting is post-apocalyptic Earth.** Newhon is the current name for what was once America. The Reckoning destroyed modern civilization and the world that preceded it. What the current peoples call "ancient history" and "Old Tek" is simply the technology and culture of the pre-collapse world — our world.
+
+Pre-Reckoning place names survive as artifacts and fragments:
+- **LVNV** = Las Vegas, Nevada — a major city of the old world. Items marked LVNV are pre-Reckoning artifacts originating from that location.
+- **USAF** = United States Air Force — the USAF Warriors are an order descended from or styled after this institution.
+- **North Central Positronics** — a pre-Reckoning organization/corporation.
+
+This context is largely lost to the current peoples of Newhon. Most treat Old Tek as magic or legend.
+
 ## The Current Age
 
-The main continent is **Newhon**. Large towns are rumored to be built over the ruins of Ancient cities. Pre-Reckoning artifacts ("Old Tek") survive in scattered locations — powerful, poorly understood, and dangerous.
+The main continent is **Newhon** (formerly America). Large towns are rumored to be built over the ruins of Ancient cities. Pre-Reckoning artifacts ("Old Tek") survive in scattered locations — powerful, poorly understood, and dangerous.
 
 The name "Walter" is traditionally applied to the ruler of the Kingdom of the Rat regardless of the actual ruler's name — a lineage custom or erasure of identity. The current Walter's real name may be Jeffrey.
 

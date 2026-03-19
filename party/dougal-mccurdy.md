@@ -18,7 +18,7 @@ Cleric. Carries the party's most significant items — the Moongate and the Staf
 - 3 scrolls of Bless
 - 3 scrolls of Cure Disease
 - Cask of wine
-- 16 LVNV poker chips (labeled "coins," LVNV printed on each side) — origin/significance unknown
+- 16 LVNV poker chips — pre-Reckoning artifacts from Las Vegas, Nevada (old world). Were in the eye sockets of the eight skeletons found in the manor dungeon. Current significance unknown.
 
 ## Notes
 

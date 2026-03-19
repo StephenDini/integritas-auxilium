@@ -24,7 +24,7 @@ Short. Carries a partial skeleton named Frank attached to his person. Frank was 
 - Brass key (found in Castleton manor)
 - Large key (found in Castleton manor)
 - Expensive goblet — 1,800 gp (grabbed from fountain room after disabling Water Weird trap)
-- Torn black tabard with two red handprints shaped like a bird (worn over clothes) — origin/faction unknown
+- Torn black tabard with two red handprints shaped like a bird (worn over clothes) — belonged to the group of eight skeletons found in the manor dungeon alongside Frank; faction/organization unknown
 - 8 crystals (7 gp each)
 - Merchant's scale — 50 gp (from Frank's body)
 - Statue of a monkey — 7 gp

@@ -62,7 +62,7 @@ They also met **Linus Larabee** — a human fence who goes by "Double L, Give em
 
 **Locks:** Burt picked his first lock of the campaign. He also obtained a brass key and a large key from the manor.
 
-**The Dead Thief — Frank:** The party discovered a skeleton of a dead thief, half-pulled into a hole in the ground. Frank had a merchant's scale and a sack of 20 gems on him. The party tied a rope around the remains and hauled the skeleton free. Dougal and OJ then investigated the hole by tossing a fire sack down it — the sack fell far enough that it was barely visible and barely audible on impact, indicating a deep cave system below. Burt now carries Frank.
+**The Dead Thief — Frank and the Eight Skeletons:** The party discovered a group of eight skeletons in the dungeon. The skeletons each had LVNV poker chips placed in their eye sockets — pre-Reckoning artifacts from Las Vegas, Nevada (old world). The tabard with two red handprints shaped like a bird was associated with this group, indicating they belonged to the same organization or faction. One skeleton — Frank — was half-pulled into a hole in the ground. Frank also had a merchant's scale and a sack of 20 gems on him. The party tied a rope around Frank's remains and hauled the skeleton free. Dougal and OJ then investigated the hole by tossing a fire sack down it — the sack fell far enough that it was barely visible and barely audible on impact, indicating a deep cave system below. Burt now carries Frank and wears the tabard.
 
 **The Lift:** The party discovered a lift descending to dungeon levels and caves beneath the manor. These were not fully explored this session.
 
