@@ -10,7 +10,7 @@ Currently carried by Dougal in his backpack.
 
 - **Form:** Platinum disc
 - **Perimeter:** Six red gem teleport anchors set around the edge
-- **Center:** One pearl gem and one onyx gem
+- **Center:** One pearl gem (present), one onyx gem (**missing** — receptacle is empty)
 
 ## How It Works
 

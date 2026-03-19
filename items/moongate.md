@@ -11,7 +11,7 @@ Dougal McCurdy (Cleric) — carried in his backpack.
 - **Material:** Platinum disc
 - **Marking:** *PROJECT A.R.T.E.M.I.S., (TM) North-Central Positronics, STL*
 - **Perimeter:** 6 red gem teleport anchors
-- **Center:** 1 pearl gem, 1 onyx gem
+- **Center:** 1 pearl gem (present), 1 onyx gem (**MISSING**)
 
 ## Mechanics
 
@@ -25,8 +25,8 @@ The Moongate is a teleportation network device. Each red gem anchor corresponds 
 | Red gem 4 | Unestablished | — |
 | Red gem 5 | Unestablished | — |
 | Red gem 6 | Unestablished | — |
-| Pearl (center) | Function unknown | — |
-| Onyx (center) | Function unknown | — |
+| Pearl (center) | Function unknown | Present |
+| Onyx (center) | **MISSING** — party is watching for it | — |
 
 ## Notes
 

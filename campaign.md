@@ -63,3 +63,4 @@ King Walter's swamp domain in the southeast. Were-rat culture. Walter holds Tael
 - Enchanted short bow ownership unresolved (Fraxiga or Burt)
 - Torn black tabard (two red handprints shaped like a bird) + 16 LVNV chips — from the eight skeletons in the manor dungeon; LVNV = Las Vegas Nevada (pre-Reckoning old world artifact); the bird-hand symbol's faction is unidentified
 - King Walter's Old Tek finds (being sabotaged by Taelendra — may contain useful artifacts)
+- Moongate onyx gem is missing — party is watching for it
