@@ -1,26 +1,26 @@
 # King Walter
 
-## Role
-Ruler of the Kingdom of the Rat
+## Rol
+Gobernante del Kingdom of the Rat
 
-## Location / Affiliation
-Kingdom of the Rat (southeast swamp region)
+## Ubicación / Afiliación
+Kingdom of the Rat (región pantanosa del sureste)
 
-## Description
-A were-rat. He is openly proud of this and considers himself a winner on account of it. His speech pattern is rambling, self-aggrandizing, and repetitive. He refers to his swamp as "the most luxurious swamp."
+## Descripción
+Un hombre-rata. Se enorgullece abiertamente de esto y se considera un ganador por ello. Su patrón de habla es divagante, autoenaltecedor y repetitivo. Se refiere a su pantano como "el pantano más lujoso."
 
-The name "Walter" is a title applied to every ruler of this kingdom regardless of their real name. The current Walter's actual name may be Jeffrey.
+El nombre "Walter" es un título que se aplica a cada gobernante de este reino sin importar su nombre real. El nombre real del Walter actual podría ser Jeffrey.
 
-## Known Info
+## Información conocida
 
-- Holds Taelendra ("Tinker Belle") as a "reluctant guest" aboard his deep-sea fishing ship. Taelendra and Commander Swan are separate people.
-- The arrangement: she captains his ship in exchange for food, water, and necessities. She has no choice — her curse prevents her feet from touching dry land, so the ship is both her prison and her only option.
-- Offered the party a deal: eliminate the Lizard Men from his swamp, and he will release the elf.
-- Has Old Tek finds that Taelendra routinely sabotages.
+- Retiene a Taelendra ("Tinker Belle") como "huésped involuntaria" a bordo de su barco de pesca de alta mar. Taelendra y Commander Swan son personas distintas.
+- El arreglo: ella capitanea su barco a cambio de comida, agua y artículos de primera necesidad. No tiene elección — su maldición le impide que sus pies toquen tierra firme, por lo que el barco es a la vez su prisión y su única opción.
+- Le ofreció al grupo un trato: eliminar a los Hombres Lagarto de su pantano, y él liberará a la elfa.
+- Posee hallazgos de Old Tek que Taelendra sabotea sistemáticamente.
 
-## Status
-Active. Rules from the swamp. Has not been directly confronted by the party.
+## Estado
+Activo. Gobierna desde el pantano. El grupo no se ha enfrentado directamente a él.
 
-## Images
-![portrait — were-rat king, crown, red cape, gold bracers](../images/npcs/king-walter.png)
-![original portrait (design changed)](../images/npcs/walter-original.jpg)
+## Imágenes
+![retrato — rey hombre-rata, corona, capa roja, brazaletes dorados](../images/npcs/king-walter.png)
+![retrato original (diseño modificado)](../images/npcs/walter-original.jpg)

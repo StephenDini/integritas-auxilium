@@ -1,25 +1,25 @@
 # Lockleed
 
-## Overview
+## Descripción general
 
-Lockleed is the party's starting city and the location of the Codex of Infinite Wisdom. It sits on the Shipley River. A prison raft system runs condemned prisoners downriver from here to a place called Nawlins — roughly half survive the journey.
+Lockleed es la ciudad de inicio del grupo y la ubicación del Codex of Infinite Wisdom. Se asienta sobre el río Shipley. Un sistema de balsa carcelaria envía prisioneros condenados río abajo desde aquí hasta un lugar llamado Nawlins — aproximadamente la mitad sobrevive el viaje.
 
-## Key Locations
+## Lugares clave
 
-**Nemmerle's Manor:** Grand but declining. Home of the sage Nemmerle, who holds the Codex of Infinite Wisdom. The party was recruited here by Alton at the start of the campaign.
+**Nemmerle's Manor:** Grande pero en decadencia. Hogar del sabio Nemmerle, quien guarda el Codex of Infinite Wisdom. El grupo fue reclutado aquí por Alton al inicio de la campaña.
 
-## Known Connections
+## Conexiones conocidas
 
-- The Shipley River runs through or near Lockleed. Following it south leads to the Misery River; northwest from there leads to the Mountains of Lost Ore.
-- Travel northeast approximately one week reaches Castleton.
+- El río Shipley atraviesa o pasa cerca de Lockleed. Seguirlo hacia el sur lleva al río Misery; desde ahí, al noroeste lleva a las Montañas del Mineral Perdido.
+- Viajar al noreste aproximadamente una semana llega a Castleton.
 
-## Images
-![the river gate](../images/locations/lockleed-river-gate.jpg)
-![Tower of High Wizardry (exterior)](../images/locations/tower-of-high-wizardry-lockleed.png)
-![Tower of High Wizardry (second view)](../images/locations/tower-of-high-wizardry-lockleed-2.png)
+## Imágenes
+![la puerta del río](../images/locations/lockleed-river-gate.jpg)
+![Torre de Alta Magia (exterior)](../images/locations/tower-of-high-wizardry-lockleed.png)
+![Torre de Alta Magia (segunda vista)](../images/locations/tower-of-high-wizardry-lockleed-2.png)
 
-## Campaign Significance
+## Importancia en la campaña
 
-- The Codex of Infinite Wisdom is kept here by Nemmerle.
-- A moonstone was buried here by the party as a return portal anchor for the ARTEMIS Moongate.
-- Members of the USAF Warriors (specifically Alton) operate in this area.
+- El Codex of Infinite Wisdom es custodiado aquí por Nemmerle.
+- Una piedra lunar fue enterrada aquí por el grupo como ancla de portal de regreso para el Moongate de A.R.T.E.M.I.S.
+- Miembros de los USAF Warriors (específicamente Alton) operan en esta zona.

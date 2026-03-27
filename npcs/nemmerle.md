@@ -1,24 +1,24 @@
 # Nemmerle
 
-## Role
-Sage; keeper of the Codex of Infinite Wisdom
+## Rol
+Sabio; guardián del Codex of Infinite Wisdom
 
-## Location / Affiliation
+## Ubicación / Afiliación
 Lockleed
 
-## Description
-An elderly sage. Kind and somewhat naive. His manor in Lockleed was once grand; it is now visibly declining — Nemmerle has spent the better part of his wealth in pursuit of the Codex.
+## Descripción
+Un sabio anciano. Amable y algo ingenuo. Su mansión en Lockleed fue en otro tiempo grandiosa; ahora se ve claramente en declive — Nemmerle ha gastado la mayor parte de su fortuna en la búsqueda del Codex.
 
-## Known Info
+## Información conocida
 
-- Possesses the Codex of Infinite Wisdom, which he has dedicated his life to making readable.
-- Explained to the party the Codex's glyph system: four glyphs tattooed on four Noldori students, sent to the four cardinal directions by the Four Winds.
-- Employed Alton (USAF Ranger) as his field agent for approximately 20 years.
-- Allowed the party to consult the Codex directly — none could read it.
-- Arranged for Alton to recruit the party on his behalf when he could no longer pursue the quest himself.
+- Posee el Codex of Infinite Wisdom, al que ha dedicado su vida para hacerlo legible.
+- Le explicó al grupo el sistema de glifos del Codex: cuatro glifos tatuados en cuatro estudiantes Noldori, enviados a los cuatro puntos cardinales por los Cuatro Vientos.
+- Empleó a Alton (USAF Ranger) como su agente de campo durante aproximadamente 20 años.
+- Permitió que el grupo consultara el Codex directamente — ninguno pudo leerlo.
+- Organizó que Alton reclutara al grupo en su nombre cuando ya no podía continuar la búsqueda por sí mismo.
 
-## Status
-Active. Remains in Lockleed at his manor.
+## Estado
+Activo. Permanece en su mansión de Lockleed.
 
-## Images
-![portrait](../images/npcs/nemmerle.png)
+## Imágenes
+![retrato](../images/npcs/nemmerle.png)

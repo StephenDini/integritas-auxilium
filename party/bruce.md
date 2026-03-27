@@ -1,17 +1,17 @@
 # Bruce
 
-**Class:** Wizard
-**Level:** 6
+**Clase:** Wizard
+**Nivel:** 6
 **XP:** 25,531
 
-## Description
+## Descripción
 
-No last name on record. A key story figure — full details not yet confirmed. Was referred to as "Mage" in early notes; class is Wizard.
+Sin apellido registrado. Una figura clave en la historia — los detalles completos aún no están confirmados. Se le mencionó como "Mago" en las notas tempranas; su clase es Wizard.
 
-## Equipment (from Session 1)
+## Equipo (de la Sesión 1)
 
-- Wand of detect magic
+- Varita de detectar magia
 
-## Notes
+## Notas
 
-- Details to be filled from Discord archive.
+- Los detalles se completarán desde el archivo de Discord.

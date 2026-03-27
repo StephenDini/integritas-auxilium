@@ -1,21 +1,21 @@
 # Fraxiga
 
-**Class:** Wood Elf
-**Level:** 6
+**Clase:** Wood Elf
+**Nivel:** 6
 **XP:** 25,531
 
-## Description
+## Descripción
 
-Wood Elf. Name spelling is uncertain across sources — also seen as "Forxiga."
+Wood Elf. La ortografía del nombre es incierta entre las fuentes — también se ha visto como "Forxiga."
 
-## Equipment (from Session 1)
+## Equipo (de la Sesión 1)
 
-- Enchanted chainmail
-- Enchanted short bow (attribution uncertain — may be Burt's)
-- 2 healing potions
+- Cota de malla encantada
+- Arco corto encantado (atribución incierta — podría ser de Burt)
+- 2 pociones de curación
 
-## Notes
+## Notas
 
-- Found the secret passages in the Castleton cliffside manor in Session 1.
-- Short bow ownership is unresolved between Fraxiga and Burt.
-- Further details to be filled from Discord archive.
+- Encontró los pasajes secretos en la mansión en los acantilados de Castleton en la Sesión 1.
+- La propiedad del arco corto no está resuelta entre Fraxiga y Burt.
+- Más detalles se completarán desde el archivo de Discord.

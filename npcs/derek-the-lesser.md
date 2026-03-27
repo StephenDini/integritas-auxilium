@@ -1,21 +1,21 @@
 # Derek the Lesser
 
-## Role
-Spirit; former cleric of Whitman
+## Rol
+Espíritu; antiguo Cleric de Whitman
 
-## Location / Affiliation
-Deceased — spirit. Formerly served the Whitman/Threshold area, hundreds of years ago.
+## Ubicación / Afiliación
+Fallecido — espíritu. Anteriormente servía al área de Whitman/Threshold, hace cientos de años.
 
-## Description
-A cleric who served the area that would become Threshold back when it was still called Whitman. Dead for hundreds of years. His spirit appeared when someone gripped his staff — time slowed, and Derek manifested.
+## Descripción
+Un Cleric que servía al área que se convertiría en Threshold cuando aún se llamaba Whitman. Muerto hace cientos de años. Su espíritu se manifestó cuando alguien tomó su bastón — el tiempo se ralentizó y Derek apareció.
 
-He could not take the staff with him where he is now. He gave it to the party.
+No podía llevarse el bastón consigo adonde se encuentra ahora. Se lo entregó al grupo.
 
-## Known Info
+## Información conocida
 
-- His staff is the Staff of Healing; see items/staff-of-healing.md.
-- He was a divine spellcaster in service to the region, centuries before the current age.
-- His spirit has not reappeared since the initial encounter.
+- Su bastón es el Staff of Healing; ver items/staff-of-healing.md.
+- Era un lanzador de conjuros divinos al servicio de la región, siglos antes de la era actual.
+- Su espíritu no ha vuelto a aparecer desde el encuentro inicial.
 
-## Status
-Dead (centuries). Spirit appeared once.
+## Estado
+Muerto (hace siglos). El espíritu apareció una vez.

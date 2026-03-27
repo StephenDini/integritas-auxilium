@@ -1,36 +1,36 @@
 # Valen
 
-## Role
-Wanted — rogue druid/elf; former member of Radamanthus's order
+## Rol
+Buscado — druida/elfo renegado; ex miembro de la orden de Radamanthus
 
-## Location / Affiliation
-Unknown. Last known heading: fled after attacking the druid order. Was mapping forest near the Nemmex Desert.
+## Ubicación / Afiliación
+Desconocida. Último rumbo conocido: huyó tras atacar la orden druídica. Estaba cartografiando el bosque cerca del Desierto de Nemmex.
 
-## Description
-An elf. Member of Radamanthus's druid order until his corruption. He left behind his bow and armor when he fled.
+## Descripción
+Un elfo. Miembro de la orden druídica de Radamanthus hasta su corrupción. Dejó atrás su arco y su armadura cuando huyó.
 
-## Known Info
+## Información conocida
 
-**Sequence of events:**
-1. Valen was mapping forest on the edge of the Nemmex Desert when he found a spider amulet.
-2. He became secretive and quick to anger.
-3. He became hostile — acquired a shadowy companion.
-4. He stole the druid staff from Radamanthus's order.
-5. He fled.
-6. Shortly after his departure, trolls attacked and slaughtered the entire druid order.
+**Secuencia de eventos:**
+1. Valen estaba cartografiando el bosque en el límite del Desierto de Nemmex cuando encontró un amuleto de araña.
+2. Se volvió reservado y propenso a la ira.
+3. Se volvió hostil — adquirió un compañero sombrío.
+4. Robó el bastón druídico de la orden de Radamanthus.
+5. Huyó.
+6. Poco después de su partida, los trolls atacaron y masacraron a toda la orden druídica.
 
-The connection between Valen's departure and the troll attack is implied but not confirmed as direct causation.
+La conexión entre la partida de Valen y el ataque de los trolls está implícita, pero no confirmada como causalidad directa.
 
-**Wanted:** Dead or alive. Quest given to the party by Radamanthus.
+**Buscado:** Vivo o muerto. Misión entregada al grupo por Radamanthus.
 
-**Using him as bait:** Valen left his bow and armor behind. Raynor has these items (or has access to them) and eyes them with distrust. They can be used to draw Valen out — he may come back for them.
+**Usarlo como cebo:** Valen dejó su arco y su armadura. Raynor tiene estos objetos (o acceso a ellos) y los observa con desconfianza. Pueden usarse para atraer a Valen — puede que regrese por ellos.
 
-**Shadowy companion:** Unknown identity.
+**Compañero sombrío:** Identidad desconocida.
 
-**Spider amulet:** Origin and nature unknown. Appeared to corrupt him rapidly.
+**Amuleto de araña:** Origen y naturaleza desconocidos. Al parecer lo corrompió rápidamente.
 
-## Status
-At large. Whereabouts unknown. Wanted dead or alive.
+## Estado
+En libertad. Paradero desconocido. Buscado vivo o muerto.
 
-## Images
-![his bow, left behind when he fled; currently held by Raynor](../images/items/valens-bow.png)
+## Imágenes
+![su arco, dejado atrás cuando huyó; actualmente en poder de Raynor](../images/items/valens-bow.png)

@@ -1,19 +1,19 @@
 # Radamanthus
 
-## Role
-Druid; quest-giver (Valen bounty)
+## Rol
+Druida; dador de misión (recompensa de Valen)
 
-## Location / Affiliation
-Unknown. His druid order was based in or near the forest bordering the Nemmex Desert.
+## Ubicación / Afiliación
+Desconocida. Su orden druídica estaba radicada en el bosque que bordea el Desierto de Nemmex, o cerca de él.
 
-## Description
-A druid. He was asking about Valen when the party encountered him. He tasked the party with bringing Valen to justice, dead or alive.
+## Descripción
+Un druida. Estaba preguntando por Valen cuando el grupo lo encontró. Le encargó al grupo traer a Valen ante la justicia, vivo o muerto.
 
-## Known Info
+## Información conocida
 
-- His druid order was slaughtered by trolls after Valen fled. Trolls attacked and killed everyone.
-- He was either the sole survivor or encountered the party before the slaughter — the timeline is unclear.
-- He gave the party the quest to find Valen. Valen's bow and armor (left behind when Valen fled) can be used as bait.
+- Su orden druídica fue masacrada por trolls después de que Valen huyera. Los trolls atacaron y mataron a todos.
+- Él era el único superviviente o encontró al grupo antes de la masacre — la cronología no está clara.
+- Le dio al grupo la misión de encontrar a Valen. El arco y la armadura de Valen (dejados atrás cuando huyó) pueden usarse como cebo.
 
-## Status
-Uncertain. The source notes indicate trolls "slaughtered the entire order." Whether Radamanthus personally survived is not confirmed.
+## Estado
+Incierto. Las notas de origen indican que los trolls "masacraron a toda la orden." No está confirmado si Radamanthus sobrevivió personalmente.

@@ -1,29 +1,29 @@
 # Threshold
 
-## Overview
+## Descripción general
 
-Threshold is a settlement in the northwest, at the feet of the Mountains of Lost Ore. It serves as the frontier of civilization — the boundary between law and chaos, order and savagery. The party has been directed here to find Commander Swan.
+Threshold es un asentamiento en el noroeste, al pie de las Montañas del Mineral Perdido. Funciona como la frontera de la civilización — el límite entre la ley y el caos, el orden y la barbarie. El grupo ha sido dirigido aquí para encontrar al Comandante Swan.
 
-## Location
+## Ubicación
 
-Northwest region. Follow the Shipley River south to the Misery River, then northwest toward the Mountains of Lost Ore. Threshold sits on the near side of those mountains. The far side is The Big Gulp.
+Región noroeste. Seguir el río Shipley hacia el sur hasta el río Misery, luego hacia el noroeste en dirección a las Montañas del Mineral Perdido. Threshold se asienta en el lado cercano de esas montañas. El lado lejano es The Big Gulp.
 
-The surrounding region features verdant farmlands, fresh water, and relatively easy terrain — though goblinoid raids are a known threat.
+La región circundante presenta tierras de cultivo fértiles, agua dulce y terreno relativamente fácil — aunque los ataques de goblinoides son una amenaza conocida.
 
-## Commander Swan's Statement on Threshold
+## Declaración del Comandante Swan sobre Threshold
 
-> "Threshold was originally Whitman. I wanted to change that, make it bigger than a person. People can come and go, but ideas; ideas persist. This is the threshold of civilization. This is where law stands before chaos. Good before evil. Civility before savagery."
+> "Threshold era originalmente Whitman. Quería cambiarlo, hacerlo más grande que una persona. Las personas pueden ir y venir, pero las ideas; las ideas persisten. Este es el umbral de la civilización. Aquí es donde la ley se enfrenta al caos. El bien ante el mal. La civilidad ante la barbarie."
 
-*(attributed to Commander Swan, Voronwë)*
+*(atribuido al Comandante Swan, Voronwë)*
 
-The settlement was previously called Whitman. Swan renamed it Threshold.
+El asentamiento anteriormente se llamaba Whitman. Swan lo renombró Threshold.
 
-## Key Factions
+## Facciones clave
 
-- **Silverwood Elves / Silverwood Sentinels:** Swan commands or commanded this force. The elves of Silverwood are grateful to the party for clearing the Whispering Caves and freeing hostages. Swan extended the Silverwood Elves' ongoing support to the party.
-- **The Whispering Caves:** A dungeon near Threshold, cleared by the party at some point before the archive began. Monstrous incursions from those caves have stopped as a result. Swan sent a letter to Linus Larabee acknowledging this.
+- **Elfos de Silverwood / Silverwood Sentinels:** Swan comanda o comandó esta fuerza. Los elfos de Silverwood están agradecidos con el grupo por limpiar las Cuevas Susurrantes y liberar rehenes. Swan extendió el apoyo continuo de los Elfos de Silverwood al grupo.
+- **Las Cuevas Susurrantes:** Una mazmorra cerca de Threshold, limpiada por el grupo en algún momento antes de que comenzara el archivo. Las incursiones monstruosas de esas cuevas han cesado como resultado. Swan envió una carta a Linus Larabee reconociendo esto.
 
-## Known NPCs
+## PNJs conocidos
 
-- **Commander Swan (Voronwë)** — leads this outpost; male Noldori; see npcs/commander-swan.md
-- **Rusty** — Swan's bailiff; see npcs/rusty.md
+- **Comandante Swan (Voronwë)** — lidera este puesto avanzado; Noldori masculino; ver npcs/commander-swan.md
+- **Rusty** — alguacil de Swan; ver npcs/rusty.md

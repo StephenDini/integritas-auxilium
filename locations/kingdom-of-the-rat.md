@@ -1,67 +1,67 @@
 # Kingdom of the Rat
 
-## Overview
+## Descripción general
 
-The Kingdom of the Rat is King Walter's domain in the southeast. It is swampy, hot, and dangerous. The ruling class are were-rats; Walter is openly one and considers it a point of pride. The name "Walter" is applied to every ruler of this kingdom regardless of their actual name — the current Walter's real name may be Jeffrey.
+El Kingdom of the Rat es el dominio del Rey Walter en el sureste. Es pantanoso, caluroso y peligroso. La clase gobernante son hombres-rata; Walter lo es abiertamente y lo considera un motivo de orgullo. El nombre "Walter" se aplica a cada gobernante de este reino sin importar su nombre real — el nombre verdadero del Walter actual podría ser Jeffrey.
 
-## Culture and Society
+## Cultura y sociedad
 
-**The Ratters** are the people of this kingdom. Their customs:
-- Greeting: "Be Seeing You"
-- Gesture: make an "okay" symbol over one eye
+**Los Ratters** son el pueblo de este reino. Sus costumbres:
+- Saludo: "Be Seeing You"
+- Gesto: hacer el símbolo de "okay" sobre un ojo
 
-Someone is tracking the party — Ratfolk were found carrying a scroll with drawings of the party members (discovered by Raynor).
+Alguien está rastreando al grupo — se encontró a Ratfolk portando un pergamino con dibujos de los miembros del grupo (descubierto por Raynor).
 
-## Known Locations
+## Lugares conocidos
 
 ### Linea Rubra
 
-A waterfront district or establishment. House rules posted:
-- No credit
-- No Dogs
-- No Elfs
+Un distrito costero o establecimiento. Reglas de la casa publicadas:
+- Sin crédito
+- Sin perros
+- Sin Elfs
 
-Known staff:
-- **Black Pete** — albino waiter
-- Drink available: **Goblin Piss** (1 cp)
+Personal conocido:
+- **Black Pete** — camarero albino
+- Bebida disponible: **Goblin Piss** (1 cp)
 
-See locations/linea-rubra.md for images.
+Ver locations/linea-rubra.md para imágenes.
 
 ### The Prison Raft
 
-Lockleed sends condemned prisoners downriver. The raft floats them to a place called Nawlins. Roughly half survive the journey. The raft is the legal mechanism for Lockleed's justice system.
+Lockleed envía prisioneros condenados río abajo. La balsa los lleva a un lugar llamado Nawlins. Aproximadamente la mitad sobrevive el viaje. La balsa es el mecanismo legal del sistema de justicia de Lockleed.
 
-## Known NPCs and People
+## PNJs y personas conocidas
 
-- **King Walter** — were-rat ruler; see npcs/king-walter.md
-- **Sandoval ("Sandy")** — swamp guide. The party can buy his freedom. Note: the bartender who found Sandy and gave him his opportunity will punch Sandy and ban him if the party buys his freedom.
-- **Ezekiel ("Zeke")** — map seller
-- **Black Pete** — albino waiter at Linea Rubra
-- **Aris** — leader of the centaur group in the swamp
+- **Rey Walter** — gobernante hombre-rata; ver npcs/king-walter.md
+- **Sandoval ("Sandy")** — guía del pantano. El grupo puede comprar su libertad. Nota: el cantinero que encontró a Sandy y le dio su oportunidad le dará un puñetazo y lo vetará si el grupo compra su libertad.
+- **Ezekiel ("Zeke")** — vendedor de mapas
+- **Black Pete** — camarero albino en Linea Rubra
+- **Aris** — líder del grupo de centauros en el pantano
 
-## Centaurs
+## Centauros
 
-A group of centaurs lives in the swamp. They speak Sylvan. Their leader is Aris. They conduct silver stab tests — to determine whether someone is a were-rat (were-creatures react to silver).
+Un grupo de centauros vive en el pantano. Hablan Silvano. Su líder es Aris. Realizan pruebas de puñalada de plata — para determinar si alguien es un hombre-rata (las criaturas fueron son sensibles a la plata).
 
-## Swamp Conditions
+## Condiciones del pantano
 
-Traveling through this region is hazardous:
-- Moist and hot
-- Heavy insect presence
-- Infected wounds can cause fever and delirium
-- Raft travel possible but equipment can be damaged
-- Spirits inhabit the trees
+Viajar por esta región es peligroso:
+- Húmedo y caluroso
+- Gran presencia de insectos
+- Las heridas infectadas pueden causar fiebre y delirio
+- El viaje en balsa es posible pero el equipo puede dañarse
+- Los espíritus habitan los árboles
 
-## The Lizard Men Problem
+## El problema de los Lizard Men
 
-King Walter has a problem with Lizard Men in his swamp. He offered the party a deal: eliminate the Lizard Men, and he will release the Noldori elf he holds captive ("a reluctant guest" — Taelendra).
+El Rey Walter tiene un problema con los Lizard Men en su pantano. Ofreció al grupo un trato: eliminar a los Lizard Men, y liberará a la elfa Noldori que mantiene cautiva ("una invitada reticente" — Taelendra).
 
-**How to deal with Lizard Folk** (per Raynor): Hold both hands open above your head. Lay your cloak on the ground. Place trade goods on the cloak. Do not haggle more than once. Raynor also suggested putting color bands on Burt and blood or paint lines under his eyes — with Frank the skeleton making Burt resemble a shaman, this may help in negotiations.
+**Cómo tratar con los Lizard Folk** (según Raynor): Mantener ambas manos abiertas por encima de la cabeza. Colocar la capa en el suelo. Poner mercancías de intercambio sobre la capa. No regatear más de una vez. Raynor también sugirió poner bandas de color en Burt y líneas de sangre o pintura debajo de sus ojos — con Frank el esqueleto haciendo que Burt parezca un chamán, esto puede ayudar en las negociaciones.
 
-## Images
+## Imágenes
 
-See locations/walters-kingdom.md for full image set (6 images: carousel, founder statue, etc.).
+Ver locations/walters-kingdom.md para el conjunto completo de imágenes (6 imágenes: carrusel, estatua del fundador, etc.).
 
-## Walter's Captive
+## El cautivo de Walter
 
-King Walter holds a Noldori elf — Taelendra — as a "reluctant guest." He calls her "Tinker Belle." She captains his deep-sea fishing ship in exchange for food, water, and necessities. She sabotages his Old Tek finds. She wants to be free.
+El Rey Walter retiene a una elfa Noldori — Taelendra — como "invitada reticente." Él la llama "Tinker Belle." Ella capitanea su barco de pesca de alta mar a cambio de comida, agua y artículos de primera necesidad. Ella sabotea sus hallazgos de Old Tek. Quiere ser libre.

@@ -1,30 +1,30 @@
-# The Moongate (ARTEMIS Disc)
+# The Moongate (Disco ARTEMIS)
 
-## Overview
+## Descripción General
 
-The Moongate is a pre-Reckoning teleportation artifact created by North Central Positronics as part of **PROJECT A.R.T.E.M.I.S.** It is a platinum disc engraved or stamped: *PROJECT A.R.T.E.M.I.S., (TM) North-Central Positronics, STL.*
+El Moongate es un artefacto de teletransportación pre-Reckoning creado por North Central Positronics como parte del **PROJECT A.R.T.E.M.I.S.** Es un disco de platino grabado o estampado con la leyenda: *PROJECT A.R.T.E.M.I.S., (TM) North-Central Positronics, STL.*
 
-Currently carried by Dougal in his backpack.
+Actualmente lo lleva Dougal en su mochila.
 
-## Physical Description
+## Descripción Física
 
-- **Form:** Platinum disc
-- **Perimeter:** Six red gem teleport anchors set around the edge
-- **Center:** One pearl gem (present), one onyx gem (**missing** — receptacle is empty)
+- **Forma:** Disco de platino
+- **Perímetro:** Seis anclas de teletransporte con gemas rojas fijadas alrededor del borde
+- **Centro:** Una gema de perla (presente), una gema de ónix (**desaparecida** — el receptáculo está vacío)
 
-## How It Works
+## Cómo Funciona
 
-The Moongate functions as a network of teleportation anchors. Each red gem corresponds to a fixed location where a moonstone has been buried or placed. Activating the disc at one anchor transports the user to the corresponding location.
+El Moongate funciona como una red de anclas de teletransportación. Cada gema roja corresponde a una ubicación fija donde se ha enterrado o colocado una piedra lunar. Activar el disco en una ancla transporta al usuario a la ubicación correspondiente.
 
-**Known anchors established:**
-- One moonstone buried in Lockleed (return portal to starting location)
+**Anclas establecidas conocidas:**
+- Una piedra lunar enterrada en Lockleed (portal de regreso al punto de partida)
 
-Five additional red gem anchor slots remain unused or unestablished.
+Quedan cinco ranuras adicionales de ancla de gema roja sin usar o sin establecer.
 
-The pearl and onyx center gems' functions have not yet been fully determined.
+Las funciones de las gemas centrales de perla y ónix aún no han sido completamente determinadas.
 
-## Notes
+## Notas
 
-- Taelendra ("Tinker Belle") has knowledge of Moongates — she may be able to provide additional operational details.
-- The disc is described as Old Tek — pre-Reckoning technology from North Central Positronics. It predates the current magical system.
-- Orientation and gem alignment appear to matter for North Central Positronics items generally (see: Rowan's sword gem). Handle with care.
+- Taelendra ("Tinker Belle") tiene conocimiento de los Moongates — puede ser capaz de proporcionar detalles operativos adicionales.
+- El disco se describe como Old Tek — tecnología pre-Reckoning de North Central Positronics. Es anterior al sistema mágico actual.
+- La orientación y la alineación de las gemas parecen ser importantes para los objetos de North Central Positronics en general (véase: la gema de la espada de Rowan). Manipular con cuidado.

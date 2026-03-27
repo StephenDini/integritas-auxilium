@@ -1,40 +1,40 @@
 # The Codex of Infinite Wisdom
 
-## What It Is
+## Qué Es
 
-The Codex of Infinite Wisdom is an ancient tome of pre-Reckoning origin. It contains knowledge that — if legible — would be of extraordinary value. The party's central quest is to make it readable.
+El Codex of Infinite Wisdom es un tomo antiguo de origen pre-Reckoning. Contiene conocimiento que — si fuera legible — tendría un valor extraordinario. La misión central del grupo es hacerlo legible.
 
-It currently resides in Lockleed in the care of the sage Nemmerle, who has spent the better part of his wealth and life pursuing it.
+Actualmente reside en Lockleed bajo el cuidado del sabio Nemmerle, quien ha dedicado gran parte de su riqueza y vida a perseguirlo.
 
-## The Problem
+## El Problema
 
-The Codex's text cannot be read without its translation mechanism. Every party member who consulted it in Session 1 saw only unreadable script.
+El texto del Codex no puede leerse sin su mecanismo de traducción. Cada miembro del grupo que lo consultó en la Sesión 1 vio únicamente escritura ilegible.
 
-## The Glyph System
+## El Sistema de Glifos
 
-A Noldori master created a translation scroll for the Codex. He divided that scroll into **four glyphs** and had each glyph tattooed onto one of his four Noldori students. He then sent all four students to the cardinal directions — North, South, East, West — via the Four Winds.
+Un maestro Noldori creó un pergamino de traducción para el Codex. Dividió ese pergamino en **cuatro glifos** y mandó tatuar cada glifo en uno de sus cuatro estudiantes Noldori. Luego envió a los cuatro estudiantes hacia los puntos cardinales — Norte, Sur, Este, Oeste — mediante los Cuatro Vientos.
 
-All four glyphs, on all four Noldori, are required to read the Codex. The glyphs are tattoos on living people; they cannot be separated from the elves who carry them.
+Los cuatro glifos, en los cuatro Noldori, son necesarios para leer el Codex. Los glifos son tatuajes en personas vivas; no pueden separarse de los elfos que los portan.
 
-## What Happened to the Master
+## Qué Le Pasó al Maestro
 
-The master's Keep was destroyed in battle with a warlord. Both the warlord and the master disappeared. The Codex survived the battle and eventually came into Nemmerle's possession.
+El Keep del maestro fue destruido en batalla con un señor de la guerra. Tanto el señor de la guerra como el maestro desaparecieron. El Codex sobrevivió la batalla y con el tiempo llegó a poder de Nemmerle.
 
-## The Four Noldori
+## Los Cuatro Noldori
 
-The current known locations or identities of the glyph-bearers:
+Las ubicaciones o identidades conocidas actualmente de los portadores de glifos:
 
-| Direction | Identity | Status |
-|-----------|----------|--------|
-| Unknown | Commander Swan (Voronwë) | At Threshold; male |
-| Unknown | Taelendra ("Tinker Belle") | Captive aboard ship under King Walter; female |
-| Unknown | Unknown | — |
-| Unknown | Unknown | — |
+| Dirección | Identidad | Estado |
+|-----------|-----------|--------|
+| Desconocida | Commander Swan (Voronwë) | En Threshold; masculino |
+| Desconocida | Taelendra ("Tinker Belle") | Cautiva a bordo de un barco bajo King Walter; femenina |
+| Desconocida | Desconocido | — |
+| Desconocida | Desconocido | — |
 
-Swan and Taelendra are two separate Noldori. The party has been directed to Threshold to find Swan. Taelendra is held captive by King Walter in the swamp.
+Swan y Taelendra son dos Noldori distintos. El grupo fue dirigido a Threshold para encontrar a Swan. Taelendra está retenida cautiva por King Walter en el pantano.
 
-## Nemmerle's Role
+## El Papel de Nemmerle
 
-Nemmerle is an elderly sage who has dedicated his life and fortune to the Codex. His manor in Lockleed is visibly declining — the money is gone. He arranged for USAF Ranger Alton to recruit capable adventurers to undertake the quest he cannot complete himself.
+Nemmerle es un sabio anciano que ha dedicado su vida y fortuna al Codex. Su mansión en Lockleed está visiblemente deteriorada — el dinero se ha agotado. Organizó que el Ranger de los USAF Warriors, Alton, reclutara a aventureros capaces para emprender la misión que él mismo no puede completar.
 
-He explained the glyph system to the party and entrusted them with the ARTEMIS Moongate disc to aid their travel.
+Explicó el sistema de glifos al grupo y les confió el disco Moongate de ARTEMIS para facilitar sus viajes.

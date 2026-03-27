@@ -1,22 +1,22 @@
 # Walter's Kingdom
 
-## Overview
+## Descripción general
 
-The Kingdom of the Rat, ruled by King Walter. Located in a southeast swamp region. The kingdom occupies the flooded ruins of a pre-Reckoning entertainment complex — a theme park. Key landmarks include a functioning (or semi-functioning) carousel, roller coaster ruins overgrown with swamp vegetation, and a large stone statue of the park's founder: a suited man with a hat, hand raised, accompanied by a small mouse figure at his side.
+El Kingdom of the Rat, gobernado por el Rey Walter. Ubicado en una región pantanosa del sureste. El reino ocupa las ruinas inundadas de un complejo de entretenimiento anterior al Reckoning — un parque temático. Los puntos de referencia clave incluyen un carrusel en funcionamiento (o semi-funcionamiento), ruinas de una montaña rusa invadidas por vegetación pantanosa, y una gran estatua de piedra del fundador del parque: un hombre trajeado con sombrero, con la mano levantada, acompañado de una pequeña figura de ratón a su lado.
 
-Walter refers to his domain as "the most luxurious swamp."
+Walter se refiere a su dominio como "el pantano más lujoso."
 
-## Known Info
+## Información conocida
 
-- King Walter rules from here.
-- Taelendra's ship operates out of or around this area — she captains Walter's fishing operation.
-- The party has been offered a deal: clear Lizard Men from the swamp in exchange for Taelendra's release.
+- El Rey Walter gobierna desde aquí.
+- El barco de Taelendra opera dentro de o alrededor de esta zona — ella capitanea la operación pesquera de Walter.
+- Se le ofreció al grupo un trato: limpiar a los Lizard Men del pantano a cambio de la liberación de Taelendra.
 
-For full campaign detail (NPCs, culture, Lizard Men situation, centaurs, swamp hazards): see locations/kingdom-of-the-rat.md
+Para detalles completos de la campaña (PNJs, cultura, situación con los Lizard Men, centauros, peligros del pantano): ver locations/kingdom-of-the-rat.md
 
-## Images
-![flooded carousel in swamp](../images/locations/walters-kingdom.png)
-![moss-covered founder statue with mouse figure](../images/locations/walters-kingdom-2.png)
-![the castle — dark, overgrown with vines, stormy sky](../images/locations/walters-kingdom-3.png)
-![large domed structure, half-submerged in swamp water](../images/locations/walters-kingdom-4.png)
-![overgrown roller coaster tower in the swamp](../images/locations/walters-kingdom-5.png)
+## Imágenes
+![carrusel inundado en el pantano](../images/locations/walters-kingdom.png)
+![estatua del fundador cubierta de musgo con figura de ratón](../images/locations/walters-kingdom-2.png)
+![el castillo — oscuro, cubierto de enredaderas, cielo tormentoso](../images/locations/walters-kingdom-3.png)
+![gran estructura abovedada, medio sumergida en el agua del pantano](../images/locations/walters-kingdom-4.png)
+![torre de montaña rusa invadida por la vegetación en el pantano](../images/locations/walters-kingdom-5.png)

@@ -1,22 +1,22 @@
 # Simon
 
-## Role
-Magistrate; Linus Larabee's brother
+## Rol
+Magistrado; hermano de Linus Larabee
 
-## Location / Affiliation
-Unknown; likely regional legal authority
+## Ubicación / Afiliación
+Desconocida; probablemente autoridad legal regional
 
-## Description
-Older man with gray beard. Scholarly. Studies documents by candlelight.
+## Descripción
+Hombre mayor con barba gris. Estudioso. Examina documentos a la luz de una vela.
 
-## Known Info
+## Información conocida
 
-- Brother of Linus Larabee.
-- Holds a position as magistrate — legal authority in his area.
-- No further details confirmed.
+- Hermano de Linus Larabee.
+- Ocupa un cargo de magistrado — autoridad legal en su área.
+- No se han confirmado más detalles.
 
-## Status
-Unknown.
+## Estado
+Desconocido.
 
-## Images
-![portrait](../images/npcs/simon-magistrate.png)
+## Imágenes
+![retrato](../images/npcs/simon-magistrate.png)

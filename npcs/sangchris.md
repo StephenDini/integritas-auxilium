@@ -1,18 +1,18 @@
 # Sangchris
 
-## Role
-Antagonist; evil cleric
+## Rol
+Antagonista; Cleric malvado
 
-## Location / Affiliation
-Encountered at the Keep on the Borderlands
+## Ubicación / Afiliación
+Encontrado en el Keep on the Borderlands
 
-## Description
-An evil cleric and pyromaniac zealot. He believed that the world must be burned to ash so that it could be reborn — a philosophy symbolized by the phoenix. Phoenix imagery was associated with him.
+## Descripción
+Un Cleric malvado y zelote pirómano. Creía que el mundo debía arder en cenizas para poder renacer — una filosofía simbolizada por el fénix. La imaginería del fénix estaba asociada con él.
 
-## Known Info
+## Información conocida
 
-- Encountered at the Keep.
-- Matt bashed his head in. He is dead.
+- Encontrado en el Keep.
+- Matt le destrozó la cabeza. Está muerto.
 
-## Status
-Dead.
+## Estado
+Muerto.

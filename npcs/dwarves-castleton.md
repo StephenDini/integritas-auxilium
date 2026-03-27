@@ -1,27 +1,27 @@
-# The Castleton Dwarves
+# Los Enanos de Castleton
 
-## Role
-Veteran adventurers; regulars at the Cloak & Stagger
+## Rol
+Aventureros veteranos; clientes habituales del Cloak & Stagger
 
-## Location / Affiliation
-Castleton — the Cloak & Stagger bar
+## Ubicación / Afiliación
+Castleton — el bar Cloak & Stagger
 
-## Description
+## Descripción
 
-Three dwarves encountered at the Cloak & Stagger in Castleton during Session 1. The party bought them Skull Splitters. They are old adventurers.
+Tres enanos encontrados en el Cloak & Stagger de Castleton durante la Sesión 1. El grupo les compró Skull Splitters. Son aventureros de larga trayectoria.
 
-| Name | Nickname |
-|------|----------|
+| Nombre | Apodo |
+|--------|-------|
 | Nicholas | Ironpants |
 | Tavin | Dragonbailt |
 | Kim Hammerhand | Happy |
 
-The Hammerhand name also appears with Grell Hammerhand (one-eyed dwarf) — Kim and Grell may be related.
+El apellido Hammerhand también aparece con Grell Hammerhand (enano tuerto) — Kim y Grell podrían ser parientes.
 
-## Known Info
+## Información conocida
 
-- They pointed the party toward Linus Larabee.
-- Based in Castleton.
+- Dirigieron al grupo hacia Linus Larabee.
+- Radicados en Castleton.
 
-## Status
-Active. Based in Castleton.
+## Estado
+Activos. Radicados en Castleton.

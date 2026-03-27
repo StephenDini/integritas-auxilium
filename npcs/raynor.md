@@ -1,29 +1,29 @@
 # Raynor
 
-## Role
+## Rol
 USAF Warrior / Ranger
 
-## Location / Affiliation
-Southern forest and northern swamps. Regularly travels between Stella Solis and Two Sons.
+## Ubicación / Afiliación
+Bosque del sur y pantanos del norte. Viaja regularmente entre Stella Solis y Two Sons.
 
-## Description
-A ranger affiliated with the USAF Warriors. Operates in the south — forest and swamp borderlands. He is cautious about NPCs: notably, he eyes Valen's bow with visible distrust.
+## Descripción
+Un Ranger afiliado a los USAF Warriors. Opera en el sur — zonas fronterizas entre bosque y pantano. Es cauteloso respecto a los NPCs: notablemente, observa el arco de Valen con visible desconfianza.
 
-## Known Info
+## Información conocida
 
-- Travels between **Stella Solis** (run by Jefferson Thomas, Tayhas Ranger — good bounties available; see locations/stella-solis.md and npcs/jefferson-thomas.md) and **Two Sons** (a free-wheeling border town).
-- Discovered a scroll among Ratfolk that contains drawings of the party — someone is tracking them.
-- Knows the customs for dealing with Lizard Folk:
-  - Hold both hands open above your head
-  - Lay your cloak on the ground
-  - Place trade goods on the cloak
-  - Do not haggle more than once
-  - Suggested putting color bands on Burt and blood/paint lines under his eyes — with Frank the skeleton, this gives Burt the appearance of a shaman, which may help in negotiations
-- Can teach fighters to switch to the Ranger class.
-- Knows: Alton, Linus Larabee, Grell Hammerhand, Jefferson Thomas.
+- Viaja entre **Stella Solis** (dirigida por Jefferson Thomas, Tayhas Ranger — buenas recompensas disponibles; ver locations/stella-solis.md y npcs/jefferson-thomas.md) y **Two Sons** (una ciudad fronteriza de ambiente libre).
+- Encontró entre los Ratfolk un pergamino que contiene dibujos del grupo — alguien los está rastreando.
+- Conoce las costumbres para tratar con los Hombres Lagarto:
+  - Mantener ambas manos abiertas por encima de la cabeza
+  - Colocar la capa en el suelo
+  - Poner los artículos de intercambio sobre la capa
+  - No regatear más de una vez
+  - Sugirió ponerle bandas de colores a Burt y líneas de sangre/pintura bajo sus ojos — junto con Frank el esqueleto, esto le da a Burt la apariencia de un chamán, lo que podría ayudar en las negociaciones
+- Puede enseñar a los Fighter a cambiar a la clase Ranger.
+- Conoce a: Alton, Linus Larabee, Grell Hammerhand, Jefferson Thomas.
 
-## Status
-Active. Operating in the southern forest and swamp region.
+## Estado
+Activo. Opera en la región del bosque y el pantano del sur.
 
-## Images
-![portrait](../images/npcs/raynor.png)
+## Imágenes
+![retrato](../images/npcs/raynor.png)

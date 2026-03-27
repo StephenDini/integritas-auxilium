@@ -1,37 +1,37 @@
 # Burton Guster (Burt)
 
-**Class:** Thief
-**Level:** 6
+**Clase:** Thief
+**Nivel:** 6
 **XP:** 25,531
 
-## Description
+## Descripción
 
-Short. Carries a partial skeleton named Frank attached to his person. Frank was found in the Castleton cliffside manor — a dead thief, half-pulled into a hole in the ground. The party hauled the remains free with a rope. Burt now carries Frank. Per Raynor, Frank gives Burt the appearance of a shaman when combined with color bands and paint/blood lines under Burt's eyes — useful for Lizard Folk negotiations.
+De baja estatura. Lleva consigo un esqueleto parcial llamado Frank. Frank fue encontrado en la mansión en los acantilados de Castleton — un Thief muerto, medio arrastrado dentro de un agujero en el suelo. El grupo sacó los restos con una cuerda. Burt ahora carga a Frank. Según Raynor, Frank le da a Burt la apariencia de un chamán cuando se combina con bandas de color y líneas de sangre/pintura bajo los ojos de Burt — útil para las negociaciones con los Lizard Folk.
 
 ## Frank
 
-- Partial skeleton of a dead thief
-- Found in the Castleton cliffside manor, half-dragged into a hole in the floor
-- Had a merchant's scale and a sack of 20 gems on him when found
-- Retrieved by the party using a rope
-- Not living; does not communicate
-- Now carried by Burt
+- Esqueleto parcial de un Thief muerto
+- Encontrado en la mansión en los acantilados de Castleton, medio arrastrado dentro de un agujero en el suelo
+- Llevaba una balanza de mercader y un saco de 20 gemas cuando fue encontrado
+- Recuperado por el grupo usando una cuerda
+- No está vivo; no se comunica
+- Ahora lo carga Burt
 
-## Equipment (from Session 1)
+## Equipo (de la Sesión 1)
 
-- Enchanted leather armor
-- Enchanted short bow (attribution uncertain — may be Fraxiga's)
-- Brass key (found in Castleton manor)
-- Large key (found in Castleton manor)
-- Expensive goblet — 1,800 gp (grabbed from fountain room after disabling Water Weird trap)
-- Torn black tabard with two red handprints shaped like a bird (worn over clothes) — belonged to the group of eight skeletons found in the manor dungeon alongside Frank; faction/organization unknown
-- 8 crystals (7 gp each)
-- Merchant's scale — 50 gp (from Frank's body)
-- Statue of a monkey — 7 gp
-- Sack of 20 gems — 35 gp each (from Frank's body, stored in Burt's pack)
+- Armadura de cuero encantada
+- Arco corto encantado (atribución incierta — podría ser de Fraxiga)
+- Llave de latón (encontrada en la mansión de Castleton)
+- Llave grande (encontrada en la mansión de Castleton)
+- Cáliz costoso — 1.800 po (tomado de la sala de la fuente tras desactivar la trampa Water Weird)
+- Tabardo negro rasgado con dos huellas de manos rojas en forma de pájaro (llevado sobre la ropa) — pertenecía al grupo de ocho esqueletos encontrados en la mazmorra de la mansión junto a Frank; facción/organización desconocida
+- 8 cristales (7 po cada uno)
+- Balanza de mercader — 50 po (del cuerpo de Frank)
+- Estatua de un mono — 7 po
+- Saco de 20 gemas — 35 po cada una (del cuerpo de Frank, guardado en la mochila de Burt)
 
-## Notes
+## Notas
 
-- Burt picked his first lock of the campaign in Session 1 at the Castleton manor.
-- Shot down a ceiling mirror above the manor fountain, disabling a Water Weird trap.
-- Can pass as a shaman among Lizard Folk with the right cosmetic preparation (Raynor's suggestion).
+- Burt abrió su primera cerradura de la campaña en la Sesión 1 en la mansión de Castleton.
+- Disparó un espejo del techo sobre la fuente de la mansión, desactivando una trampa Water Weird.
+- Puede pasar por chamán entre los Lizard Folk con la preparación cosmética adecuada (sugerencia de Raynor).

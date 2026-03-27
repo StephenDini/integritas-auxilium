@@ -1,23 +1,23 @@
 # Linus Larabee
 
-## Role
-Fence; information broker
+## Rol
+Intermediario; corredor de información
 
-## Location / Affiliation
+## Ubicación / Afiliación
 Castleton
 
-## Description
-Human. Goes by "Double L, Give em Hell." A fence — he buys and sells things of uncertain provenance and knows things that other people don't. Operates out of Castleton.
+## Descripción
+Humano. Se hace llamar "Double L, Give em Hell." Es un intermediario — compra y vende artículos de procedencia dudosa y sabe cosas que otros no saben. Opera desde Castleton.
 
-## Known Info
+## Información conocida
 
-- Hired the party to clear the cliffside manor of monsters. He claimed to have "legally" purchased it.
-- Received the deed to the manor (and the forged duplicate) from the party after the manor was cleared.
-- Has connections throughout the region — known to Alton and Raynor.
-- Received a letter from Commander Swan (Silverwood Sentinels) thanking him for sending adventurers to clear the Whispering Caves, and proposing a waterway trade route as a safer alternative to wagon caravans.
+- Contrató al grupo para limpiar la mansión del acantilado de monstruos. Afirmó haberla comprado "legalmente."
+- Recibió la escritura de la mansión (y el duplicado falsificado) del grupo tras la limpieza.
+- Tiene conexiones en toda la región — conocido por Alton y Raynor.
+- Recibió una carta de Commander Swan (Silverwood Sentinels) agradeciéndole haber enviado aventureros a limpiar las Cuevas Susurrantes, y proponiéndole una ruta comercial fluvial como alternativa más segura a las caravanas de carros.
 
-## Status
-Active. Based in Castleton.
+## Estado
+Activo. Radicado en Castleton.
 
-## Images
-![portrait](../images/npcs/linus-larabee.png)
+## Imágenes
+![retrato](../images/npcs/linus-larabee.png)

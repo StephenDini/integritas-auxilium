@@ -1,49 +1,49 @@
 # Taelendra ("Tinker Belle")
 
-## Role
-One of the four Noldori glyph-bearers; captive captain under King Walter
+## Rol
+Una de las cuatro portadoras del glifo Noldori; capitana cautiva bajo King Walter
 
-## Location / Affiliation
-Aboard King Walter's ship, Kingdom of the Rat
+## Ubicación / Afiliación
+A bordo del barco de King Walter, Kingdom of the Rat
 
-## Description
-Noldori elf. Female. Silver hair. Known to King Walter as "Tinker Belle." Her curse prevents her from speaking or writing her own name or the names of others.
+## Descripción
+Elfa Noldori. Femenina. Cabello plateado. King Walter la conoce como "Tinker Belle." Su maldición le impide hablar o escribir su propio nombre o el de otros.
 
-She is under a curse that has lasted at least 80 years: her feet cannot touch dry land. She has not set foot on solid ground since the event called "the Siege," when her master's spell deposited her in saltwater. She found a derelict vessel run aground and boarded it for shelter.
+Está bajo una maldición que dura al menos 80 años: sus pies no pueden tocar tierra firme. No ha pisado suelo sólido desde el evento llamado "el Sitio," cuando el hechizo de su maestro la depositó en agua salada. Encontró un barco abandonado encallado y subió a bordo para refugiarse.
 
-## Known Info
+## Información conocida
 
-**The Curse:**
-~80 years ago, after the Siege, her master teleported her. She landed in saltwater. An unseen force prevents her from stepping onto dry land. She has lived aboard a ship ever since.
+**La Maldición:**
+Hace ~80 años, tras el Sitio, su maestro la teletransportó. Aterrizó en agua salada. Una fuerza invisible le impide pisar tierra firme. Ha vivido a bordo de un barco desde entonces.
 
-**King Walter's Captive:**
-King Walter (the ruler at the time, two kings before the current one) found her and made a deal: she captains his deep-sea fishing operation in exchange for food, water, and necessities. She is effectively imprisoned. He calls her "Tinker Belle" because of her knowledge of Old Tek.
+**Cautiva de King Walter:**
+King Walter (el gobernante de la época, dos reyes antes del actual) la encontró e hizo un trato: ella capitanea su operación de pesca de alta mar a cambio de comida, agua y artículos de primera necesidad. Está efectivamente encarcelada. Él la llama "Tinker Belle" por su conocimiento de Old Tek.
 
-She actively sabotages Walter's Old Tek finds whenever she can. She wants to see her brother and friends and escape his control. Walter should not have USAF or North Central Positronics access.
+Sabotea activamente los hallazgos de Old Tek de Walter siempre que puede. Quiere ver a su hermano y a sus amigos y escapar de su control. Walter no debería tener acceso a la USAF ni a North Central Positronics.
 
-**The Ship:**
-She rebuilt the derelict vessel using her knowledge of pre-Reckoning technology — rerouted magic engines (repulsors/ley threads), rat-powered wheels with magnetic rocks, allowing the metal ship to travel on water.
+**El Barco:**
+Reconstruyó el barco abandonado usando su conocimiento de la tecnología pre-The Reckoning — recondujo motores mágicos (repulsores/hilos de líneas ley), ruedas accionadas por ratas con rocas magnéticas, lo que permite que el barco metálico navegue en el agua.
 
-**Knowledge:**
-Extensive knowledge of pre-Reckoning technology and history:
-- Moongates (how they work and operate)
-- Old Tek magic generally
+**Conocimiento:**
+Amplio conocimiento de la tecnología e historia pre-The Reckoning:
+- Moongates (cómo funcionan y se operan)
+- Old Tek en general
 - North Central Positronics
 - New Atlantis
 - ARTEMIS
 - Tannhauser Gate
 
-She can read maps and open locks.
+Puede leer mapas y abrir cerraduras.
 
-**Rowan's Sword:**
-Taelendra identified a North Central Positronics gem in Rowan's enchanted longsword. Frog idol and snake idol are associated with these gems. The gems have tiny swords that fit into sheathes on their items — **incorrect orientation ruins the magic.**
+**La Espada de Rowan:**
+Taelendra identificó una gema de North Central Positronics en la espada larga encantada de Rowan. Los ídolos de rana y serpiente están asociados con estas gemas. Las gemas tienen pequeñas espadas que encajan en vainas en sus objetos — **la orientación incorrecta arruina la magia.**
 
-**The glyph:**
-One of the four Noldori bearing a translation glyph for the Codex of Infinite Wisdom.
+**El glifo:**
+Una de las cuatro Noldori que porta un glifo de traducción para el Codex of Infinite Wisdom.
 
-## Status
-Captive aboard King Walter's ship. Walter has offered to release her if the party clears Lizard Men from his swamp.
+## Estado
+Cautiva a bordo del barco de King Walter. Walter ha ofrecido liberarla si el grupo elimina a los Hombres Lagarto de su pantano.
 
-## Images
-![her rebuilt vessel (Sloop Jon B); sci-fi engine lights, swamp-navigating craft](../images/locations/sloop-jon-b.png)
-![her prosthetic leg](../images/items/taelendras-leg.jpg)
+## Imágenes
+![su embarcación reconstruida (Sloop Jon B); luces de motor de ciencia ficción, nave para navegar por el pantano](../images/locations/sloop-jon-b.png)
+![su pierna protésica](../images/items/taelendras-leg.jpg)

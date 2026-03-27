@@ -1,39 +1,39 @@
-# Moongate (ARTEMIS Disc)
+# Moongate (Disco de A.R.T.E.M.I.S.)
 
-## Origin
-Pre-Reckoning artifact. Created by North Central Positronics (STL) as part of PROJECT A.R.T.E.M.I.S. Presented to the party by Alton in Lockleed.
+## Origen
+Artefacto anterior al Reckoning. Creado por North Central Positronics (STL) como parte del PROYECTO A.R.T.E.M.I.S. Entregado al grupo por Alton en Lockleed.
 
-## Current Holder
-Dougal McCurdy (Cleric) — carried in his backpack.
+## Portador actual
+Dougal McCurdy (Cleric) — transportado en su mochila.
 
-## Physical Description
+## Descripción física
 
-- **Material:** Platinum disc
-- **Marking:** *PROJECT A.R.T.E.M.I.S., (TM) North-Central Positronics, STL*
-- **Perimeter:** 6 red gem teleport anchors
-- **Center:** 1 pearl gem (present), 1 onyx gem (**MISSING**)
+- **Material:** Disco de platino
+- **Marcado:** *PROJECT A.R.T.E.M.I.S., (TM) North-Central Positronics, STL*
+- **Perímetro:** 6 anclas de teletransportación de gemas rojas
+- **Centro:** 1 gema de perla (presente), 1 gema de ónice (**DESAPARECIDA**)
 
-## Mechanics
+## Mecánicas
 
-The Moongate is a teleportation network device. Each red gem anchor corresponds to a fixed location where a moonstone has been physically placed or buried. Activating the disc transports the user to the corresponding anchor location.
+El Moongate es un dispositivo de red de teletransportación. Cada ancla de gema roja corresponde a una ubicación fija donde se ha colocado o enterrado físicamente una piedra lunar. Activar el disco transporta al usuario a la ubicación del ancla correspondiente.
 
-| Anchor | Status | Location |
-|--------|--------|----------|
-| Red gem 1 | Established | Lockleed (moonstone buried) |
-| Red gem 2 | Unestablished | — |
-| Red gem 3 | Unestablished | — |
-| Red gem 4 | Unestablished | — |
-| Red gem 5 | Unestablished | — |
-| Red gem 6 | Unestablished | — |
-| Pearl (center) | Function unknown | Present |
-| Onyx (center) | **MISSING** — party is watching for it | — |
+| Ancla | Estado | Ubicación |
+|-------|--------|-----------|
+| Gema roja 1 | Establecida | Lockleed (piedra lunar enterrada) |
+| Gema roja 2 | No establecida | — |
+| Gema roja 3 | No establecida | — |
+| Gema roja 4 | No establecida | — |
+| Gema roja 5 | No establecida | — |
+| Gema roja 6 | No establecida | — |
+| Perla (centro) | Función desconocida | Presente |
+| Ónice (centro) | **DESAPARECIDA** — el grupo está atentos a ella | — |
 
-## Notes
+## Notas
 
-- Taelendra ("Tinker Belle") has direct knowledge of how Moongates function. She may be the best source for unlocking the full capabilities of this device.
-- Handle with care: North Central Positronics items generally require correct gem/component orientation. Wrong orientation ruins the magic (see: Rowan's sword).
-- Full operational manual, if one exists, has not been found.
+- Taelendra ("Tinker Belle") tiene conocimiento directo de cómo funcionan los Moongates. Puede ser la mejor fuente para desbloquear las capacidades completas de este dispositivo.
+- Manejar con cuidado: los objetos de North Central Positronics generalmente requieren la orientación correcta de la gema/componente. La orientación incorrecta arruina la magia (ver: la espada de Rowan).
+- El manual de operación completo, si existe, no ha sido encontrado.
 
-## See Also
+## Ver también
 
-lore/the-moongate.md — lore-focused entry with historical context.
+lore/the-moongate.md — entrada centrada en el trasfondo con contexto histórico.

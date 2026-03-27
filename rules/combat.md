@@ -1,18 +1,18 @@
-# Combat Reference
+# Referencia de Combate
 
-## Combat Sequence Per Round
-1. **Declare** spells and melee movement (spells and movement must be declared before initiative)
-2. **Initiative**: Each side rolls 1d6; highest acts first. Ties = simultaneous or re-roll.
-3. Winning side acts: monster morale → movement → missile attacks → spell casting → melee attacks
-4. Other sides act in initiative order.
+## Secuencia de Combate Por Ronda
+1. **Declarar** conjuros y movimiento cuerpo a cuerpo (los conjuros y el movimiento deben declararse antes de la iniciativa)
+2. **Iniciativa**: Cada bando tira 1d6; el más alto actúa primero. Empate = simultáneo o volver a tirar.
+3. El bando ganador actúa: moral del monstruo → movimiento → ataques con proyectiles → lanzamiento de conjuros → ataques cuerpo a cuerpo
+4. Los demás bandos actúan en orden de iniciativa.
 
-## Initiative
-- **Standard**: Each *side* rolls 1d6. Highest wins.
-- **Individual (optional)**: Each combatant rolls 1d6, modified by DEX bonus.
-- **Slow weapons**: Two-handed melee weapons always act *last*, regardless of initiative.
+## Iniciativa
+- **Estándar**: Cada *bando* tira 1d6. El más alto gana.
+- **Individual (opcional)**: Cada combatiente tira 1d6, modificado por el bonificador de DES.
+- **Armas lentas**: Las armas cuerpo a cuerpo de dos manos siempre actúan *al final*, independientemente de la iniciativa.
 
-| DEX | AC Mod | Missile | Initiative |
-|-----|--------|---------|------------|
+| DES | Mod. CA | Proyectiles | Iniciativa |
+|-----|---------|-------------|------------|
 | 3 | –3 | –3 | –2 |
 | 4–5 | –2 | –2 | –1 |
 | 6–8 | –1 | –1 | –1 |
@@ -21,23 +21,23 @@
 | 16–17 | +2 | +2 | +1 |
 | 18 | +3 | +3 | +2 |
 
-## Attack Rolls (Descending AC)
-1. Roll 1d20
-2. Apply modifiers (STR for melee; DEX + range for missile)
-3. Look up result on attack matrix for attacker's THAC0 row → find which AC is hit
-4. If hit AC ≤ opponent's AC, the attack hits
+## Tiradas de Ataque (CA Descendente)
+1. Tirar 1d20
+2. Aplicar modificadores (FUE para cuerpo a cuerpo; DES + distancia para proyectiles)
+3. Consultar el resultado en la tabla de ataque para la fila THAC0 del atacante → encontrar qué CA es golpeada
+4. Si la CA golpeada ≤ CA del oponente, el ataque impacta
 
-**Shortcut**: Roll needed = THAC0 − target's AC (e.g., THAC0 17 vs AC 4 → need 13+)
+**Atajo**: Tirada necesaria = THAC0 − CA del objetivo (p. ej., THAC0 17 vs CA 4 → necesita 13+)
 
-**Ascending AC (optional)**: Roll 1d20 + attack bonus; if result ≥ opponent's AAC, hit.
+**CA Ascendente (opcional)**: Tirar 1d20 + Bono de Ataque; si el resultado ≥ CA ascendente del oponente, impacta.
 
-| Attack Roll | Natural 1 | Natural 20 |
-|-------------|-----------|------------|
-| Always miss | Always hit |
+| Tirada de Ataque | 1 Natural | 20 Natural |
+|------------------|-----------|------------|
+| Siempre falla | Siempre impacta |
 
-## Attack Matrix (Key Rows)
-| THAC0 | [Bonus] | Hit AC: –3 | 0 | 2 | 4 | 5 | 6 | 7 | 8 | 9 |
-|-------|---------|-----------|---|---|---|---|---|---|---|---|
+## Tabla de Ataque (Filas Clave)
+| THAC0 | [Bonificación] | Golpea CA: –3 | 0 | 2 | 4 | 5 | 6 | 7 | 8 | 9 |
+|-------|----------------|---------------|---|---|---|---|---|---|---|---|
 | 19 | [0] | 20 | 19 | 17 | 15 | 14 | 13 | 12 | 11 | 10 |
 | 18 | [+1] | 20 | 18 | 16 | 14 | 13 | 12 | 11 | 10 | 9 |
 | 17 | [+2] | 20 | 17 | 15 | 13 | 12 | 11 | 10 | 9 | 8 |
@@ -47,99 +47,99 @@
 | 13 | [+6] | 16 | 13 | 11 | 9 | 8 | 7 | 6 | 5 | 4 |
 | 12 | [+7] | 15 | 12 | 10 | 8 | 7 | 6 | 5 | 4 | 3 |
 
-## Armour Class Reference
-| Armour | AC (desc) | AC (asc) |
-|--------|-----------|----------|
-| Unarmoured | 9 | [10] |
-| Leather | 7 | [12] |
-| Chainmail | 5 | [14] |
-| Plate mail | 3 | [16] |
-| + Shield | –1 | +1 |
+## Referencia de Clase de Armadura
+| Armadura | CA (desc.) | CA (asc.) |
+|----------|------------|-----------|
+| Sin armadura | 9 | [10] |
+| Cuero | 7 | [12] |
+| Cota de malla | 5 | [14] |
+| Armadura de placas | 3 | [16] |
+| + Escudo | –1 | +1 |
 
-## Damage
-- **Default**: All weapons deal 1d6.
-- **Variable (optional)**: Use weapon-specific damage dice (see equipment).
-- STR modifier applies to melee damage.
-- Minimum 1 damage on a hit, even after penalties.
+## Daño
+- **Por defecto**: Todas las armas hacen 1d6.
+- **Variable (opcional)**: Usar dados de daño específicos del arma (ver equipment).
+- El modificador de FUE aplica al daño cuerpo a cuerpo.
+- Mínimo 1 de daño en un impacto, incluso tras penalizaciones.
 
-## Movement in Combat
-- **Encounter movement**: 1/3 of base movement rate per round.
-- **Fighting withdrawal**: Move backward up to half encounter rate; requires clear path.
-- **Retreat**: Full encounter rate; cannot attack; opponent gets +2 to hit and ignores shield AC bonus this round.
-- **Running**: Base movement rate in feet per round. After 30 rounds: –2 to attacks, damage, and AC.
+## Movimiento en Combate
+- **Movimiento de encuentro**: ⅓ de la tasa base de movimiento por ronda.
+- **Retirada de combate**: Moverse hacia atrás hasta la mitad de la tasa de encuentro; requiere camino despejado.
+- **Huida**: Tasa de encuentro completa; no puede atacar; el oponente obtiene +2 a golpear e ignora la bonificación de CA del escudo esa ronda.
+- **Correr**: Tasa base de movimiento en pies por ronda. Tras 30 rondas: –2 a ataques, daño y CA.
 
-## Missile Attacks
-| Range | Modifier |
-|-------|----------|
-| Short | +1 to hit |
-| Medium | None |
-| Long | –1 to hit |
-| Beyond long | Cannot attack |
+## Ataques con Proyectiles
+| Distancia | Modificador |
+|-----------|-------------|
+| Corta | +1 a golpear |
+| Media | Ninguno |
+| Larga | –1 a golpear |
+| Más allá del largo | No puede atacar |
 
-- Possible when opponents are more than 5' apart.
-- Cover: –1 to –4 to hit (partial); impossible (full).
+- Posible cuando los oponentes están a más de 5' de distancia.
+- Cobertura: –1 a –4 a golpear (parcial); imposible (total).
 
-## Spell Casting in Combat
-- Must declare before initiative.
-- Cannot move and cast in same round.
-- Must be able to speak and move hands.
-- If hit or fails a save *before* acting after losing initiative: spell is disrupted and lost.
-- Spells must have line of sight to target.
+## Lanzamiento de Conjuros en Combate
+- Debe declararse antes de la iniciativa.
+- No puede moverse y lanzar en la misma ronda.
+- Debe poder hablar y mover las manos.
+- Si es golpeado o falla una tirada de salvación *antes* de actuar tras perder la iniciativa: el conjuro se interrumpe y se pierde.
+- Los conjuros deben tener línea de visión al objetivo.
 
-## Morale (Optional)
-- Monsters roll 2d6 vs morale rating.
-- If roll **exceeds** morale: surrender or flee.
-- If roll **≤** morale: continue fighting.
-- Check on: first death in group, when half the group is incapacitated.
-- Two successful morale checks = fight to the death.
+## Moral (Opcional)
+- Los monstruos tiran 2d6 vs su puntuación de moral.
+- Si la tirada **supera** la moral: se rinden o huyen.
+- Si la tirada **≤** la moral: siguen combatiendo.
+- Verificar al: primer muerto del grupo, cuando la mitad del grupo está incapacitada.
+- Dos verificaciones de moral exitosas = lucha hasta la muerte.
 
-| Troop Type | Morale |
-|------------|--------|
-| Untrained militia | 6 |
-| Barbarian horde | 7 |
-| Trained warriors | 8 |
-| Mounted | +1 |
-| Elite troops | +1 |
-| Fanatics/berserkers | +2 |
+| Tipo de Tropa | Moral |
+|---------------|-------|
+| Milicia sin entrenamiento | 6 |
+| Horda bárbara | 7 |
+| Guerreros entrenados | 8 |
+| Montados | +1 |
+| Tropas de élite | +1 |
+| Fanáticos/berserkers | +2 |
 
-## Special Attacks
+## Ataques Especiales
 
-### Backstab (Thief)
-- Attack from behind against unaware opponent.
-- **+4 to hit**, **×2 damage**.
-- At level 6: ×2 damage multiplier.
+### Ataque por la Espalda (Ladrón)
+- Atacar por detrás a un oponente desprevenido.
+- **+4 a golpear**, **×2 daño**.
+- En nivel 6: multiplicador de daño ×2.
 
-### Turning Undead (Cleric)
-- Roll 2d6; compare to Turning Table vs HD of undead.
-- Success: roll 2d6 to determine total HD affected (turned or destroyed).
-- Turned undead flee and will not contact the cleric.
-- Destroyed (D): instantly annihilated.
-- At least 1 undead always affected on a success.
-- Mixed groups: lowest HD affected first.
+### Repeler No-Muertos (Clérigo)
+- Tirar 2d6; comparar con la Tabla de Repulsión vs DG del no-muerto.
+- Éxito: tirar 2d6 para determinar el total de DG afectados (repelidos o destruidos).
+- Los no-muertos repelidos huyen y no contactarán al clérigo.
+- Destruido (D): aniquilado instantáneamente.
+- Al menos 1 no-muerto siempre es afectado en un éxito.
+- Grupos mixtos: los de menor DG son afectados primero.
 
-*See cleric.md for full turning table.*
+*Ver cleric.md para la tabla completa de repulsión.*
 
-### Paralysed/Helpless Opponents
-- Automatically hit in melee; only roll damage.
+### Oponentes Paralizados/Indefensos
+- Impactados automáticamente en cuerpo a cuerpo; solo se tira el daño.
 
-### Charging
-- Require clear 20-yard run; double damage on hit (lance or appropriate weapon).
+### Carga
+- Requiere una carrera despejada de 20 yardas; daño doble en el impacto (lanza u arma apropiada).
 
-### Subduing (Optional)
-- Announce intent; use blunt weapons only.
-- Track subdual damage separately.
-- At 0 HP from subdual: surrender.
+### Sometimiento (Opcional)
+- Declarar la intención; usar solo armas contundentes.
+- Rastrear el daño de sometimiento por separado.
+- A 0 PG por sometimiento: rendición.
 
-## Death and Healing
-- **Death**: Reduced to 0 HP or less.
-- **Destruction of items**: If killed by lightning bolt, breath weapon, etc., gear may be destroyed.
-- **Natural healing**: 1d3 HP per full day of complete rest. Interrupted rest = no healing.
-- **Magical healing**: Instant; stacks with natural healing.
-- **Resting in dungeon**: 1 turn (10 min) rest required per hour or suffer –1 to attack and damage.
-- **Resting overland**: 1 full day per 6 days of travel or suffer –1 to hit and damage.
+## Muerte y Curación
+- **Muerte**: Reducido a 0 PG o menos.
+- **Destrucción de objetos**: Si es matado por rayo, arma de aliento, etc., el equipo puede ser destruido.
+- **Curación natural**: 1d3 PG por día completo de descanso total. Descanso interrumpido = sin curación.
+- **Curación mágica**: Instantánea; se acumula con la curación natural.
+- **Descanso en mazmorra**: Se requiere 1 turno (10 min) de descanso por hora o sufrir –1 a ataque y daño.
+- **Descanso en exteriores**: 1 día completo por cada 6 días de viaje o sufrir –1 a golpear y daño.
 
-## Surprise
-- Roll 1d6 for each side not expecting encounter.
-- **1 or 2**: That side is surprised.
-- Surprised side loses its action for one round; other side gains a free round.
-- Carrying light in darkness: usually cannot surprise opponents.
+## Sorpresa
+- Tirar 1d6 por cada bando que no espera el encuentro.
+- **1 o 2**: Ese bando es sorprendido.
+- El bando sorprendido pierde su acción durante una ronda; el otro bando obtiene una ronda libre.
+- Portar luz en la oscuridad: generalmente no puede sorprender a los oponentes.

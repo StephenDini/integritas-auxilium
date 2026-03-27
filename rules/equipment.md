@@ -1,116 +1,116 @@
-# Equipment Reference
+# Referencia de Equipo
 
-## Armour
-| Armour | AC (desc) | AC (asc) | Cost (gp) | Weight (coins) |
-|--------|-----------|----------|-----------|---------------|
-| Leather | 7 | [12] | 20 | 200 |
-| Chainmail | 5 | [14] | 40 | 400 |
-| Plate mail | 3 | [16] | 60 | 500 |
-| Shield | +1 bonus | +1 | 10 | 100 |
-| Barding (horse) | 5 [14] | – | 150 | 600 |
+## Armadura
+| Armadura | CA (desc.) | CA (asc.) | Costo (po) | Peso (monedas) |
+|----------|------------|-----------|------------|----------------|
+| Cuero | 7 | [12] | 20 | 200 |
+| Cota de malla | 5 | [14] | 40 | 400 |
+| Armadura de placas | 3 | [16] | 60 | 500 |
+| Escudo | +1 bonif. | +1 | 10 | 100 |
+| Barda (caballo) | 5 [14] | – | 150 | 600 |
 
-**Unarmoured AC**: 9 [10]
+**CA sin armadura**: 9 [10]
 
-## Weapons
-| Weapon | Damage | Cost (gp) | Weight (coins) | Qualities |
-|--------|--------|-----------|---------------|-----------|
-| Battle axe | 1d8 | 7 | 50 | Melee, Slow, Two-handed |
-| Club | 1d4 | 3 | 50 | Blunt, Melee |
-| Crossbow | 1d6 | 30 | 50 | Missile (5–80/81–160/161–240'), Reload, Slow, Two-handed |
-| Dagger | 1d4 | 3 | 10 | Melee, Missile (5–10/11–20/21–30') |
-| Hand axe | 1d6 | 4 | 30 | Melee, Missile (5–10/11–20/21–30') |
-| Javelin | 1d4 | 1 | 20 | Missile (5–30/31–60/61–90') |
-| Lance | 1d6 | 5 | 120 | Charge, Melee |
-| Long bow | 1d6 | 40 | 30 | Missile (5–70/71–140/141–210'), Two-handed |
-| Mace | 1d6 | 5 | 30 | Blunt, Melee |
-| Pole arm | 1d10 | 7 | 150 | Brace, Melee, Slow, Two-handed |
-| Short bow | 1d6 | 25 | 30 | Missile (5–50/51–100/101–150'), Two-handed |
-| Short sword | 1d6 | 7 | 30 | Melee |
-| Silver dagger | 1d4 | 30 | 10 | Melee, Missile (5–10/11–20/21–30') |
-| Sling | 1d4 | 2 | 20 | Blunt, Missile (5–40/41–80/81–160') |
-| Spear | 1d6 | 3 | 30 | Brace, Melee, Missile (5–20/21–40/41–60') |
-| Staff | 1d4 | 2 | 40 | Blunt, Melee, Slow, Two-handed |
-| Sword | 1d8 | 10 | 60 | Melee |
-| Two-handed sword | 1d10 | 15 | 150 | Melee, Slow, Two-handed |
-| Torch | 1d4 | – | – | Melee |
-| War hammer | 1d6 | 5 | 30 | Blunt, Melee |
+## Armas
+| Arma | Daño | Costo (po) | Peso (monedas) | Cualidades |
+|------|------|------------|----------------|------------|
+| Hacha de batalla | 1d8 | 7 | 50 | Cuerpo a cuerpo, Lenta, Dos manos |
+| Garrote | 1d4 | 3 | 50 | Contundente, Cuerpo a cuerpo |
+| Ballesta | 1d6 | 30 | 50 | Proyectil (5–80/81–160/161–240'), Recarga, Lenta, Dos manos |
+| Daga | 1d4 | 3 | 10 | Cuerpo a cuerpo, Proyectil (5–10/11–20/21–30') |
+| Hacha de mano | 1d6 | 4 | 30 | Cuerpo a cuerpo, Proyectil (5–10/11–20/21–30') |
+| Jabalina | 1d4 | 1 | 20 | Proyectil (5–30/31–60/61–90') |
+| Lanza de caballería | 1d6 | 5 | 120 | Carga, Cuerpo a cuerpo |
+| Arco largo | 1d6 | 40 | 30 | Proyectil (5–70/71–140/141–210'), Dos manos |
+| Maza | 1d6 | 5 | 30 | Contundente, Cuerpo a cuerpo |
+| Arma de asta | 1d10 | 7 | 150 | Apoyo, Cuerpo a cuerpo, Lenta, Dos manos |
+| Arco corto | 1d6 | 25 | 30 | Proyectil (5–50/51–100/101–150'), Dos manos |
+| Espada corta | 1d6 | 7 | 30 | Cuerpo a cuerpo |
+| Daga de plata | 1d4 | 30 | 10 | Cuerpo a cuerpo, Proyectil (5–10/11–20/21–30') |
+| Honda | 1d4 | 2 | 20 | Contundente, Proyectil (5–40/41–80/81–160') |
+| Lanza | 1d6 | 3 | 30 | Apoyo, Cuerpo a cuerpo, Proyectil (5–20/21–40/41–60') |
+| Bastón | 1d4 | 2 | 40 | Contundente, Cuerpo a cuerpo, Lento, Dos manos |
+| Espada | 1d8 | 10 | 60 | Cuerpo a cuerpo |
+| Espadón | 1d10 | 15 | 150 | Cuerpo a cuerpo, Lento, Dos manos |
+| Antorcha | 1d4 | – | – | Cuerpo a cuerpo |
+| Martillo de guerra | 1d6 | 5 | 30 | Contundente, Cuerpo a cuerpo |
 
-### Weapon Quality Definitions
-- **Blunt**: Clerics may use.
-- **Brace**: Bracing against ground doubles damage vs charging monsters.
-- **Charge**: On horseback (≥60' run), doubles damage on a hit.
-- **Melee**: Close range (≤5').
-- **Missile**: Ranged; short (+1 hit), medium (normal), long (–1 hit). Listed as short/medium/long range in feet.
-- **Reload** (optional): Must spend a round reloading; fire every other round.
-- **Slow**: Always act last in the round, regardless of initiative.
-- **Two-handed**: Cannot use a shield.
+### Definiciones de Cualidades de Armas
+- **Contundente**: Los clérigos pueden usar esta arma.
+- **Apoyo**: Apoyarla en el suelo duplica el daño contra monstruos que cargan.
+- **Carga**: A caballo (carrera ≥60'), duplica el daño en un impacto.
+- **Cuerpo a cuerpo**: Distancia corta (≤5').
+- **Proyectil**: A distancia; corta (+1 a golpear), media (normal), larga (–1 a golpear). Listado como distancia corta/media/larga en pies.
+- **Recarga** (opcional): Debe gastar una ronda recargando; dispara cada dos rondas.
+- **Lento**: Siempre actúa al final de la ronda, independientemente de la iniciativa.
+- **Dos manos**: No puede usar escudo.
 
-## Ammunition
-| Item | Cost (gp) |
-|------|-----------|
-| Arrows (quiver of 20) | 5 |
-| Crossbow bolts (case of 30) | 10 |
-| Silver tipped arrow (1) | 5 |
-| Sling stones | Free |
+## Munición
+| Objeto | Costo (po) |
+|--------|------------|
+| Flechas (carcaj de 20) | 5 |
+| Virotes de ballesta (caja de 30) | 10 |
+| Flecha de punta de plata (1) | 5 |
+| Piedras de honda | Gratis |
 
-## Ranged Damage Reference
-- Holy water vial: 1d8, Missile (5–10/11–30/31–50'), Splash weapon
-- Oil flask (burning): 1d8, Missile (5–10/11–30/31–50'), Splash weapon
+## Referencia de Daño a Distancia
+- Vial de agua bendita: 1d8, Proyectil (5–10/11–30/31–50'), Arma de área
+- Frasco de aceite (encendido): 1d8, Proyectil (5–10/11–30/31–50'), Arma de área
 
-## Adventuring Gear
-| Item | Cost (gp) | Notes |
-|------|-----------|-------|
-| Backpack | 5 | Holds 400 coins; worn on back, hands free |
-| Crowbar | 10 | Forces doors/objects |
-| Garlic | 5 | Repels vampires |
-| Grappling hook | 25 | Anchors rope |
-| Hammer (small) | 2 | Construction or use as mallet |
-| Holy symbol | 25 | Required for clerics |
-| Holy water (vial) | 25 | 1d8 damage to undead (splash); loses power if transferred |
-| Iron spikes (12) | 1 | Wedge doors, anchor ropes |
-| Lantern | 10 | 30' radius light; burns 1 oil flask/4 hours |
-| Mirror (hand, steel) | 5 | Corner-viewing; reflecting gaze attacks |
-| Oil (1 flask) | 2 | 4 hours of lantern fuel; or weapon (1d8 damage for 2 rounds if lit) |
-| Pole (10', wooden) | 1 | Poking suspicious items |
-| Rations (iron, 7 days) | 15 | Preserved; for long travel |
-| Rations (standard, 7 days) | 5 | Fresh, unpreserved |
-| Rope (50') | 1 | Holds ~3 human-sized beings |
-| Sack (large) | 2 | Holds 600 coins |
-| Sack (small) | 1 | Holds 200 coins |
-| Stakes (3) and mallet | 3 | For vampires |
-| Thieves' tools | 25 | Required for Open Locks skill |
-| Tinder box (flint & steel) | 3 | Lights fires; 2-in-6 success per round |
-| Torches (6) | 1 | 30' radius light; 1 hour (6 turns) each |
-| Waterskin | 1 | Holds 2 pints |
-| Wine (2 pints) | 1 | – |
-| Wolfsbane (1 bunch) | 10 | Repels lycanthropes; must hit in melee |
+## Equipo de Aventurero
+| Objeto | Costo (po) | Notas |
+|--------|------------|-------|
+| Mochila | 5 | Contiene 400 monedas; se lleva en la espalda, manos libres |
+| Palanca | 10 | Fuerza puertas/objetos |
+| Ajo | 5 | Repele vampiros |
+| Gancho de escalar | 25 | Ancla la cuerda |
+| Martillo (pequeño) | 2 | Construcción o uso como mazo |
+| Símbolo sagrado | 25 | Requerido para clérigos |
+| Agua bendita (vial) | 25 | 1d8 de daño a no-muertos (área); pierde su poder si se transfiere |
+| Estacas de hierro (12) | 1 | Calza puertas, ancla cuerdas |
+| Linterna | 10 | Luz de 30' de radio; quema 1 frasco de aceite/4 horas |
+| Espejo (de mano, acero) | 5 | Ver en esquinas; reflejar ataques de mirada |
+| Aceite (1 frasco) | 2 | 4 horas de combustible para linterna; o como arma (1d8 de daño durante 2 rondas si se enciende) |
+| Palo (10', de madera) | 1 | Para tocar objetos sospechosos |
+| Raciones (de hierro, 7 días) | 15 | Conservadas; para viajes largos |
+| Raciones (estándar, 7 días) | 5 | Frescas, sin conservar |
+| Cuerda (50') | 1 | Aguanta ~3 seres de tamaño humano |
+| Saco (grande) | 2 | Contiene 600 monedas |
+| Saco (pequeño) | 1 | Contiene 200 monedas |
+| Estacas (3) y mazo | 3 | Para vampiros |
+| Herramientas de ladrón | 25 | Requeridas para la habilidad Abrir Cerraduras |
+| Yesquero (pedernal y acero) | 3 | Enciende fuegos; probabilidad de éxito 2-en-6 por ronda |
+| Antorchas (6) | 1 | Luz de 30' de radio; 1 hora (6 turnos) cada una |
+| Odre de agua | 1 | Contiene 2 pintas |
+| Vino (2 pintas) | 1 | – |
+| Acónito (1 ramo) | 10 | Repele licántropos; debe golpear en cuerpo a cuerpo |
 
-## Light Source Summary
-| Source | Radius | Duration |
-|--------|--------|----------|
-| Torch | 30' | 1 hour (6 turns) |
-| Lantern | 30' | 4 hours per flask (24 turns) |
-| Light spell | 15' | 6 turns +1/level |
-| Continual Light | 30' | Permanent |
+## Resumen de Fuentes de Luz
+| Fuente | Radio | Duración |
+|--------|-------|----------|
+| Antorcha | 30' | 1 hora (6 turnos) |
+| Linterna | 30' | 4 horas por frasco (24 turnos) |
+| Conjuro de Luz | 15' | 6 turnos +1/nivel |
+| Luz Continua | 30' | Permanente |
 
-## Mounts and Beasts of Burden
-| Animal | Cost (gp) | MV | Max Load (unenc.) | Max Load (enc.) | Miles/Day |
-|--------|-----------|-----|-------------------|-----------------|-----------|
-| Camel | 100 | 150' (50') | 3,000 cn | 6,000 cn | 30 (15 enc.) |
-| Horse, draft | 40 | 90' (30') | 4,500 cn | 9,000 cn | 18 (9 enc.) |
-| Horse, riding | 75 | 240' (80') | 3,000 cn | 6,000 cn | 48 (24 enc.) |
-| Horse, war | 250 | 120' (40') | 4,000 cn | 8,000 cn | 24 (12 enc.) |
-| Mule | 30 | 120' (40') | 2,000 cn | 4,000 cn | 24 (12 enc.) |
+## Monturas y Animales de Carga
+| Animal | Costo (po) | MV | Carga Máx. (sin enc.) | Carga Máx. (enc.) | Millas/Día |
+|--------|------------|-----|----------------------|-------------------|------------|
+| Camello | 100 | 150' (50') | 3.000 cn | 6.000 cn | 30 (15 enc.) |
+| Caballo, de tiro | 40 | 90' (30') | 4.500 cn | 9.000 cn | 18 (9 enc.) |
+| Caballo, de monta | 75 | 240' (80') | 3.000 cn | 6.000 cn | 48 (24 enc.) |
+| Caballo, de guerra | 250 | 120' (40') | 4.000 cn | 8.000 cn | 24 (12 enc.) |
+| Mula | 30 | 120' (40') | 2.000 cn | 4.000 cn | 24 (12 enc.) |
 
-Saddle and bridle: 25 gp | Saddlebags (300 cn): 5 gp
+Silla de montar y brida: 25 po | Alforjas (300 cn): 5 po
 
-## Coin Conversion
-| | pp | gp | ep | sp | cp |
+## Conversión de Monedas
+| | pp | po | pe | pa | pc |
 |--|----|----|----|----|-----|
 | 1 pp = | 1 | 5 | 10 | 50 | 500 |
-| 1 gp = | 1/5 | 1 | 2 | 10 | 100 |
-| 1 ep = | 1/10 | 1/2 | 1 | 5 | 50 |
-| 1 sp = | 1/50 | 1/10 | 1/5 | 1 | 10 |
-| 1 cp = | 1/500 | 1/100 | 1/50 | 1/10 | 1 |
+| 1 po = | 1/5 | 1 | 2 | 10 | 100 |
+| 1 pe = | 1/10 | 1/2 | 1 | 5 | 50 |
+| 1 pa = | 1/50 | 1/10 | 1/5 | 1 | 10 |
+| 1 pc = | 1/500 | 1/100 | 1/50 | 1/10 | 1 |
 
-Starting money: 3d6 × 10 gp
+Dinero inicial: 3d6 × 10 po

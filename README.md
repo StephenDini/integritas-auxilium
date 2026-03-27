@@ -1,86 +1,86 @@
 # Integritas Auxilium
 
-Campaign archive for an ongoing Old-School Essentials (OSE) tabletop RPG campaign run by the ADHDnD Gaming Group. Archive started March 2026 after approximately one year of active play.
+Archivo de campaña para una campaña de juego de rol de mesa en curso con Old-School Essentials (OSE), dirigida por el ADHDnD Gaming Group. El archivo fue iniciado en marzo de 2026, tras aproximadamente un año de juego activo.
 
 ---
 
-## The Setting
+## El Escenario
 
-The world is called **Newhon** — post-apocalyptic America, long after a catastrophe known as **The Reckoning** (or Barron's Folly) destroyed the old civilization. What the current peoples call "ancient magic" and "Old Tek" is the technology of the world that came before. Ruins of the old world sit beneath every major city. Pre-Reckoning artifacts — weapons, devices, corporate-branded machinery — are scattered across the land, dangerous and poorly understood.
+El mundo se llama **Newhon** — una América post-apocalíptica, mucho tiempo después de que una catástrofe conocida como **The Reckoning** (o Barron's Folly) destruyera la civilización antigua. Lo que los pueblos actuales llaman "magia antigua" y "Old Tek" es la tecnología del mundo anterior. Las ruinas del viejo mundo yacen bajo cada ciudad importante. Artefactos pre-Reckoning — armas, dispositivos, maquinaria con marcas corporativas — están dispersos por la tierra, peligrosos y mal entendidos.
 
-The One People who once ruled this world practiced a single magic called Tek. They built cities to the sky, forgot their gods, and destroyed themselves. Only a silver disc called **A.R.T.E.M.I.S.**, built by **North Central Positronics**, remains in the night sky where the moon used to be.
-
----
-
-## The Quest
-
-The party was recruited by **Alton**, a ranger of the **USAF Warriors** — an order dedicated to recovering pre-Reckoning knowledge — on behalf of the elderly sage **Nemmerle**. Nemmerle holds the **Codex of Infinite Wisdom**, an ancient tome that cannot be read without its translation mechanism.
-
-Long ago, a Noldori master divided the Codex's translation scroll into four glyphs and had them tattooed onto four of his students — silver-haired elves of the Noldori race. He sent each of them to the four cardinal directions. The party must find all four Noldori and copy their glyphs to make the Codex readable.
-
-Each member of the party consulted the Codex and thought of a personal question. The answers are locked inside — unreadable until all four glyphs are recovered.
+El Único Pueblo que alguna vez gobernó este mundo practicaba una sola magia llamada Tek. Construyeron ciudades hasta el cielo, olvidaron a sus dioses y se destruyeron a sí mismos. Solo un disco de plata llamado **A.R.T.E.M.I.S.**, construido por **North Central Positronics**, permanece en el cielo nocturno donde solía estar la luna.
 
 ---
 
-## The Party
+## La Misión
 
-| Name | Class | Level | Notes |
-|------|-------|-------|-------|
-| Burton Guster (Burt) | Thief | 6 | Short. Carries a partial skeleton named Frank. Wears a torn black tabard with a bird-handprint symbol. |
-| Bruce | Wizard | 6 | No last name. Flagged as a key story figure. |
-| OJ Simpson | Fighter | 6 | Full name possibly Orenthal. Has received a personal recruitment letter from Alton. |
-| Fraxiga | Wood Elf | 6 | Also seen spelled Forxiga. |
-| Dougal McCurdy | Cleric | 6 | Carries the Moongate and the Staff of Healing. |
-| Rowan | Fighter | 6 | His enchanted sword contains a pre-Reckoning gem from North Central Positronics. |
+El grupo fue reclutado por **Alton**, un ranger de los **USAF Warriors** — una orden dedicada a recuperar el conocimiento pre-Reckoning — en nombre del anciano sabio **Nemmerle**. Nemmerle posee el **Codex of Infinite Wisdom**, un tomo antiguo que no puede leerse sin su mecanismo de traducción.
+
+Hace mucho tiempo, un maestro Noldori dividió el pergamino de traducción del Codex en cuatro glifos y los hizo tatuar en cuatro de sus estudiantes — elfos de cabello plateado de la raza Noldori. Envió a cada uno de ellos hacia los cuatro puntos cardinales. El grupo debe encontrar a los cuatro Noldori y copiar sus glifos para que el Codex pueda leerse.
+
+Cada miembro del grupo consultó el Codex y pensó en una pregunta personal. Las respuestas están encerradas dentro — ilegibles hasta que se recuperen los cuatro glifos.
 
 ---
 
-## Where Things Stand
+## El Grupo
 
-The party has completed three modules and reached level 6. They are currently working toward **Threshold**, a frontier outpost in the northwest, where **Commander Swan (Voronwë)** — one of the four Noldori — leads the Silverwood Sentinels.
-
-A second Noldori, **Taelendra** (called "Tinker Belle" by her captor), is held by **King Walter**, the were-rat ruler of a swamp kingdom in the southeast. Walter will free her if the party clears Lizard Men from his territory.
-
-Two Noldori remain unlocated.
-
-Someone is also tracking the party. Ratfolk were found carrying a scroll with drawings of each party member.
-
----
-
-## Key Factions
-
-**USAF Warriors** — Order dedicated to recovering pre-Reckoning knowledge. Motto: *integritas auxilium optimum.* Insignia: eagle on a circle with three stars.
-
-**The Noldori** — Ancient silver-haired elves. Four of them carry the translation glyphs for the Codex. Two located; two unknown.
-
-**Silverwood Sentinels** — Elf force near Threshold, led by Commander Swan. Allied with the party.
-
-**Kingdom of the Rat** — King Walter's were-rat swamp domain. Holds Taelendra captive. Ratfolk have been found with party surveillance scrolls.
+| Nombre | Clase | Nivel | Notas |
+|--------|-------|-------|-------|
+| Burton Guster (Burt) | Thief | 6 | Bajo de estatura. Lleva un esqueleto parcial llamado Frank. Viste un tabardo negro rasgado con el símbolo de una huella de mano con forma de pájaro. |
+| Bruce | Wizard | 6 | Sin apellido. Señalado como una figura clave en la historia. |
+| OJ Simpson | Fighter | 6 | Nombre completo posiblemente Orenthal. Ha recibido una carta de reclutamiento personal de Alton. |
+| Fraxiga | Wood Elf | 6 | También se ha visto escrito como Forxiga. |
+| Dougal McCurdy | Cleric | 6 | Lleva el Moongate y el Staff of Healing. |
+| Rowan | Fighter | 6 | Su espada encantada contiene una gema pre-Reckoning de North Central Positronics. |
 
 ---
 
-## Repository Structure
+## Estado Actual
+
+El grupo ha completado tres módulos y alcanzado el nivel 6. Actualmente avanzan hacia **Threshold**, un puesto fronterizo en el noroeste, donde **Commander Swan (Voronwë)** — uno de los cuatro Noldori — lidera a los Silverwood Sentinels.
+
+Una segunda Noldori, **Taelendra** (llamada "Tinker Belle" por su captor), está retenida por **King Walter**, el gobernante hombre-rata de un reino pantanoso en el sureste. Walter la liberará si el grupo despeja su territorio de Lizard Men.
+
+Dos Noldori permanecen sin localizar.
+
+Alguien también está siguiendo al grupo. Se encontró a Ratfolk portando un pergamino con dibujos de cada miembro del grupo.
+
+---
+
+## Facciones Principales
+
+**USAF Warriors** — Orden dedicada a recuperar el conocimiento pre-Reckoning. Lema: *integritas auxilium optimum.* Insignia: águila sobre un círculo con tres estrellas.
+
+**The Noldori** — Elfos antiguos de cabello plateado. Cuatro de ellos portan los glifos de traducción para el Codex. Dos localizados; dos desconocidos.
+
+**Silverwood Sentinels** — Fuerza élfica cerca de Threshold, liderada por Commander Swan. Aliada del grupo.
+
+**Kingdom of the Rat** — El dominio pantanoso de King Walter. Mantiene a Taelendra cautiva. Se ha encontrado a Ratfolk con pergaminos de vigilancia del grupo.
+
+---
+
+## Estructura del Repositorio
 
 ```
-party/          — character files
-sessions/       — session logs
-npcs/           — named NPCs
-locations/      — settlements, regions, dungeons
-lore/           — world history, the Codex, the Moongate
-items/          — significant items
-maps/           — battle maps and tactical map stubs
-images/         — DM-provided artwork, organized by type (npcs, locations, creatures, events, items, maps, keep-on-borderlands)
-rules/          — OSE rules reference (classes, combat, monsters, etc.)
-discord-archive/ — raw Discord channel export
-tosort/         — source notes not yet fully integrated
+party/          — archivos de personajes
+sessions/       — registros de sesiones
+npcs/           — PNJs con nombre
+locations/      — asentamientos, regiones, mazmorras
+lore/           — historia del mundo, the Codex, the Moongate
+items/          — objetos significativos
+maps/           — mapas de batalla y esquemas de mapas tácticos
+images/         — ilustraciones del DM, organizadas por tipo (npcs, locations, creatures, events, items, maps, keep-on-borderlands)
+rules/          — referencia de reglas OSE (clases, combate, monstruos, etc.)
+discord-archive/ — exportación sin procesar del canal de Discord
+tosort/         — notas fuente aún no integradas completamente
 ```
 
 ---
 
-## Sessions Logged
+## Sesiones Registradas
 
-| # | Date | Summary |
-|---|------|---------|
-| 001 | 2025-01-12 | Recruited by Alton in Lockleed. Traveled to Castleton. Cleared cliffside manor for Linus Larabee. Found Frank. |
+| # | Fecha | Resumen |
+|---|-------|---------|
+| 001 | 2025-01-12 | Reclutados por Alton en Lockleed. Viaje a Castleton. Limpieza de la mansión del acantilado para Linus Larabee. Encontraron a Frank. |
 
-*Archive is incomplete — sessions prior to March 2026 are being reconstructed from notes and Discord history.*
+*El archivo está incompleto — las sesiones anteriores a marzo de 2026 están siendo reconstruidas a partir de notas e historial de Discord.*

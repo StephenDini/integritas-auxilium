@@ -1,25 +1,25 @@
 # OJ Simpson
 
-**Class:** Fighter
-**Level:** 6
+**Clase:** Fighter
+**Nivel:** 6
 **XP:** 25,531
 
-## Description
+## Descripción
 
-Fighter. His full name may be "Orenthal" — Alton's recruitment letter is addressed to that name.
+Fighter. Su nombre completo podría ser "Orenthal" — la carta de reclutamiento de Alton está dirigida a ese nombre.
 
-## Equipment (from Session 1)
+## Equipo (de la Sesión 1)
 
-- Enchanted longsword
-- Pouch of 16 gems (8 lapis + 8 topaz) — 35 gp each
-- Small silver necklace — 80 gp
-- Ring — 20 gp
-- Signet ring — 16 gp (worn)
+- Espada larga encantada
+- Bolsa con 16 gemas (8 lapislázuli + 8 topacio) — 35 po cada una
+- Pequeño collar de plata — 80 po
+- Anillo — 20 po
+- Anillo de sello — 16 po (puesto)
 
-## Connections
+## Conexiones
 
-- Received a personal recruitment letter from Alton (USAF Ranger) addressed to "Orenthal." The letter invites him to join the USAF Warriors. Meeting point: the Crooked Oak by the Shadowfen, first twilight after the next new moon.
+- Recibió una carta de reclutamiento personal de Alton (Ranger de la USAF) dirigida a "Orenthal." La carta lo invita a unirse a los USAF Warriors. Punto de encuentro: el Roble Torcido junto al Shadowfen, al primer crepúsculo después de la siguiente luna nueva.
 
-## Notes
+## Notas
 
-- Whether OJ has responded to or intends to act on Alton's letter is unresolved.
+- Si OJ ha respondido o tiene intención de actuar sobre la carta de Alton no está resuelto.

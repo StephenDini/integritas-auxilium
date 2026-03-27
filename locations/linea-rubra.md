@@ -1,23 +1,23 @@
 # Linea Rubra
 
-## Overview
+## Descripción general
 
-A waterfront district or establishment within or adjacent to the Kingdom of the Rat. Name translates to "Red Line." Two DM-provided views: a daytime canal/dock scene and a moonlit flooded street at night.
+Un distrito costero o establecimiento dentro o adyacente al Kingdom of the Rat. El nombre se traduce como "Línea Roja." Dos vistas proporcionadas por el DM: una escena de canal/muelle diurna y una calle inundada con luz de luna por la noche.
 
-## Known Info
+## Información conocida
 
-House rules posted on premises:
-- No credit
-- No Dogs
-- No Elfs
+Reglas de la casa publicadas en el establecimiento:
+- Sin crédito
+- Sin perros
+- Sin Elfs
 
-**Known staff:**
-- **Black Pete** — albino waiter
+**Personal conocido:**
+- **Black Pete** — camarero albino
 
-**Drinks:** Goblin Piss (1 cp)
+**Bebidas:** Goblin Piss (1 cp)
 
-See also: locations/kingdom-of-the-rat.md
+Ver también: locations/kingdom-of-the-rat.md
 
-## Images
-![daytime: canal docks, buildings on stilts, boats](../images/locations/linea-rubra.png)
-![night: moonlit flooded street, swamp-adjacent buildings](../images/locations/linea-rubra-2.png)
+## Imágenes
+![diurno: muelles del canal, edificios sobre pilotes, botes](../images/locations/linea-rubra.png)
+![nocturno: calle inundada con luz de luna, edificios adyacentes al pantano](../images/locations/linea-rubra-2.png)

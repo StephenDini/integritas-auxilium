@@ -1,8 +1,8 @@
-# Hexcral — Battle Map
+# Hexcral — Mapa de Batalla
 
-## Overview
+## Descripción general
 
-A round tactical battle map on a hex grid. Shows terrain including cliffs or elevated ground, water or swamp features, and open areas. Black-on-white illustration style. Used at the table.
+Un mapa de batalla táctico redondo sobre una cuadrícula hexagonal. Muestra terreno que incluye acantilados o terreno elevado, características de agua o pantano, y zonas abiertas. Estilo de ilustración en negro sobre blanco. Usado en la mesa.
 
-## Images
-![full battle map](../images/maps/hexcral.jpg)
+## Imágenes
+![mapa de batalla completo](../images/maps/hexcral.jpg)

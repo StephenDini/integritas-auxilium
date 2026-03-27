@@ -1,26 +1,26 @@
 # Alton
 
-## Role
+## Rol
 USAF Ranger
 
-## Affiliation
+## Afiliación
 USAF Warriors
 
-## Description
-Alton wears a cloak bearing the USAF insignia: an eagle on a circle with three stars. Motto: *"integritas auxilium optimum."*
+## Descripción
+Alton usa una capa con el emblema de la USAF: un águila sobre un círculo con tres estrellas. Lema: *"integritas auxilium optimum."*
 
-He served as Nemmerle's field agent — by his own account, he has worked with the sage for approximately 20 years.
+Se desempeñó como agente de campo de Nemmerle — según él mismo, ha trabajado con el sabio durante aproximadamente 20 años.
 
-## Known Info
+## Información conocida
 
-- Recruited the party to seek the four Noldori glyph-bearers for Nemmerle and the Codex.
-- Presented the party with the ARTEMIS Moongate disc (PROJECT A.R.T.E.M.I.S., North Central Positronics, STL).
-- Sent OJ Simpson a personal recruitment letter addressed to "Orenthal," inviting him to join the USAF Warriors. Meeting point: the Crooked Oak by the Shadowfen, first twilight after the next new moon.
-- Briefed the party on the four regions of Newhon before they departed Lockleed.
-- Knows: Raynor, Linus Larabee, Grell Hammerhand, Jefferson Thomas.
+- Reclutó al grupo para buscar a los cuatro portadores del glifo Noldori en nombre de Nemmerle y del Codex.
+- Entregó al grupo el disco de la Moongate de ARTEMIS (PROJECT A.R.T.E.M.I.S., North Central Positronics, STL).
+- Le envió a OJ Simpson una carta personal de reclutamiento dirigida a "Orenthal", invitándolo a unirse a los USAF Warriors. Punto de encuentro: el Roble Torcido junto al Shadowfen, al primer crepúsculo después de la próxima luna nueva.
+- Informó al grupo sobre las cuatro regiones de Newhon antes de que partieran de Lockleed.
+- Conoce a: Raynor, Linus Larabee, Grell Hammerhand, Jefferson Thomas.
 
-## Status
-Active. Location currently unknown — not traveling with the party.
+## Estado
+Activo. Ubicación actual desconocida — no viaja con el grupo.
 
-## Images
-![portrait](../images/npcs/alton-the-usaf-ranger.png)
+## Imágenes
+![retrato](../images/npcs/alton-the-usaf-ranger.png)

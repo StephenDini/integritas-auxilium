@@ -1,74 +1,74 @@
-# Elf (Classic OSE)
+# Elfo (OSE Clásico)
 
-## Class Basics
-| Stat | Value |
-|------|-------|
-| Prime Requisite | INT and STR |
-| XP Bonus | INT ≥13 and STR ≥13: +5%; INT ≥16 and STR ≥13: +10% |
-| Hit Dice | 1d6 |
-| Maximum Level | 10 |
-| Armour | Any, including shields |
-| Weapons | Any |
-| Languages | Alignment, Common, Elvish, Gnoll, Hobgoblin, Orcish |
-| Requirements | Minimum INT 9 |
+## Datos Básicos de Clase
+| Estadística | Valor |
+|-------------|-------|
+| Característica Principal | INT y FUE |
+| Bonificación de XP | INT ≥13 y FUE ≥13: +5%; INT ≥16 y FUE ≥13: +10% |
+| Dados de Golpe | 1d6 |
+| Nivel Máximo | 10 |
+| Armadura | Cualquiera, incluidos escudos |
+| Armas | Cualquiera |
+| Idiomas | Alineamiento, Común, Élfico, Gnoll, Hobgoblin, Orcish |
+| Requisitos | INT mínima 9 |
 
-## Level 6 Stats
-| Level | XP | HD | THAC0 | D | W | P | B | S | 1st | 2nd | 3rd |
+## Estadísticas de Nivel 6
+| Nivel | XP | DG | THAC0 | M | V | P | S | C | 1er | 2do | 3er |
 |-------|----|----|-------|---|---|---|---|---|-----|-----|-----|
-| 6 | 64,000 | 6d6 | 17 [+2] | 10 | 11 | 11 | 13 | 12 | 2 | 2 | 2 |
+| 6 | 64.000 | 6d6 | 17 [+2] | 10 | 11 | 11 | 13 | 12 | 2 | 2 | 2 |
 
-## Full Level Progression
-| Level | XP Required | HD | THAC0 | Spell Slots (1/2/3/4/5) |
-|-------|-------------|-----|-------|-------------------------|
+## Progresión Completa por Nivel
+| Nivel | XP Requerida | DG | THAC0 | Espacios de Conjuro (1/2/3/4/5) |
+|-------|-------------|-----|-------|----------------------------------|
 | 1 | 0 | 1d6 | 19 [0] | 1/–/–/–/– |
-| 2 | 4,000 | 2d6 | 19 [0] | 2/–/–/–/– |
-| 3 | 8,000 | 3d6 | 19 [0] | 2/1/–/–/– |
-| 4 | 16,000 | 4d6 | 17 [+2] | 2/2/–/–/– |
-| 5 | 32,000 | 5d6 | 17 [+2] | 2/2/1/–/– |
-| **6** | **64,000** | **6d6** | **17 [+2]** | **2/2/2/–/–** |
-| 7 | 120,000 | 7d6 | 14 [+5] | 3/2/2/1/– |
-| 8 | 250,000 | 8d6 | 14 [+5] | 3/3/2/2/– |
-| 9 | 400,000 | 9d6 | 14 [+5] | 3/3/3/2/1 |
-| 10 | 600,000 | 9d6+2* | 12 [+7] | 3/3/3/3/2 |
+| 2 | 4.000 | 2d6 | 19 [0] | 2/–/–/–/– |
+| 3 | 8.000 | 3d6 | 19 [0] | 2/1/–/–/– |
+| 4 | 16.000 | 4d6 | 17 [+2] | 2/2/–/–/– |
+| 5 | 32.000 | 5d6 | 17 [+2] | 2/2/1/–/– |
+| **6** | **64.000** | **6d6** | **17 [+2]** | **2/2/2/–/–** |
+| 7 | 120.000 | 7d6 | 14 [+5] | 3/2/2/1/– |
+| 8 | 250.000 | 8d6 | 14 [+5] | 3/3/2/2/– |
+| 9 | 400.000 | 9d6 | 14 [+5] | 3/3/3/2/1 |
+| 10 | 600.000 | 9d6+2* | 12 [+7] | 3/3/3/3/2 |
 
-*CON modifiers no longer apply above 9 HD.
+*Los modificadores de CON ya no aplican por encima de 9 DG.
 
-## Special Abilities
+## Habilidades Especiales
 
-### Arcane Magic
-- Carries a **spell book**; must have it at hand to memorize.
-- Uses the **same spell list as magic-users**.
-- Choose reversible spell form (normal or reversed) at memorization time.
-- At level 6: 2 spells of each of 1st, 2nd, and 3rd level.
+### Magia Arcana
+- Lleva un **libro de conjuros**; debe tenerlo a mano para memorizar.
+- Usa la **misma lista de conjuros que los magos**.
+- Elegir la forma invertida del conjuro (normal o invertida) al momento de memorizar.
+- En nivel 6: 2 conjuros de cada uno de los niveles 1er, 2do y 3er.
 
-### Detect Secret Doors
-- When actively searching: **2-in-6 chance** to detect hidden/secret doors.
+### Detectar Puertas Secretas
+- Al buscar activamente: probabilidad de **2-en-6** de detectar puertas ocultas/secretas.
 
-### Immunity to Ghoul Paralysis
-- Completely immune to paralysis inflicted by ghouls.
+### Inmunidad a la Parálisis de los Ghoul
+- Completamente inmune a la parálisis infligida por ghouls.
 
-### Infravision
-- See in total darkness up to **60'**.
+### Infravisión
+- Ver en oscuridad total hasta **60'**.
 
-### Listening at Doors
-- **2-in-6 chance** of hearing noises beyond a door.
+### Escuchar en Puertas
+- Probabilidad de **2-en-6** de escuchar ruidos más allá de una puerta.
 
-## Spell List
-Elves use the full **Magic-User spell list** (see magic-user.md).
+## Lista de Conjuros
+Los elfos usan la **lista completa de conjuros del Mago** (ver magic-user.md).
 
-### 1st Level (available from level 1)
-Charm Person, Detect Magic, Floating Disc, Hold Portal, Light/Darkness, Magic Missile, Protection from Evil, Read Languages, Read Magic, Shield, Sleep, Ventriloquism
+### 1er Nivel (disponible desde nivel 1)
+Encantar Persona, Detectar Magia, Disco Flotante, Sellar Portal, Luz/Oscuridad, Dardo Mágico, Protección contra el Mal, Leer Idiomas, Leer Magia, Escudo, Sueño, Ventriloquismo
 
-### 2nd Level (available from level 3)
-Continual Light/Darkness, Detect Evil, Detect Invisible, ESP, Invisibility, Knock, Levitate, Locate Object, Mirror Image, Phantasmal Force, Web, Wizard Lock
+### 2do Nivel (disponible desde nivel 3)
+Luz Continua/Oscuridad, Detectar el Mal, Detectar lo Invisible, PES, Invisibilidad, Golpear, Levitar, Localizar Objeto, Imagen Especular, Fuerza Fantasmal, Red, Cierre de Mago
 
-### 3rd Level (available from level 5)
-Clairvoyance, Dispel Magic, Fire Ball, Fly, Haste, Hold Person, Infravision, Invisibility 10' Radius, Lightning Bolt, Protection from Evil 10' Radius, Protection from Normal Missiles, Water Breathing
+### 3er Nivel (disponible desde nivel 5)
+Clarividencia, Disipar Magia, Bola de Fuego, Volar, Prisa, Paralizar Persona, Infravisión, Invisibilidad en Radio de 10', Rayo, Protección contra el Mal en Radio de 10', Protección contra Proyectiles Normales, Respirar Agua
 
-*See magic-user.md for full spell descriptions.*
+*Ver magic-user.md para las descripciones completas de los conjuros.*
 
-**At Level 6**: 2/2/2 spell slots. Magic Missile fires 3 missiles. Fire Ball/Lightning Bolt deal 6d6 damage.
+**En Nivel 6**: 2/2/2 espacios de conjuro. El Dardo Mágico lanza 3 dardos. La Bola de Fuego/Rayo hace 6d6 de daño.
 
-## After Reaching 9th Level
-- May construct a stronghold in a forest. Forest animals within 5 miles become friendly and may warn of intruders.
-- May only hire elven mercenaries (specialists and retainers of any race).
+## Tras Alcanzar el Nivel 9
+- Puede construir una fortaleza en un bosque. Los animales del bosque en un radio de 5 millas se vuelven amistosos y pueden advertir de intrusos.
+- Solo puede contratar mercenarios elfos (especialistas y seguidores de cualquier raza).

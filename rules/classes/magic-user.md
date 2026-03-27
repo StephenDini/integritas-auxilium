@@ -1,102 +1,102 @@
-# Magic-User (Wizard)
+# Mago (Hechicero)
 
-## Class Basics
-| Stat | Value |
-|------|-------|
-| Prime Requisite | INT |
-| Hit Dice | 1d4 |
-| Maximum Level | 14 |
-| Armour | None |
-| Weapons | Dagger only |
-| Languages | Alignment, Common |
+## Datos Básicos de Clase
+| Estadística | Valor |
+|-------------|-------|
+| Característica Principal | INT |
+| Dados de Golpe | 1d4 |
+| Nivel Máximo | 14 |
+| Armadura | Ninguna |
+| Armas | Solo daga |
+| Idiomas | Alineamiento, Común |
 
-## Level 6 Stats
-| Level | XP | HD | THAC0 | D | W | P | B | S | 1st | 2nd | 3rd |
+## Estadísticas de Nivel 6
+| Nivel | XP | DG | THAC0 | M | V | P | S | C | 1er | 2do | 3er |
 |-------|----|----|-------|---|---|---|---|---|-----|-----|-----|
-| 6 | 40,000 | 6d4 | 17 [+2] | 11 | 12 | 11 | 14 | 12 | 2 | 2 | 2 |
+| 6 | 40.000 | 6d4 | 17 [+2] | 11 | 12 | 11 | 14 | 12 | 2 | 2 | 2 |
 
-## Full Level Progression
-| Level | XP Required | HD | THAC0 | Spell Slots (1/2/3/4/5/6) |
-|-------|-------------|-----|-------|---------------------------|
+## Progresión Completa por Nivel
+| Nivel | XP Requerida | DG | THAC0 | Espacios de Conjuro (1/2/3/4/5/6) |
+|-------|-------------|-----|-------|-----------------------------------|
 | 1 | 0 | 1d4 | 19 [0] | 1/–/–/–/–/– |
-| 2 | 2,500 | 2d4 | 19 [0] | 2/–/–/–/–/– |
-| 3 | 5,000 | 3d4 | 19 [0] | 2/1/–/–/–/– |
-| 4 | 10,000 | 4d4 | 19 [0] | 2/2/–/–/–/– |
-| 5 | 20,000 | 5d4 | 19 [0] | 2/2/1/–/–/– |
-| **6** | **40,000** | **6d4** | **17 [+2]** | **2/2/2/–/–/–** |
-| 7 | 80,000 | 7d4 | 17 [+2] | 3/2/2/1/–/– |
-| 8 | 150,000 | 8d4 | 17 [+2] | 3/3/2/2/–/– |
-| 9 | 300,000 | 9d4 | 17 [+2] | 3/3/3/2/1/– |
-| 10 | 450,000 | 9d4+1* | 17 [+2] | 3/3/3/3/2/– |
-| 11 | 600,000 | 9d4+2* | 14 [+5] | 4/3/3/3/2/1 |
+| 2 | 2.500 | 2d4 | 19 [0] | 2/–/–/–/–/– |
+| 3 | 5.000 | 3d4 | 19 [0] | 2/1/–/–/–/– |
+| 4 | 10.000 | 4d4 | 19 [0] | 2/2/–/–/–/– |
+| 5 | 20.000 | 5d4 | 19 [0] | 2/2/1/–/–/– |
+| **6** | **40.000** | **6d4** | **17 [+2]** | **2/2/2/–/–/–** |
+| 7 | 80.000 | 7d4 | 17 [+2] | 3/2/2/1/–/– |
+| 8 | 150.000 | 8d4 | 17 [+2] | 3/3/2/2/–/– |
+| 9 | 300.000 | 9d4 | 17 [+2] | 3/3/3/2/1/– |
+| 10 | 450.000 | 9d4+1* | 17 [+2] | 3/3/3/3/2/– |
+| 11 | 600.000 | 9d4+2* | 14 [+5] | 4/3/3/3/2/1 |
 
-*CON modifiers no longer apply above 9 HD.
+*Los modificadores de CON ya no aplican por encima de 9 DG.
 
-## Memorization Rules
-- Spells memorized from **spell book**, which must be at hand.
-- Requires **uninterrupted night's sleep** + 1 hour to memorize all spells.
-- The same spell may be memorized multiple times.
-- When cast, spell is **erased from memory** until re-memorized.
-- **Reversible spells**: choose normal or reversed form at memorization time.
-- Spells require free speech and hand movement; disrupted if hit before acting.
+## Reglas de Memorización
+- Los conjuros se memorizan del **libro de conjuros**, que debe estar a mano.
+- Requiere **una noche de sueño sin interrupciones** + 1 hora para memorizar todos los conjuros.
+- El mismo conjuro puede memorizarse varias veces.
+- Al lanzar, el conjuro **se borra de la memoria** hasta que sea memorizado nuevamente.
+- **Conjuros invertibles**: elegir la forma normal o invertida al momento de memorizar.
+- Los conjuros requieren habla libre y movimiento de manos; se interrumpen si es golpeado antes de actuar.
 
-## Spell Book
-- Contains exactly as many spells as the character can memorize.
-- Written so only the owner can read it without magic.
-- Replacing lost spell book: 1 week + 1,000gp per spell level per spell.
+## Libro de Conjuros
+- Contiene exactamente tantos conjuros como el personaje puede memorizar.
+- Escrito de modo que solo el propietario puede leerlo sin magia.
+- Reemplazar un libro de conjuros perdido: 1 semana + 1.000 po por nivel de conjuro por conjuro.
 
-## Magic-User Spell List
+## Lista de Conjuros del Mago
 
-### 1st Level Spells
-| Spell | Duration | Range | Summary |
-|-------|----------|-------|---------|
-| Charm Person | Ongoing | 120' | Humanoid saves vs spells or treats caster as friend; obeys commands |
-| Detect Magic | 2 turns | 60' | Enchanted objects/areas/creatures glow |
-| Floating Disc | 6 turns | 6' | Magical platform carries 5,000 coins, follows caster |
-| Hold Portal | 2d6 turns | 10' | Magically holds a door/gate shut |
-| Light | 6 turns +1/level | 120' | 15' radius light OR blinds creature (save vs spells) |
-| Magic Missile | 1 turn | 150' | Auto-hits; 1d6+1 damage; 3 missiles at levels 6–10 |
-| Protection from Evil | 6 turns | Self | +1 saves, –1 to enemy attacks; blocks summoned/enchanted melee |
-| Read Languages | 2 turns | Self | Read any language, map, or coded message |
-| Read Magic | 1 turn | Self | Decipher magical script, scrolls, spell books |
-| Shield | 2 turns | Self | AC 2 vs missiles, AC 4 vs other attacks |
-| Sleep | 4d4 turns | 240' | 2d8 HD of creatures (≤4HD) sleep; or 1 creature of 4+1 HD |
-| Ventriloquism | 2 turns | 60' | Voice appears to come from any location/source |
+### Conjuros de 1er Nivel
+| Conjuro | Duración | Alcance | Resumen |
+|---------|----------|---------|---------|
+| Encantar Persona | Continua | 120' | Un humanoide hace tirada de salvación vs conjuros o trata al lanzador como amigo; obedece órdenes |
+| Detectar Magia | 2 turnos | 60' | Los objetos/áreas/criaturas encantadas brillan |
+| Disco Flotante | 6 turnos | 6' | Plataforma mágica carga 5.000 monedas, sigue al lanzador |
+| Sellar Portal | 2d6 turnos | 10' | Mantiene una puerta/portal cerrado mágicamente |
+| Luz | 6 turnos +1/nivel | 120' | Luz de 15' de radio O ciega a una criatura (tirada de salvación vs conjuros) |
+| Dardo Mágico | 1 turno | 150' | Impacto automático; 1d6+1 de daño; 3 dardos en niveles 6–10 |
+| Protección contra el Mal | 6 turnos | Personal | +1 tiradas de salvación, –1 a ataques enemigos; bloquea melé de invocados/encantados |
+| Leer Idiomas | 2 turnos | Personal | Leer cualquier idioma, mapa o mensaje codificado |
+| Leer Magia | 1 turno | Personal | Descifrar escritura mágica, pergaminos, libros de conjuros |
+| Escudo | 2 turnos | Personal | CA 2 vs proyectiles, CA 4 vs otros ataques |
+| Sueño | 4d4 turnos | 240' | 2d8 DG de criaturas (≤4 DG) se duermen; o 1 criatura de 4+1 DG |
+| Ventriloquismo | 2 turnos | 60' | La voz parece provenir de cualquier lugar/fuente |
 
-### 2nd Level Spells
-| Spell | Duration | Range | Summary |
-|-------|----------|-------|---------|
-| Continual Light | Permanent | 120' | 30' radius light OR blinds (save vs spells) |
-| Detect Evil | 2 turns | 60' | Evil-enchanted objects/evil-intentioned creatures glow |
-| Detect Invisible | 6 turns | 10'/level | Invisible creatures/items revealed |
-| ESP | 12 turns | 60' | Read thoughts of creatures in range; 1 turn per target |
-| Invisibility | Permanent* | 240' | Target becomes invisible; broken by attacking or casting |
-| Knock | 1 round | 60' | Opens stuck/barred/locked/magically held doors |
-| Levitate | 6 turns +1/level | Self | Move vertically up to 20'/round; push off walls for lateral movement |
-| Locate Object | 2 turns | 60'+10'/level | Sense direction (not distance) to a type of object or known specific object |
-| Mirror Image | 6 turns | Self | 1d4 illusory duplicates; each attack destroys one |
-| Phantasmal Force | Concentration | 240' | Visual illusion in 20' cube; illusory monster/attack/scene |
-| Web | 48 turns | 10' | Fills 10' cube with sticky webs; STR determines time to break free |
-| Wizard Lock | Permanent | 10' | Magically locks any portal; bypassed by higher-level caster or knock |
+### Conjuros de 2do Nivel
+| Conjuro | Duración | Alcance | Resumen |
+|---------|----------|---------|---------|
+| Luz Continua | Permanente | 120' | Luz de 30' de radio O ciega (tirada de salvación vs conjuros) |
+| Detectar el Mal | 2 turnos | 60' | Los objetos encantados con el mal/criaturas con intenciones malignas brillan |
+| Detectar lo Invisible | 6 turnos | 10'/nivel | Las criaturas/objetos invisibles son revelados |
+| PES | 12 turnos | 60' | Leer los pensamientos de criaturas en el área; 1 turno por objetivo |
+| Invisibilidad | Permanente* | 240' | El objetivo se vuelve invisible; se rompe al atacar o lanzar |
+| Golpear | 1 ronda | 60' | Abre puertas atascadas/atrancadas/cerradas con llave/sostenidas mágicamente |
+| Levitar | 6 turnos +1/nivel | Personal | Moverse verticalmente hasta 20'/ronda; empujar paredes para moverse lateralmente |
+| Localizar Objeto | 2 turnos | 60'+10'/nivel | Sentir la dirección (no la distancia) hacia un tipo de objeto o un objeto específico conocido |
+| Imagen Especular | 6 turnos | Personal | 1d4 duplicados ilusorios; cada ataque destruye uno |
+| Fuerza Fantasmal | Concentración | 240' | Ilusión visual en cubo de 20'; monstruo/ataque/escena ilusorios |
+| Red | 48 turnos | 10' | Llena un cubo de 10' con telarañas pegajosas; la FUE determina el tiempo para liberarse |
+| Cierre de Mago | Permanente | 10' | Cierra mágicamente cualquier portal; puede ser superado por lanzador de nivel superior o conjuro de golpear |
 
-### 3rd Level Spells
-| Spell | Duration | Range | Summary |
-|-------|----------|-------|---------|
-| Clairvoyance | 12 turns | 60' | See through eyes of creatures in range |
-| Dispel Magic | Instant | 120' | Ends spells in 20' cube; 5% failure per level difference |
-| Fire Ball | Instant | 240' | 20' radius explosion; 1d6/level damage; save vs spells for half |
-| Fly | 1d6 turns +1/level | Touch | Subject flies at 360' (120') in any direction |
-| Haste | 3 turns | 240' | Up to 24 creatures in 60' area move and attack at double rate |
-| Hold Person | 1 turn/level | 120' | 1d4 humans/demihumans paralysed (save vs spells; –2 for single target) |
-| Infravision | 1 day | Touch | Subject sees 60' in darkness |
-| Invisibility 10' Radius | Permanent* | 120' | Selected creature + all within 10' become invisible |
-| Lightning Bolt | Instant | 180' | 60' long, 5' wide bolt; 1d6/level damage; save vs spells for half; bounces |
-| Protection from Evil 10' Radius | 12 turns | Self | All allies within 10' gain +1 saves, –1 to enemy attacks |
-| Protection from Normal Missiles | 12 turns | 30' | One subject immune to small non-magical missiles |
-| Water Breathing | 1 day | 30' | Subject breathes water freely |
+### Conjuros de 3er Nivel
+| Conjuro | Duración | Alcance | Resumen |
+|---------|----------|---------|---------|
+| Clarividencia | 12 turnos | 60' | Ver a través de los ojos de criaturas en el área |
+| Disipar Magia | Instantánea | 120' | Termina conjuros en cubo de 20'; 5% de fallo por diferencia de nivel |
+| Bola de Fuego | Instantánea | 240' | Explosión de 20' de radio; 1d6/nivel de daño; tirada de salvación vs conjuros por la mitad |
+| Volar | 1d6 turnos +1/nivel | Contacto | El sujeto vuela a 360' (120') en cualquier dirección |
+| Prisa | 3 turnos | 240' | Hasta 24 criaturas en área de 60' se mueven y atacan al doble de velocidad |
+| Paralizar Persona | 1 turno/nivel | 120' | 1d4 humanos/semiumanos paralizados (tirada de salvación vs conjuros; –2 para objetivo único) |
+| Infravisión | 1 día | Contacto | El sujeto ve 60' en la oscuridad |
+| Invisibilidad en Radio de 10' | Permanente* | 120' | La criatura seleccionada + todos dentro de 10' se vuelven invisibles |
+| Rayo | Instantánea | 180' | Rayo de 60' de largo y 5' de ancho; 1d6/nivel de daño; tirada de salvación vs conjuros por la mitad; rebota |
+| Protección contra el Mal en Radio de 10' | 12 turnos | Personal | Todos los aliados dentro de 10' obtienen +1 tiradas de salvación, –1 a ataques enemigos |
+| Protección contra Proyectiles Normales | 12 turnos | 30' | Un sujeto es inmune a proyectiles pequeños no mágicos |
+| Respirar Agua | 1 día | 30' | El sujeto respira agua libremente |
 
-*Broken if subject attacks or casts a spell.
+*Se rompe si el sujeto ataca o lanza un conjuro.
 
-**At Level 6**: 2 slots of each of 1st, 2nd, and 3rd level spells.
-**Magic Missile at level 6**: fires **3 missiles** per casting (2 additional per 5 levels above 1st).
-**Fire Ball / Lightning Bolt at level 6**: 6d6 damage.
+**En Nivel 6**: 2 espacios de cada uno de los niveles de conjuro 1er, 2do y 3er.
+**Dardo Mágico en nivel 6**: lanza **3 dardos** por conjuro (2 adicionales por cada 5 niveles por encima del 1er).
+**Bola de Fuego / Rayo en nivel 6**: 6d6 de daño.

@@ -1,23 +1,23 @@
 # Jefferson Thomas
 
-## Role
-Leader of Stella Solis; Tayhas Ranger
+## Rol
+Líder de Stella Solis; Tayhas Ranger
 
-## Location / Affiliation
-Stella Solis (Texas region)
+## Ubicación / Afiliación
+Stella Solis (región de Texas)
 
-## Description
-A ranger. Green hooded cloak, bow, arrows. Middle-aged. Hard-looking.
+## Descripción
+Un Ranger. Capa verde con capucha, arco y flechas. De mediana edad. Aspecto curtido.
 
-## Known Info
+## Información conocida
 
-- Runs Stella Solis, a post-Reckoning settlement in the Texas region.
-- Offers bounties — described by Raynor as having "good bounties available."
-- Known to both Raynor and Alton.
+- Dirige Stella Solis, un asentamiento post-The Reckoning en la región de Texas.
+- Ofrece recompensas — descritas por Raynor como "buenas recompensas disponibles."
+- Conocido tanto por Raynor como por Alton.
 
-## Status
-Active. Based at Stella Solis.
+## Estado
+Activo. Radicado en Stella Solis.
 
-## Images
-![portrait (green cloak, forest background)](../images/npcs/jefferson-thomas-of-stella-solis.png)
-![portrait (darker; arid terrain)](../images/npcs/jefferson-thomas-of-stella-solis-2.png)
+## Imágenes
+![retrato (capa verde, fondo de bosque)](../images/npcs/jefferson-thomas-of-stella-solis.png)
+![retrato (más oscuro; terreno árido)](../images/npcs/jefferson-thomas-of-stella-solis-2.png)

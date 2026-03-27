@@ -1,26 +1,26 @@
 # Dougal McCurdy
 
-**Class:** Cleric
-**Level:** 6
+**Clase:** Cleric
+**Nivel:** 6
 **XP:** 25,531
 
-## Description
+## Descripción
 
-Cleric. Carries the party's most significant items — the Moongate and the Staff of Healing.
+Cleric. Carga los objetos más significativos del grupo — el Moongate y el Staff of Healing.
 
-## Equipment
+## Equipo
 
-- **Moongate (ARTEMIS disc)** — platinum disc teleportation device, carried in his backpack; see items/moongate.md
-- **Staff of Healing** — Derek the Lesser's staff; 1d6+1 HP, divine only, once/day/individual, unlimited uses, cannot self-heal; see items/staff-of-healing.md
-- Enchanted shield
-- 2 fire sacks (harvested from fire beetle encountered under a bed in the Castleton manor)
-- 3 scrolls of Cure Light Wounds
-- 3 scrolls of Bless
-- 3 scrolls of Cure Disease
-- Cask of wine
-- 16 LVNV poker chips — pre-Reckoning artifacts from Las Vegas, Nevada (old world). Were in the eye sockets of the eight skeletons found in the manor dungeon. Current significance unknown.
+- **Moongate (disco de A.R.T.E.M.I.S.)** — dispositivo de teletransportación en disco de platino, transportado en su mochila; ver items/moongate.md
+- **Staff of Healing** — el bastón de Derek el Menor; 1d6+1 PV, solo divinos, una vez/día/individuo, usos ilimitados, no puede curarse a sí mismo; ver items/staff-of-healing.md
+- Escudo encantado
+- 2 sacos de fuego (extraídos del escarabajo de fuego encontrado debajo de una cama en la mansión de Castleton)
+- 3 pergaminos de Curar Heridas Leves
+- 3 pergaminos de Bendición
+- 3 pergaminos de Curar Enfermedad
+- Barril de vino
+- 16 fichas de póker LVNV — artefactos anteriores al Reckoning de Las Vegas, Nevada (mundo antiguo). Estaban en las cuencas oculares de los ocho esqueletos encontrados en la mazmorra de la mansión. Significado actual desconocido.
 
-## Notes
+## Notas
 
-- Was attacked by a fire beetle hiding under a bed during the Castleton manor exploration in Session 1. Kept two fire sacks from the creature.
-- Further details to be filled from Discord archive.
+- Fue atacado por un escarabajo de fuego escondido debajo de una cama durante la exploración de la mansión de Castleton en la Sesión 1. Conservó dos sacos de fuego de la criatura.
+- Más detalles se completarán desde el archivo de Discord.

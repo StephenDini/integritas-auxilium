@@ -1,22 +1,22 @@
 # Rowan
 
-**Class:** Fighter
-**Level:** 6
+**Clase:** Fighter
+**Nivel:** 6
 **XP:** 25,531
 
-## Description
+## Descripción
 
-Fighter. His enchanted longsword contains a North Central Positronics gem — identified by Taelendra ("Tinker Belle").
+Fighter. Su espada larga encantada contiene una gema de North Central Positronics — identificada por Taelendra ("Tinker Belle").
 
-## Equipment (from Session 1)
+## Equipo (de la Sesión 1)
 
-- Enchanted longsword (contains a North Central Positronics gem)
-- 30 gp
+- Espada larga encantada (contiene una gema de North Central Positronics)
+- 30 po
 
-## The Sword's Gem
+## La gema de la espada
 
-Taelendra ("Tinker Belle") identified a North Central Positronics gem in Rowan's sword. Frog idol and snake idol are associated with these gems. The gems have tiny swords that fit into sheathes on their items. **Incorrect orientation ruins the magic.** Handle with care.
+Taelendra ("Tinker Belle") identificó una gema de North Central Positronics en la espada de Rowan. Un ídolo de rana y un ídolo de serpiente están asociados con estas gemas. Las gemas tienen pequeñas espadas que encajan en vainas sobre sus objetos. **La orientación incorrecta arruina la magia.** Manejar con cuidado.
 
-## Notes
+## Notas
 
-- Further details to be filled from Discord archive.
+- Más detalles se completarán desde el archivo de Discord.

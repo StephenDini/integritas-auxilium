@@ -1,17 +1,17 @@
 # Lil Sebastian
 
-## Role
-Unknown — possibly a ratfolk warrior or named creature
+## Rol
+Desconocido — posiblemente un guerrero de la gente-rata o una criatura con nombre propio
 
-## Location / Affiliation
-Unknown; likely Kingdom of the Rat region
+## Ubicación / Afiliación
+Desconocida; probablemente la región del Kingdom of the Rat
 
-## Description
-An armored rat-person. Wears scale armor, a cloak, and a hat. Carries a halberd and a bow. Compact and aggressive stance.
+## Descripción
+Una persona-rata con armadura. Viste cota de malla, capa y sombrero. Lleva una alabarda y un arco. Postura compacta y agresiva.
 
-## Known Info
+## Información conocida
 
-- No confirmed story events on record yet.
+- No hay eventos confirmados en el registro hasta el momento.
 
-## Images
-![full figure illustration](../images/creatures/lil-sebastian.jpg)
+## Imágenes
+![ilustración de figura completa](../images/creatures/lil-sebastian.jpg)

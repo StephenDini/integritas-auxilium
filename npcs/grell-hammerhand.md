@@ -1,21 +1,21 @@
 # Grell Hammerhand
 
-## Role
-Dwarf; regional contact
+## Rol
+Enano; contacto regional
 
-## Location / Affiliation
-Castleton area
+## Ubicación / Afiliación
+Área de Castleton
 
-## Description
-A one-eyed dwarf. The Hammerhand name also appears in the Castleton dwarves group (Kim "Happy" Hammerhand) — possible relation, not confirmed.
+## Descripción
+Un enano tuerto. El apellido Hammerhand también aparece en el grupo de enanos de Castleton (Kim "Happy" Hammerhand) — posible parentesco, no confirmado.
 
-## Known Info
+## Información conocida
 
-- Known by both Alton (USAF Ranger) and Raynor.
-- No further details confirmed.
+- Conocido tanto por Alton (USAF Ranger) como por Raynor.
+- No se han confirmado más detalles.
 
-## Status
-Active. Believed to be in or around Castleton.
+## Estado
+Activo. Se cree que está en Castleton o sus alrededores.
 
-## Images
-![portrait](../images/npcs/grell.png)
+## Imágenes
+![retrato](../images/npcs/grell.png)

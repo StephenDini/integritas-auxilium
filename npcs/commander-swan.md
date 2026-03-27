@@ -1,29 +1,29 @@
 # Commander Swan (Voronwë)
 
-## Role
-One of the four Noldori glyph-bearers; commander of the Silverwood Sentinels; leader of Threshold
+## Rol
+Uno de los cuatro portadores del glifo Noldori; comandante de los Silverwood Sentinels; líder de Threshold
 
-## Location / Affiliation
+## Ubicación / Afiliación
 Threshold / Silverwood Sentinels
 
-## Description
-Noldori elf. Male. Silver hair. Goes by "Commander Swan" or "Voronwë."
+## Descripción
+Elfo Noldori. Masculino. Cabello plateado. Se hace llamar "Commander Swan" o "Voronwë."
 
-Cursed — cannot speak or write his own name or the names of others. Hence he goes by "Swan."
+Maldito — no puede hablar ni escribir su propio nombre ni el de otros. De ahí que use el nombre "Swan."
 
-## Known Info
+## Información conocida
 
 **Threshold:**
-Swan founded or renamed the settlement of Threshold (formerly Whitman). On the name: *"Threshold was originally Whitman. I wanted to change that, make it bigger than a person. People can come and go, but ideas; ideas persist. This is the threshold of civilization. This is where law stands before chaos. Good before evil. Civility before savagery."*
+Swan fundó o rebautizó el asentamiento de Threshold (anteriormente Whitman). Sobre el nombre: *"Threshold era originalmente Whitman. Quería cambiarlo, hacerlo más grande que una persona. Las personas van y vienen, pero las ideas; las ideas persisten. Este es el umbral de la civilización. Aquí es donde la ley se planta ante el caos. El bien ante el mal. La civilidad ante la barbarie."*
 
 **Silverwood Sentinels:**
-Swan commands or commanded this force. After the party cleared the Whispering Caves and freed hostages, Swan personally thanked them and offered the Silverwood Elves' ongoing support. He also wrote to Linus Larabee proposing a waterway trade route between the Silverwood and Castleton areas as a safer alternative to wagon caravans.
+Swan comanda o comandó esta fuerza. Tras la limpieza de las Cuevas Susurrantes por parte del grupo y la liberación de los rehenes, Swan les agradeció personalmente y ofreció el apoyo continuo de los Elfos del Silverwood. También le escribió a Linus Larabee proponiéndole una ruta comercial fluvial entre las áreas del Silverwood y Castleton como alternativa más segura a las caravanas de carros.
 
-**The glyph:**
-One of the four Noldori bearing a translation glyph for the Codex of Infinite Wisdom.
+**El glifo:**
+Uno de los cuatro Noldori que porta un glifo de traducción para el Codex of Infinite Wisdom.
 
-## Status
-At Threshold. The party has been directed to find him there.
+## Estado
+En Threshold. El grupo ha sido dirigido a buscarlo allí.
 
-## Images
-![his forearm bearing the Noldori glyph (binary-pattern marking)](../images/npcs/commander-swan-arm-glyph.png)
+## Imágenes
+![su antebrazo con el glifo Noldori (marca de patrón binario)](../images/npcs/commander-swan-arm-glyph.png)

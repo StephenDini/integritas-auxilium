@@ -1,13 +1,13 @@
 # Nemmex Desert
 
-## Overview
+## Descripción general
 
-An arid desert region. Contains ancient ruins — carved stone archways and collapsed structures with figural reliefs. Birds of prey circle overhead. A lone figure was seen approaching the ruins.
+Una región desértica árida. Contiene ruinas antiguas — arcos de piedra tallada y estructuras derrumbadas con relieves figurativos. Aves de presa circundan en lo alto. Se vio a una figura solitaria aproximándose a las ruinas.
 
-## Known Info
+## Información conocida
 
-- Valen was mapping the forest on the edge of the Nemmex Desert when he found the spider amulet that began his corruption.
-- No confirmed party travel to this region yet.
+- Valen estaba cartografiando el bosque en el borde del Nemmex Desert cuando encontró el amuleto de araña que comenzó su corrupción.
+- Aún no se ha confirmado ningún viaje del grupo a esta región.
 
-## Images
-![ancient carved ruins in open desert](../images/locations/nemmex-desert.jpg)
+## Imágenes
+![antiguas ruinas talladas en desierto abierto](../images/locations/nemmex-desert.jpg)

@@ -1,66 +1,66 @@
-# Campaign Overview
+# Resumen de Campaña
 
-**System:** Old-School Essentials (OSE), semi-custom
-**World:** Newhon
-**Status:** Active — archive started after ~1 year of play (2026-03-13)
+**Sistema:** Old-School Essentials (OSE), semi-personalizado
+**Mundo:** Newhon
+**Estado:** Activo — archivo iniciado tras ~1 año de juego (2026-03-13)
 
-## Central Quest
+## Misión Central
 
-The party seeks to read the **Codex of Infinite Wisdom**, held by the sage Nemmerle in Lockleed. The Codex is unreadable without four translation glyphs tattooed on four Noldori elves, who were dispersed to the four cardinal directions long ago. The party must find all four Noldori.
+El grupo busca leer el **Codex of Infinite Wisdom**, en poder del sabio Nemmerle en Lockleed. El Codex no puede leerse sin cuatro glifos de traducción tatuados en cuatro elfos Noldori, que fueron dispersados hacia los cuatro puntos cardinales hace mucho tiempo. El grupo debe encontrar a los cuatro Noldori.
 
-Two confirmed glyph-bearers located: **Commander Swan (Voronwë)**, male, at Threshold; and **Taelendra ("Tinker Belle")**, female, held captive by King Walter in the Kingdom of the Rat.
+Se han localizado dos portadores de glifos confirmados: **Commander Swan (Voronwë)**, masculino, en Threshold; y **Taelendra ("Tinker Belle")**, femenina, retenida cautiva por King Walter en el Kingdom of the Rat.
 
-## Modules Completed
+## Módulos Completados
 
 1. Keep on the Borderlands (B2)
-2. The Croaking Fane (DCC module)
-3. Gygax Classic Red Book — run as OSE module
+2. The Croaking Fane (módulo DCC)
+3. Gygax Classic Red Book — jugado como módulo OSE
 
-## Current State
+## Estado Actual
 
-- All PCs at level 6
-- Party XP: 25,531
-- Moongate anchor established: Lockleed (moonstone buried)
-- Party directed to Threshold to find Swan (Voronwë) — he is there; separate from Taelendra who is captive under King Walter
+- Todos los PJs en nivel 6
+- XP del grupo: 25,531
+- Ancla del Moongate establecida: Lockleed (piedra lunar enterrada)
+- El grupo fue dirigido a Threshold para encontrar a Swan (Voronwë) — él está allí; es un personaje separado de Taelendra, quien está cautiva bajo King Walter
 
-## Party
+## Grupo
 
-See `/party/` for individual character files.
+Ver `/party/` para los archivos individuales de personajes.
 
-| Name | Class | Level | XP | Notes |
-|------|-------|-------|----|-------|
-| Burton Guster (Burt) | Thief | 6 | 25,531 | Short; carries skeleton Frank |
-| Bruce | Wizard | 6 | 25,531 | No last name; key story figure |
-| OJ Simpson | Fighter | 6 | 25,531 | Real name possibly "Orenthal"; recruited by Alton |
-| Fraxiga | Wood Elf | 6 | 25,531 | Name also seen as Forxiga |
-| Dougal McCurdy | Cleric | 6 | 25,531 | Carries Moongate and Staff of Healing |
-| Rowan | Fighter | 6 | 25,531 | Sword contains North Central Positronics gem |
+| Nombre | Clase | Nivel | XP | Notas |
+|--------|-------|-------|----|-------|
+| Burton Guster (Burt) | Thief | 6 | 25,531 | Bajo de estatura; lleva el esqueleto Frank |
+| Bruce | Wizard | 6 | 25,531 | Sin apellido; figura clave de la historia |
+| OJ Simpson | Fighter | 6 | 25,531 | Nombre real posiblemente "Orenthal"; reclutado por Alton |
+| Fraxiga | Wood Elf | 6 | 25,531 | El nombre también aparece como Forxiga |
+| Dougal McCurdy | Cleric | 6 | 25,531 | Lleva el Moongate y el Staff of Healing |
+| Rowan | Fighter | 6 | 25,531 | La espada contiene una gema de North Central Positronics |
 
-## Key Factions
+## Facciones Principales
 
 **USAF Warriors**
-A cult/order seeking pre-Reckoning (Old Tek) knowledge. Insignia: eagle on a circle with three stars. Motto: *"integritas auxilium optimum."* Alton and Raynor are known members. They recruited or attempted to recruit OJ Simpson.
+Un culto/orden que busca el conocimiento pre-Reckoning (Old Tek). Insignia: águila sobre un círculo con tres estrellas. Lema: *"integritas auxilium optimum."* Alton y Raynor son miembros conocidos. Reclutaron o intentaron reclutar a OJ Simpson.
 
 **The Noldori**
-Ancient elves bearing the four translation glyphs for the Codex. Two confirmed: Swan (Voronwë) at Threshold, and Taelendra ("Tinker Belle") captive under King Walter. Two others unaccounted for.
+Elfos antiguos que portan los cuatro glifos de traducción para el Codex. Dos confirmados: Swan (Voronwë) en Threshold, y Taelendra ("Tinker Belle") cautiva bajo King Walter. Otros dos sin localizar.
 
 **Silverwood Elves / Silverwood Sentinels**
-Based near Threshold. Commander Swan (Voronwë) leads them. Grateful to the party for clearing the Whispering Caves. Have offered their ongoing support.
+Basados cerca de Threshold. Commander Swan (Voronwë) los lidera. Agradecidos con el grupo por limpiar las Cuevas Susurrantes. Han ofrecido su apoyo continuo.
 
 **Kingdom of the Rat**
-King Walter's swamp domain in the southeast. Were-rat culture. Walter holds Taelendra ("Tinker Belle") captive. He has offered to free her if the party clears Lizard Men from his swamp. Ratfolk were found carrying drawings of the party — someone is tracking them.
+El dominio pantanoso de King Walter en el sureste. Cultura de hombres-rata. Walter mantiene a Taelendra ("Tinker Belle") cautiva. Ha ofrecido liberarla si el grupo despeja a los Lizard Men de su pantano. Se encontró a Ratfolk portando dibujos del grupo — alguien los está rastreando.
 
-## Open Threads
+## Hilos Abiertos
 
-- Find Swan (Voronwë) at Threshold
-- Find and free Taelendra from King Walter — requires clearing Lizard Men from his swamp, or finding another way
-- Locate the other two unknown Noldori glyph-bearers (4 total; Swan and Taelendra confirmed)
-- Identify who is tracking the party (Ratfolk scroll with party drawings, discovered by Raynor)
-- Valen — wanted dead or alive; stole a druid staff; fled with shadowy companion; his order was slaughtered by trolls after he left
-- Alton's recruitment letter to OJ: meeting at the Crooked Oak by the Shadowfen
-- Dungeon/cave levels beneath the Castleton cliffside manor (lift discovered, not explored)
-- The brass key and large key found in the manor have not been matched to locks
-- Enchanted short bow ownership unresolved (Fraxiga or Burt)
-- Torn black tabard (two red handprints shaped like a bird) + 16 LVNV chips — from the eight skeletons in the manor dungeon; LVNV = Las Vegas Nevada (pre-Reckoning old world artifact); the bird-hand symbol's faction is unidentified
-- King Walter's Old Tek finds (being sabotaged by Taelendra — may contain useful artifacts)
-- Moongate onyx gem is missing — party is watching for it
+- Encontrar a Swan (Voronwë) en Threshold
+- Encontrar y liberar a Taelendra de King Walter — requiere despejar a los Lizard Men de su pantano, o encontrar otra vía
+- Localizar a los otros dos portadores de glifos Noldori desconocidos (4 en total; Swan y Taelendra confirmados)
+- Identificar quién está rastreando al grupo (pergamino Ratfolk con dibujos del grupo, descubierto por Raynor)
+- Valen — buscado vivo o muerto; robó un bastón druídico; huyó con un compañero sombrío; su orden fue masacrada por trolls después de que se fuera
+- La carta de reclutamiento de Alton para OJ: reunión en el Crooked Oak junto al Shadowfen
+- Los niveles de mazmorra/cueva bajo la mansión del acantilado de Castleton (se descubrió un montacargas, sin explorar)
+- La llave de bronce y la llave grande encontradas en la mansión no han sido emparejadas con cerraduras
+- La propiedad del arco corto encantado no está resuelta (Fraxiga o Burt)
+- Tabardo negro rasgado (dos huellas de manos rojas con forma de pájaro) + 16 fichas LVNV — de los ocho esqueletos en la mazmorra de la mansión; LVNV = Las Vegas Nevada (artefacto del viejo mundo pre-Reckoning); la facción del símbolo mano-pájaro no está identificada
+- Los hallazgos de Old Tek de King Walter (siendo saboteados por Taelendra — pueden contener artefactos útiles)
+- La gema de ónix del Moongate está desaparecida — el grupo la está buscando

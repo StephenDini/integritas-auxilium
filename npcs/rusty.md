@@ -1,21 +1,21 @@
 # Rusty
 
-## Role
-Swan's Bailiff
+## Rol
+Alguacil de Swan
 
-## Location / Affiliation
+## Ubicación / Afiliación
 Threshold / Silverwood Sentinels
 
-## Description
-A stout, cheerful older man with a white beard. Wears armor.
+## Descripción
+Un hombre mayor, corpulento y jovial, con barba blanca. Viste armadura.
 
-## Known Info
+## Información conocida
 
-- Serves as Commander Swan's bailiff at Threshold.
-- No further details confirmed.
+- Sirve como alguacil de Commander Swan en Threshold.
+- No se han confirmado más detalles.
 
-## Status
-Active. Presumably at Threshold.
+## Estado
+Activo. Presumiblemente en Threshold.
 
-## Images
-![portrait](../images/npcs/rusty-swans-bailiff.png)
+## Imágenes
+![retrato](../images/npcs/rusty-swans-bailiff.png)
