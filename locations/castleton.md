@@ -24,6 +24,10 @@ A large manor on the cliffs above Castleton, purchased by Linus Larabee (legalit
 - Room where dead thief skeleton (Frank) was found half-pulled into a hole in the ground
 - Lift leading to dungeon/cave levels below (not yet explored)
 
+## Images
+- `images/locations/castleton.png` — town view (docks/waterfront)
+- `images/locations/overlook-manor-castleton.jpg` — the cliffside manor
+
 ## Known NPCs
 
 - **Linus Larabee** — fence, operates here; see npcs/linus-larabee.md

@@ -13,6 +13,11 @@ Lockleed is the party's starting city and the location of the Codex of Infinite 
 - The Shipley River runs through or near Lockleed. Following it south leads to the Misery River; northwest from there leads to the Mountains of Lost Ore.
 - Travel northeast approximately one week reaches Castleton.
 
+## Images
+- `images/locations/lockleed-river-gate.jpg` — the river gate
+- `images/locations/tower-of-high-wizardry-lockleed.png` — Tower of High Wizardry (exterior)
+- `images/locations/tower-of-high-wizardry-lockleed-2.png` — Tower of High Wizardry (second view)
+
 ## Campaign Significance
 
 - The Codex of Infinite Wisdom is kept here by Nemmerle.

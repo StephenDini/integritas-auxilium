@@ -19,3 +19,6 @@ An elderly sage. Kind and somewhat naive. His manor in Lockleed was once grand; 
 
 ## Status
 Active. Remains in Lockleed at his manor.
+
+## Images
+- `images/npcs/nemmerle.png` — portrait

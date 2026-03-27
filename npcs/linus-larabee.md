@@ -18,3 +18,6 @@ Human. Goes by "Double L, Give em Hell." A fence — he buys and sells things of
 
 ## Status
 Active. Based in Castleton.
+
+## Images
+- `images/npcs/linus-larabee.png` — portrait

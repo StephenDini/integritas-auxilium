@@ -43,3 +43,7 @@ One of the four Noldori bearing a translation glyph for the Codex of Infinite Wi
 
 ## Status
 Captive aboard King Walter's ship. Walter has offered to release her if the party clears Lizard Men from his swamp.
+
+## Images
+- `images/locations/sloop-jon-b.png` — her rebuilt vessel (Sloop Jon B); sci-fi engine lights, swamp-navigating craft
+- `images/items/taelendras-leg.jpg` — her prosthetic leg

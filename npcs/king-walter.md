@@ -20,3 +20,6 @@ The name "Walter" is a title applied to every ruler of this kingdom regardless o
 
 ## Status
 Active. Rules from the swamp. Has not been directly confronted by the party.
+
+## Images
+- `images/npcs/walter-original.jpg` — original portrait (design changed)

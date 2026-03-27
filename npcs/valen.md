@@ -31,3 +31,6 @@ The connection between Valen's departure and the troll attack is implied but not
 
 ## Status
 At large. Whereabouts unknown. Wanted dead or alive.
+
+## Images
+- `images/items/valens-bow.png` — his bow, left behind when he fled; currently held by Raynor
