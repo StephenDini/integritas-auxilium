@@ -1,398 +1,398 @@
-# Monster Reference
+# Referencia de Monstruos
 
-Format: **Name** | AC [ascending] | HD | HP | Attacks | THAC0 | MV | Save | ML | AL | XP | TT | Special Notes
+Formato: **Nombre** | CA [ascendente] | DG | PG | Ataques | THAC0 | MV | TS | ML | AL | XP | TT | Notas especiales
 
-Saves use Fighter level unless noted (e.g. "Cleric 6" or "MU 14"). Treasure Type (TT) refers to the hoard tables in treasure.md.
+Las tiradas de salvación usan el nivel de Fighter salvo que se indique (por ejemplo, "Cleric 6" o "MU 14"). El Tipo de Tesoro (TT) hace referencia a las tablas de botín en treasure.md.
 
 ---
 
 ## A
 
 **Acolyte** | AC 2 [17] | HD 1 (4hp) | 1×mace (1d6) | THAC0 19 [0] | MV 60'(20') | SV Cleric 1 | ML 7 | AL Any | XP 10 | TT U
-Groups of 4+ led by 2nd–5th level cleric.
+Grupos de 4+ liderados por un clérigo de nivel 2–5.
 
 **Amphisbaena** | AC 3 [16] | HD 6* (27hp) | 2×bite (1d3+poison) | THAC0 14 [+5] | MV 120'(40') | SV F6 | ML 8 | AL N | XP 500 | TT None
-Poison: death (save vs poison). Immune to cold.
+Veneno: muerte (tirada de salvación vs veneno). Inmune al frío.
 
 **Ankheg** | AC 2 [17] | HD 3** to 8** | 1×bite (3d6+acid) or 1×acid squirt (4d8) | THAC0 varies | MV 120'(40')/60' burrowing | ML 9 | AL N | XP 65–1,750 | TT C
-Ambushes from underground. Acid: 1d4/round until washed off. Squirt once/day, range 30', save vs breath for half.
+Embosca desde el subsuelo. Ácido: 1d4/ronda hasta que se lave. Escupida una vez/día, alcance 30', tirada de salvación vs aliento para la mitad.
 
 **Ape, White** | AC 6 [13] | HD 4 (18hp) | 2×claw (1d4) or 1×rock (1d6) | THAC0 16 [+3] | MV 120'(40') | SV F2 | ML 7 | AL N | XP 75 | TT None
-Territorial; fight to defend lair.
+Territorial; lucha para defender su guarida.
 
 ---
 
 ## B
 
 **Bandit** | AC 6 [13] | HD 1 (4hp) | 1×weapon (1d6) | THAC0 19 [0] | MV 120'(40') | SV Thief 1 | ML 8 | AL N/C | XP 10 | TT U (A in lair)
-Use disguise or trickery; leader 2nd level+.
+Usa disfraz o engaño; líder de nivel 2+.
 
 **Banshee** | AC 0 [19] | HD 7* (31hp) | 1×touch (1d8) or 1×wail (death) | THAC0 13 [+6] | MV 150'(50') | SV F7 | ML 12 | AL C | XP 850 | TT D
-Undead immunities. Immune to cold/electrical. Wail: 30' radius, save vs death or die (once/day, darkness only). Only harmed by magic.
+Inmunidades de no-muerto. Inmune al frío/electricidad. Aullido: radio de 30', tirada de salvación vs muerte o muere (una vez/día, solo en oscuridad). Solo daña magia.
 
 **Basilisk** | AC 4 [15] | HD 6+1** (28hp) | 1×bite (1d10+petrify) + gaze (petrify) | THAC0 13 [+6] | MV 60'(20') | SV F6 | ML 9 | AL N | XP 950 | TT F
-Petrifying gaze in melee each round (save vs petrify). Averting eyes: –4 to hit, basilisk +2 to attack.
+Mirada petrificante en melé cada ronda (tirada de salvación vs petrificación). Desviar la mirada: –4 para golpear, basilisco +2 para atacar.
 
 **Bat, Giant** | AC 6 [13] | HD 2 (9hp) | 1×bite (1d4) | THAC0 18 [+1] | MV 30'/180' fly | SV F1 | ML 8 | AL N | XP 20 | TT None
-1-in-20 groups are vampiric: bite causes unconsciousness (save vs paralysis), then 1d4 blood drain/round.
+1 de cada 20 grupos es vampírico: mordida causa inconsciencia (tirada de salvación vs parálisis), luego drenaje de sangre de 1d4/ronda.
 
 **Bat, Normal** | AC 6 [13] | HD 1hp | 1×swarm (confusion) | THAC0 20[–1] | MV 9'/120' fly | SV NH | ML 6 | AL N | XP 5 | TT None
-10 bats swarm: –2 to attacks/saves, can't cast spells.
+10 murciélagos en enjambre: –2 a ataques/tiradas de salvación, no puede lanzar conjuros.
 
 **Bear, Black** | AC 6 [13] | HD 4 (18hp) | 2×claw (1d3) + 1×bite (1d6) | THAC0 16 [+3] | MV 120'(40') | SV F2 | ML 7 | AL N | XP 75 | TT U
-Bear hug: both claws hit same round = +2d8 auto.
+Abrazo de oso: ambas garras golpean en la misma ronda = +2d8 automático.
 
 **Bear, Cave** | AC 5 [14] | HD 7 (31hp) | 2×claw (1d8) + 1×bite (2d6) | THAC0 13 [+6] | MV 120'(40') | SV F3 | ML 9 | AL N | XP 450 | TT V
-Bear hug. Tracks blood by scent.
+Abrazo de oso. Rastrea sangre por olfato.
 
 **Bear, Grizzly** | AC 6 [13] | HD 5 (22hp) | 2×claw (1d4) + 1×bite (1d8) | THAC0 15 [+4] | MV 120'(40') | SV F2 | ML 8 | AL N | XP 175 | TT U
-Bear hug.
+Abrazo de oso.
 
 **Bear, Polar** | AC 6 [13] | HD 6 (27hp) | 2×claw (1d6) + 1×bite (1d10) | THAC0 14 [+5] | MV 120'(40') | SV F3 | ML 8 | AL N | XP 275 | TT U
-Bear hug. Excellent swimmer. Runs on snow.
+Abrazo de oso. Nadador excelente. Corre sobre nieve.
 
 **Beetle, Fire** | AC 4 [15] | HD 1+2 (6hp) | 1×bite (2d4) | THAC0 18 [+1] | MV 120'(40') | SV F1 | ML 7 | AL N | XP 15 | TT None
-Three glowing glands (10' radius light, last 1d6 days after death).
+Tres glándulas luminosas (luz de radio 10', duran 1d6 días tras la muerte).
 
 **Beetle, Oil** | AC 4 [15] | HD 2* (9hp) | 1×bite (1d6) + 1×oil spray (blister) | THAC0 18 [+1] | MV 120'(40') | SV F1 | ML 8 | AL N | XP 25 | TT None
-Oil spray when attacked: –2 attacks for 24hrs (save vs breath).
+Rocío de aceite al ser atacado: –2 a los ataques durante 24 horas (tirada de salvación vs aliento).
 
 **Beetle, Tiger** | AC 3 [16] | HD 3+1 (14hp) | 1×bite (2d6) | THAC0 16 [+3] | MV 150'(50') | SV F1 | ML 9 | AL N | XP 50 | TT U
 
 **Berserker** | AC 7 [12] | HD 1+1* (5hp) | 1×weapon (1d8) | THAC0 18 [+1] | MV 120'(40') | SV F1 | ML 12 | AL N | XP 19 | TT P (B in wild)
-+2 to hit humanoids. May rage against allies.
++2 para golpear humanoides. Puede entrar en furia contra aliados.
 
 **Black Pudding** | AC 6 [13] | HD 10* (45hp) | 1×touch (3d8) | THAC0 11 [+8] | MV 60'(20') | SV F5 | ML 12 | AL N | XP 1,600 | TT None
-Only fire hurts it. Non-fire attacks divide it (each hit = new 2HD pudding doing 1d8). Dissolves wood/metal in 1 turn. Climbs walls.
+Solo el fuego la daña. Ataques no-fuego la dividen (cada golpe = nueva gelatina de 2DG que hace 1d8). Disuelve madera/metal en 1 turno. Trepa paredes.
 
 **Blink Dog** | AC 5 [14] | HD 4* (18hp) | 1×bite (1d6) | THAC0 16 [+3] | MV 120'(40') | SV F4 | ML 6 | AL L | XP 125 | TT C
-Teleports in/out during combat; can escape completely. Hates warp beasts.
+Se teletransporta durante el combate; puede escapar completamente. Odia a las bestias distorsionadoras.
 
 **Boar** | AC 7 [12] | HD 3 (13hp) | 1×tusk (2d4) | THAC0 17 [+2] | MV 150'(50') | SV F2 | ML 9 | AL N | XP 35 | TT None
 
 **Brigand** | AC 6/4/3 [13/15/16] | HD 1 (4hp) | 1×weapon (1d6) | THAC0 19 [0] | MV 120'(40') | SV F1 | ML 8 | AL C | XP 10 | TT A
-Half on foot (leather, shield, sword, shortbow), half mounted cavalry (chainmail, shield, sword). Leaders = 2nd/4th level fighters.
+La mitad a pie (cuero, escudo, espada, arco corto), la mitad caballería montada (cota de malla, escudo, espada). Líderes = fighters de nivel 2/4.
 
 **Brownie** | AC 3 [16] | HD ½ (2hp) | 1×knife (1d3) | THAC0 19 [0] | MV 120'(40') | SV Cleric 9 | ML 7 | AL L | XP 5 | TT S
-Never surprised. Dimension door 1/day (360'). Ventriloquism. Dancing lights.
+Nunca es sorprendido. Puerta dimensional 1/día (360'). Ventriloquismo. Luces danzantes.
 
 **Brown Mould** | AC no roll | HD 2* (9hp) | heat drain (1d8/rnd within 5') | THAC0 18 [+1] | MV 0' | SV F2 | ML 12 | AL N | XP 25 | TT None
-Only magical cold damages it. Fire within 5' causes rapid growth (×2/×4/×8 size). 10 sq ft = one "individual."
+Solo el frío mágico la daña. Fuego a 5': crecimiento rápido (×2/×4/×8 de tamaño). 10 pies cuadrados = un "individuo."
 
 **Buccaneer** | AC 7/5 [12/14] | HD 1 (4hp) | 1×weapon (1d6) | THAC0 19 [0] | MV 120'(40') | SV F1 | ML 6 | AL N | XP 10 | TT A
-River/coastal raiders; captains = 7th level fighters.
+Saqueadores fluviales/costeros; capitanes = fighters de nivel 7.
 
 **Bugbear** | AC 5 [14] | HD 3+1 (14hp) | 1×weapon (2d4+1) | THAC0 16 [+3] | MV 90'(30') | SV F3 | ML 9 | AL C | XP 50 | TT B
-Surprise on 1–3.
+Sorprende en 1–3.
 
 **Bulette** | AC 0 [19] | HD 9* (40hp) | 1×bite (4d12) + 2×claw (3d6) | THAC0 12 [+7] | MV 150'(50')/30' burrowing | SV F9 | ML 11 | AL N | XP 1,600 | TT None
-If cornered, leaps 20' attacking with all 4 claws.
+Si es acorralada, salta 20' atacando con las 4 garras.
 
 ---
 
 ## C
 
 **Caecilia** | AC 6 [13] | HD 6* (27hp) | 1×bite (1d8) | THAC0 14 [+5] | MV 60'(20') | SV F3 | ML 9 | AL N | XP 500 | TT B
-Swallow whole on 19–20; inside: 1d8/round, dagger at –4.
+Traga entero en 19–20; dentro: 1d8/ronda, daga con –4.
 
 **Camel** | AC 7 [12] | HD 2 (9hp) | 1×bite (1) + 1×hoof (1d4) | THAC0 18 [+1] | MV 150'(50') | SV F1 | ML 7 | AL N | XP 20 | TT None
-Carries 3,000 cn unencumbered, 6,000 at half speed. No charge attacks when mounted.
+Carga 3.000 cn sin encumbramiento, 6.000 a media velocidad. Sin ataques de carga cuando está montado.
 
 **Carcass Crawler** (Centipede, giant) | AC 7 [12] | HD 3+1* (14hp) | 8×tentacle (paralysis) | THAC0 16 [+3] | MV 120'(40') | SV F2 | ML 9 | AL N | XP 75 | TT B
-Each tentacle: save vs paralysis or paralysed 2d4 turns. Climbs walls/ceilings.
+Cada tentáculo: tirada de salvación vs parálisis o paralizado 2d4 turnos. Trepa paredes y techos.
 
 ---
 
 ## D
 
 **Deep Ones** | AC 6 [13] | HD 2* (9hp) | 1×weapon (1d6) or 2×claw+bite | THAC0 18 [+1] | MV 120'(40') | SV F2 | ML 9 | AL C | XP 25 | TT A
-Aquatic humanoids. Worship ancient sea-gods. Can breathe water/air. Leaders and high priests in lairs.
+Humanoides acuáticos. Adoran a antiguos dioses marinos. Pueden respirar agua/aire. Líderes y sumos sacerdotes en guaridas.
 
 **Djinni** | AC 5 [14] | HD 7+1 (32hp) | 1×fist (2d8) or whirlwind | THAC0 13 [+6] | MV 90'(30')/240' fly | SV F14 | ML 12 | AL L | XP 850 | TT None
-Grants 3 wishes (in some traditions). Creates objects, food, illusions. Whirlwind: 2 rounds to form, sweeps away creatures < 2 HD.
+Concede 3 deseos (en algunas tradiciones). Crea objetos, comida, ilusiones. Torbellino: 2 rondas para formarse, barre criaturas de menos de 2 DG.
 
 **Dog, Wild** | AC 7 [12] | HD 1+1 (5hp) | 1×bite (1d4) | THAC0 18 [+1] | MV 150'(50') | SV F1 | ML 8 | AL N | XP 15 | TT None
 
-**Dragon** — See sub-entries. Dragons vary widely; all have fear aura, detect invisible, keen senses, spell immunity (sleep, charm), and breath weapons. Age determines HD and breath damage.
+**Dragon** — Ver sub-entradas. Los dragones varían mucho; todos tienen aura de terror, detectan lo invisible, sentidos agudos, inmunidad a conjuros (sueño, encanto) y armas de aliento. La edad determina los DG y el daño del aliento.
 
 **Dragon, Black** | AC 2 [17] | HD 7* | 2×claw (1d4+1) + 1×bite (2d10) + acid breath (14d4, line) | THAC0 13 [+6] | MV 90'/240' fly | ML 8 | AL C | XP 850+
-Breath weapon: 60' line of acid, save vs breath for half. Swim/dive freely.
+Arma de aliento: línea de ácido de 60', tirada de salvación vs aliento para la mitad. Nada y bucea libremente.
 
 **Dragon, Blue** | AC 0 [19] | HD 9* | 2×claw (1d6+1) + 1×bite (3d10) + lightning breath (9d6, line) | THAC0 12 [+7] | MV 90'/240' fly | ML 9 | AL N | XP 1,600+
-Breath: 100' ×5' lightning bolt. Love open country.
+Aliento: rayo de 100'×5'. Aman el campo abierto.
 
 **Dragon, Gold** | AC –2 [21] | HD 11* | 2×claw (2d4) + 1×bite (6d6) + fire/chlorine breath | THAC0 11 [+8] | MV 90'/240' fly | ML 10 | AL L | XP 2,700+
-Breath: fire (90' cone, 9d6) or chlorine (50' cone, saves for half). Speak/use magic.
+Aliento: fuego (cono de 90', 9d6) o cloro (cono de 50', tirada de salvación para la mitad). Hablan y usan magia.
 
 **Dragon, Green** | AC 1 [18] | HD 8* | 2×claw (1d6) + 1×bite (3d8) + gas breath (8d6, cloud) | THAC0 12 [+7] | MV 90'/240' fly | ML 9 | AL C | XP 1,200+
-Breath: 50' long chlorine cloud, 40' wide. Dwell in forests.
+Aliento: nube de cloro de 50' de largo y 40' de ancho. Viven en bosques.
 
 **Dragon, Red** | AC –1 [20] | HD 10* | 2×claw (1d8) + 1×bite (4d8) + fire breath (10d6, cone) | THAC0 11 [+8] | MV 90'/240' fly | ML 10 | AL C | XP 2,300+
-Breath: 90' cone of fire. Most feared dragon. Huge hoards.
+Aliento: cono de fuego de 90'. Dragón más temido. Tesoros enormes.
 
 **Dragon, White** | AC 3 [16] | HD 6* | 2×claw (1d4) + 1×bite (2d8) + cold breath (6d6, cone) | THAC0 14 [+5] | MV 90'/240' fly | ML 8 | AL N | XP 500+
-Breath: 80' cone of cold. Dwell in icy regions.
+Aliento: cono de frío de 80'. Viven en regiones heladas.
 
 **Dryad** | AC 5 [14] | HD 2* (9hp) | 1×dagger (1d4) | THAC0 18 [+1] | MV 120'(40') | SV F4 | ML 6 | AL N | XP 25 | TT D
-Charm person at will (–2 save). Bound to a tree; dies if tree is destroyed. Rarely leave forest.
+Encanto de personas a voluntad (–2 a la tirada de salvación). Vinculada a un árbol; muere si el árbol es destruido. Rara vez abandona el bosque.
 
 **Dwarf** | AC 4 [15] | HD 1 (4hp) | 1×weapon (1d8) | THAC0 19 [0] | MV 60'(20') | SV F1 | ML 8 (10 w/leader) | AL L | XP 10 | TT G
-Leaders are high-level fighters; +4 save vs magic, infravision 60', detect construction/stonework.
+Los líderes son fighters de alto nivel; +4 a tiradas de salvación vs magia, infravisión 60', detectan construcciones/trabajo en piedra.
 
 ---
 
 ## E
 
 **Efreeti** | AC 3 [16] | HD 10* (45hp) | 1×fist (2d8) or fire | THAC0 11 [+8] | MV 90'(30')/240' fly | SV F15 | ML 12 | AL C | XP 1,600 | TT None
-Grants 3 wishes. Creates fire/illusions. Surround self in fire (1d8/round to attackers). Whirlwind (like djinni).
+Concede 3 deseos. Crea fuego/ilusiones. Se rodea de fuego (1d8/ronda a atacantes). Torbellino (como el djinni).
 
 **Elf** | AC 5 [14] | HD 1+1 (5hp) | 1×weapon (1d8) | THAC0 19 [0] | MV 120'(40') | SV Elf 1 | ML 8 (10 w/leader) | AL L | XP 15 | TT E
-Infravision 60', immune to ghoul paralysis, detect secret doors 2-in-6. Spellcaster leaders.
+Infravisión 60', inmune a la parálisis de ghoul, detecta puertas secretas en 2/6. Líderes con magia.
 
 ---
 
 ## F
 
-**Fish, Giant — various types:**
+**Fish, Giant — varios tipos:**
 - **Electric Eel**: AC 6 [13] | HD 2+2 (11hp) | 1×bite (1d3) + shock (2d8) | MV 120'(40') swim | XP 30
-- **Piranha Swarm**: AC 7 [12] | HD 3 (13hp) | 1×bite per fish | MV 150'(50') swim | XP 35; frenzied by blood
-- **Sturgeon, Giant**: AC 4 [15] | HD 10+2* (47hp) | 1×bite (2d6+crush) | MV 180'(60') swim | XP 1,900; swallow on 20
+- **Piranha Swarm**: AC 7 [12] | HD 3 (13hp) | 1×bite per fish | MV 150'(50') swim | XP 35; enloquece con sangre
+- **Sturgeon, Giant**: AC 4 [15] | HD 10+2* (47hp) | 1×bite (2d6+crush) | MV 180'(60') swim | XP 1,900; traga entero en 20
 
 **Flesh Golem** | AC 8 [11] | HD 9 (40hp) | 2×fist (2d8) | THAC0 12 [+7] | MV 90'(30') | SV F4 | ML 12 | AL N | XP 900 | TT None
-Immune to mundane weapons, fire, cold, electricity. Healed by electricity (1hp per die).
+Inmune a armas mundanas, fuego, frío, electricidad. La electricidad lo cura (1pg por dado).
 
 ---
 
 ## G
 
 **Gargoyle** | AC 5 [14] | HD 4** (18hp) | 2×claw (1d3) + 1×bite (1d6) + 1×horn (1d4) | THAC0 16 [+3] | MV 90'(30')/150' fly | SV F6 | ML 11 | AL C | XP 175 | TT C
-Only harmed by magic. Blend with stonework.
+Solo daña magia. Se camufla entre las piedras.
 
 **Gelatinous Cube** | AC 8 [11] | HD 4* (18hp) | 1×touch (2d4+paralysis) | THAC0 16 [+3] | MV 60'(20') | SV F2 | ML 12 | AL N | XP 125 | TT V
-Transparent; surprise on 1–4. Paralysis 2d4 turns (save vs paralysis). Immune to lightning, cold, fear, charm, sleep. Digests paralysed victims.
+Transparente; sorprende en 1–4. Parálisis 2d4 turnos (tirada de salvación vs parálisis). Inmune a rayos, frío, miedo, encanto, sueño. Digiere víctimas paralizadas.
 
 **Ghoul** | AC 6 [13] | HD 2* (9hp) | 2×claw (1d3+paralysis) + 1×bite (1d3+paralysis) | THAC0 18 [+1] | MV 90'(30') | SV F2 | ML 9 | AL C | XP 25 | TT B
-Undead immunities. Paralysis 2d4 turns (save vs paralysis). Elves immune to paralysis. Creating more ghouls from drained victims.
+Inmunidades de no-muerto. Parálisis 2d4 turnos (tirada de salvación vs parálisis). Los elfos son inmunes a la parálisis. Las víctimas drenadas pueden convertirse en ghouls.
 
 **Gnoll** | AC 5 [14] | HD 2 (9hp) | 1×weapon (2d4) | THAC0 18 [+1] | MV 90'(30') | SV F2 | ML 8 (10 w/chieftain) | AL C | XP 20 | TT D
-Leader 3 HD; chieftain 5 HD with bodyguards.
+Líder 3 DG; jefe 5 DG con guardaespaldas.
 
 **Gnome** | AC 5 [14] | HD 1 (4hp) | 1×weapon (1d6) | THAC0 19 [0] | MV 60'(20') | SV F1 | ML 8 (10 w/leader) | AL L | XP 10 | TT C
-Infravision 90', speak with burrowing animals, +1 save vs magic per gnome level. Detect underground construction/stonework.
+Infravisión 90', habla con animales excavadores, +1 a tirada de salvación vs magia por nivel de gnomo. Detecta construcciones subterráneas/trabajo en piedra.
 
 **Goblin** | AC 6 [13] | HD 1–1 (3hp) | 1×weapon (1d6) | THAC0 20 [–1] | MV 60'(20') | SV F1 | ML 7 (9 w/king) | AL C | XP 5 | TT R (C in lair)
-–1 to hit in full daylight. King 3 HD. Sometimes ride dire wolves.
+–1 para golpear con plena luz del día. Rey 3 DG. A veces montan lobos terribles.
 
 **Gorgon** | AC 2 [17] | HD 8* (36hp) | 1×gore (2d6) or petrifying breath | THAC0 12 [+7] | MV 120'(40') | SV F8 | ML 8 | AL C | XP 1,200 | TT E
-Breath: 60' ×10' cloud, all petrified (save vs petrify). Charge doubles gore.
+Aliento: nube de 60'×10', todos petrificados (tirada de salvación vs petrificación). La carga duplica la corneada.
 
 **Gorilla** | AC 5 [14] | HD 4+1* (19hp) | 2×fist (1d3+rend) + 1×bite (1d6) | THAC0 15 [+4] | MV 120'(40') | SV F2 | ML 7 | AL N | XP 200 | TT None
-Rend: both fists hit = +1d6 auto.
+Desgarrar: ambos puños golpean = +1d6 automático.
 
 **Green Slime** | AC no roll | HD 2* (9hp) | touch (consume flesh) | THAC0 18 [+1] | MV 3'(1') | SV F1 | ML 12 | AL N | XP 25 | TT None
-Falls from ceiling. Dissolves wood/metal in 6 rounds. Turns victim to green slime in 6+1d4 rounds. Remove only by fire (half dmg to victim/slime). Only fire/cold damages it.
+Cae del techo. Disuelve madera/metal en 6 rondas. Convierte la víctima en limo verde en 6+1d4 rondas. Retirar solo con fuego (medio daño a víctima/limo). Solo fuego/frío lo daña.
 
 **Grey Ooze** | AC 8 [11] | HD 3* (13hp) | 1×touch (2d8) | THAC0 17 [+2] | MV 10'(3') | SV F2 | ML 12 | AL N | XP 50 | TT None
-Blends with wet stone. Acid dissolves normal armour instantly, 2d8/round. Immune to cold and fire.
+Se confunde con la piedra mojada. El ácido destruye la armadura normal al instante, 2d8/ronda. Inmune al frío y al fuego.
 
 **Griffon** | AC 5 [14] | HD 7 (31hp) | 2×claw (1d4) + 1×bite (2d8) | THAC0 13 [+6] | MV 120'(40')/360' fly | SV F4 | ML 8 | AL N | XP 450 | TT E
-Attacks horses on sight within 120'. Can be trained as mounts if captured young.
+Ataca caballos a la vista en un radio de 120'. Puede ser entrenado como montura si es capturado joven.
 
 **Gullygug** | AC 5 [14] | HD 1* (4hp) | 1×weapon (1d6) or 2×claw+bite | THAC0 19 [0] | MV 30'(10')/150' swim | SV F1 | ML 7 | AL C | XP 13 | TT D
-Surprise 1–3. Hopping attack: jump 30', +1 to hit; charge double damage with impaling weapon.
+Sorprende en 1–3. Ataque saltando: salta 30', +1 para golpear; carga doble daño con arma perforadora.
 
 ---
 
 ## H
 
 **Hag, Black** | AC 0 [19] | HD 8* (36hp) | 2×talon (1d8+3) + 1×bite (1d8+3) | THAC0 12 [+7] | MV 150'(50') | SV F8 | ML 10 | AL C | XP 1,200 | TT D
-Immune to illusions. Grapple: all 3 attacks hit = 3d8+9 auto each round. Can disguise appearance.
+Inmune a las ilusiones. Agarre: los 3 ataques golpean = 3d8+9 automático cada ronda. Puede disfrazar su apariencia.
 
 **Hag, Sea** | AC 6 [13] | HD 3** (13hp) | 1×dagger (1d4) or gaze (death) | THAC0 17 [+2] | MV 150'(50') | SV F3 | ML 10 | AL C | XP 65 | TT C
-Hideous visage: –2 to attacks/damage (save vs spells). Deadly gaze 3/day, range 30' (save vs death or die). +2 to magic saves.
+Visaje horripilante: –2 a ataques/daño (tirada de salvación vs conjuros). Mirada mortal 3/día, alcance 30' (tirada de salvación vs muerte o muere). +2 a tiradas de salvación vs magia.
 
 **Halfling** | AC 7 [12] | HD 1–1 (3hp) | 1×weapon (1d6) | THAC0 19 [0] | MV 90'(30') | SV Halfling 1 | ML 7 | AL L | XP 5 | TT V (B in wild)
-Village leaders are 2nd–7th level halflings; militia of 2HD guards.
+Los líderes de aldea son halflings de nivel 2–7; milicia de guardias de 2 DG.
 
 **Harpy** | AC 7 [12] | HD 3* (13hp) | 2×claw (1d4) + weapon + song (charm) | THAC0 17 [+2] | MV 60'(20')/150' fly | SV F3 | ML 7 | AL C | XP 50 | TT C
-Song: all who hear save vs spells or charmed. +2 to all saves.
+Canto: todos los que escuchan hacen tirada de salvación vs conjuros o quedan encantados. +2 a todas las tiradas de salvación.
 
 **Hawk, Giant** | AC 6 [13] | HD 3+3 (16hp) | 1×talons/beak (1d6) | THAC0 16 [+3] | MV 450' fly | SV F2 | ML 8 | AL N | XP 50 | TT None
-Swoop: double damage if target surprised.
+Picado: doble daño si el objetivo es sorprendido.
 
 **Hellhound** | AC 4 [15] | HD 3–7* | 1×bite (1d6) or breath (1d6/HD) | THAC0 varies | MV 120'(40') | ML 9 | AL C | XP 50–850 | TT C
-Fire breath 2-in-6/round (save vs breath for half). Fire immune. Detect invisible 75%/round at 60'.
+Aliento de fuego 2/6/ronda (tirada de salvación vs aliento para la mitad). Inmune al fuego. Detecta invisible 75%/ronda a 60'.
 
 **Herd Animal, Large** (elk/moose) | AC 7 [12] | HD 4 (18hp) | 1×butt (1d8) | THAC0 16 [+3] | MV 240'(80') | ML 5 | AL N | XP 75 | TT None
-Stampede (20+): 1d20 damage, 3-in-4 chance/round.
+Estampida (20+): 1d20 de daño, 3/4 de probabilidad/ronda.
 
 **Herd Animal, Medium** (caribou/oxen) | AC 7 [12] | HD 3 (13hp) | 1×butt (1d6) | THAC0 17 [+2] | MV 240'(80') | ML 5 | AL N | XP 35 | TT None
 
 **Herd Animal, Small** (antelope/deer/goats) | AC 7 [12] | HD 1–2 | 1×butt (1d4) | THAC0 19–18 | MV 240'(80') | ML 5 | AL N | XP 10/20 | TT None
 
 **Hippocampus** | AC 4 [15] | HD 4 (18hp) | 1×tail (1d4) | THAC0 16 [+3] | MV 240'(80') | SV F4 | ML 10 | AL L | XP 75 | TT None
-Used as mounts by aquatic humanoids.
+Utilizado como montura por humanoides acuáticos.
 
 **Hippogriff** | AC 5 [14] | HD 3+1 (14hp) | 2×claw (1d6) + 1×bite (1d10) | THAC0 16 [+3] | MV 180'(60')/360' fly | SV F2 | ML 8 | AL N | XP 50 | TT None
-Hates pegasi. Can be trained as mounts.
+Odia a los pegasos. Puede ser entrenado como montura.
 
 **Hippopotamus, Normal** | AC 5 [14] | HD 8 (36hp) | 1×bite (2d6; males 3d6) | THAC0 12 [+7] | MV 90'(30')/120' swim | SV F4 | ML 9 | AL N | XP 650 | TT None
-Tips small boats 50%. Can submerge 15 min.
+Vuelca botes pequeños 50%. Puede sumergirse 15 min.
 
 **Hippopotamus, Behemoth** | AC 3 [16] | HD 10 (45hp) | 1×bite (2d8; males 3d8) | THAC0 11 [+8] | MV 60'(20')/120' swim | SV F5 | ML 9 | AL N | XP 900 | TT None
-Submerge 30 min.
+Se sumerge 30 min.
 
 **Hobgoblin** | AC 6 [13] | HD 1+1 (5hp) | 1×weapon (1d8) | THAC0 18 [+1] | MV 90'(30') | SV F1 | ML 8 (10 w/king) | AL C | XP 15 | TT D
-King: 5 HD, +2 damage. May have thoul bodyguards.
+Rey: 5 DG, +2 de daño. Puede tener guardaespaldas thoul.
 
 **Homunculus** | AC 5 [14] | HD 2* (9hp) | 1×bite (1d3+poison/sleep) | THAC0 18 [+1] | MV 60'(20')/180' fly | SV MU 9 | ML 9 | AL as creator | XP 25 | TT None
-Telepathic link to creator (480'). Creator suffers 2d10 dmg if homunculus dies.
+Vínculo telepático con su creador (480'). El creador sufre 2d10 de daño si el homúnculo muere.
 
 **Hook Beast** | AC 2 [17] | HD 5 (22hp) | 2×claw (1d8) | THAC0 15 [+4] | MV 90'(30') | SV F5 | ML 8 | AL C | XP 175 | TT K
-Only surprised on 1. Communicate by carapace clicks.
+Solo sorprendido en 1. Se comunica mediante clics del caparazón.
 
-**Horse, Draft** | AC 7 [12] | HD 3 (13hp) | None | MV 90'(30') | ML 6 | AL N | XP 35 | TT None | Load: 4,500/9,000 cn
-**Horse, Riding** | AC 7 [12] | HD 2 (9hp) | 2×hoof (1d4) | MV 240'(80') | ML 7 | AL N | XP 20 | Load: 3,000/6,000 cn
-**Horse, War** | AC 7 [12] | HD 3 (13hp) | 2×hoof (1d6) | MV 120'(40') | ML 9 | AL N | XP 35 | Load: 4,000/8,000 cn. Charge: rider lance double dmg.
+**Horse, Draft** | AC 7 [12] | HD 3 (13hp) | None | MV 90'(30') | ML 6 | AL N | XP 35 | TT None | Carga: 4.500/9.000 cn
+**Horse, Riding** | AC 7 [12] | HD 2 (9hp) | 2×hoof (1d4) | MV 240'(80') | ML 7 | AL N | XP 20 | Carga: 3.000/6.000 cn
+**Horse, War** | AC 7 [12] | HD 3 (13hp) | 2×hoof (1d6) | MV 120'(40') | ML 9 | AL N | XP 35 | Carga: 4.000/8.000 cn. Carga: lanza del jinete doble daño.
 
 **Hulker** | AC 2 [17] | HD 10* (45hp) | 2×claw (3d4) + 1×mandibles (2d8) + gaze (confusion) | THAC0 11 [+8] | MV 60'(20') | SV F10 | ML 10 | AL C | XP 1,600 | TT G
-Burrows stone 10'/earth 60'. Confusing gaze each round in melee (save vs spells or confused 3d4 rounds).
+Excava piedra 10'/tierra 60'. Mirada confusora cada ronda en melé (tirada de salvación vs conjuros o confundido 3d4 rondas).
 
 **Hydra** | AC 5 [14] | HD 5–12 (8hp/HD) | 5–12×bite (1d10 each) | THAC0 varies | MV 120'(40') | SV varies | ML 9 | AL N | XP 175–1,100 | TT B
-1d8+4 heads (1HD each). Every 8 damage disables one head. Sea hydras also exist.
+1d8+4 cabezas (1 DG cada una). Cada 8 puntos de daño inutiliza una cabeza. También existen hidras marinas.
 
 ---
 
 ## I
 
 **Insect Swarm** | AC 7 [12] | HD 2–4 | 1×swarm (2 or 4 hp) | THAC0 varies | MV 30'/60' fly | SV NH | ML 11 | AL N | XP 20–75 | TT None
-Only harmed by fire, magical cold, or sleep spells (whole swarm). 10'×30' area. Auto-damage: 2hp armoured, 4hp unarmoured.
+Solo daña fuego, frío mágico o conjuros de sueño (todo el enjambre). Área de 10'×30'. Daño automático: 2pg con armadura, 4pg sin armadura.
 
 **Invisible Stalker** | AC 3 [16] | HD 8* (36hp) | 1×blow (4d4) | THAC0 12 [+7] | MV 120'(40') | SV F8 | ML 12 | AL N | XP 1,200 | TT None
-Always invisible. Surprise 1–5. Tracks without fault. Returns to home plane if killed.
+Siempre invisible. Sorprende en 1–5. Rastrea sin fallar. Regresa al plano de origen si es eliminado.
 
 ---
 
 ## J
 
 **Jackalwere** | AC 3 [16] | HD 4* (18hp) | 1×bite (2d4) or weapon | THAC0 16 [+3] | MV 120'(40') | SV F4 | ML 7 | AL C | XP 125 | TT C
-Only magic damages it. Sleep gaze (out of combat; save vs spells or sleep 4d4 turns).
+Solo daña magia. Mirada somnífera (fuera del combate; tirada de salvación vs conjuros o duerme 4d4 turnos).
 
 **Jellyfish, Giant** | AC 9 [10] | HD 4** (18hp) | 1d4×tentacle/target (1d10+paralysis) | THAC0 16 [+3] | MV 15'(5') | SV F2 | ML 8 | AL N | XP 175 | TT None
-Surprise 1–5 (near-invisible). Tentacles reach 100'. Paralysis 1d10 rounds (save vs paralysis). Severed by any hit.
+Sorprende en 1–5 (casi invisible). Tentáculos alcanzan 100'. Parálisis 1d10 rondas (tirada de salvación vs parálisis). Cortados por cualquier golpe.
 
 ---
 
 ## K
 
 **Killer Bee** | AC 7 [12] | HD ½* (2hp) | 1×sting (1d3+poison+lodged stinger) | THAC0 19 [0] | MV 150' fly | SV F1 | ML 9 | AL N | XP 6 | TT Honey
-Poison: death (save vs poison). Bee dies after stinging. Stinger deals 1 damage/round until removed. Queen: 2 HD, doesn't die after sting.
+Veneno: muerte (tirada de salvación vs veneno). La abeja muere tras picar. El aguijón hace 1 de daño/ronda hasta que se extrae. Reina: 2 DG, no muere tras picar.
 
 **Kobold** | AC 7 [12] | HD ½ (2hp) | 1×weapon (1d4–1) | THAC0 19 [0] | MV 60'(20') | SV NH | ML 6 (8 w/chieftain) | AL C | XP 5 | TT P (J in lair)
-Infravision 90'. Hate gnomes. Set ambushes. Chieftain 2 HD.
+Infravisión 90'. Odian a los gnomos. Tienden emboscadas. Jefe 2 DG.
 
 **Krell** | AC 3 [16] | HD 5** (22hp) | 1×beak (1d6) + 10×tentacle (1d4+paralysis) | THAC0 15 [+4] | MV 120'(40') | SV F5 | ML 8 | AL C | XP 425 | TT None
-Hovering brain. Ambushes from above. All 10 tentacles target one victim. Paralysis 1 turn (+4 save). Immune to lightning.
+Cerebro flotante. Embosca desde arriba. Los 10 tentáculos apuntan a una sola víctima. Parálisis 1 turno (+4 a la tirada de salvación). Inmune a los rayos.
 
 ---
 
 ## L
 
 **Lamia** | AC 2 [17] | HD 9** (40hp) | 1×touch (1d4+WIS drain) | THAC0 12 [+7] | MV 240'(80') | SV F9 | ML 8 | AL C | XP 2,300 | TT D
-WIS drain per touch; below 3 WIS = mindless obedience. Charm person 1/day. Illusion 1/day.
+Drenaje de SAB por toque; por debajo de 3 SAB = obediencia ciega. Encanto de personas 1/día. Ilusión 1/día.
 
 **Lamprey, Giant** | AC 5 [14] | HD 5* (22hp) | 1×bite (1d6+blood drain) | THAC0 15 [+4] | MV 90'(30') | SV F3 | ML 7 | AL N | XP 300 | TT None
-Attaches on hit: 10 auto damage/round.
+Se adhiere al golpear: 10 de daño automático/ronda.
 
 **Leech, Giant** | AC 7 [12] | HD 6 (27hp) | 1×bite (1d6+blood drain) | THAC0 14 [+5] | MV 90'(30') | SV F3 | ML 10 | AL N | XP 275 | TT None
-Attaches on hit: 1d6 auto/round. Must be killed to detach.
+Se adhiere al golpear: 1d6 automático/ronda. Debe ser eliminada para desprenderse.
 
 **Leprechaun** | AC 7 [12] | HD ½* (2hp) | None | THAC0 19 [0] | MV 150'(50') | SV F1 | ML 7 | AL N | XP 6 | TT F
-Never surprised; always surprises if invisible. +4 to saves. Unlimited: illusion, invisibility, polymorph objects, ventriloquism. Steals valuables and flees.
+Nunca sorprendido; siempre sorprende si es invisible. +4 a las tiradas de salvación. Ilimitado: ilusión, invisibilidad, polimorfar objetos, ventriloquismo. Roba objetos de valor y huye.
 
 **Leucrocotta** | AC 3 [16] | HD 6+1 (28hp) | 1×bite (3d6) | THAC0 13 [+6] | MV 180'(60') | SV F6 | ML 8 | AL C | XP 350 | TT D
-Mimics human voices to lure prey. Kick attack when retreating (1d6).
+Imita voces humanas para atraer presas. Ataque de patada al retroceder (1d6).
 
 **Lich** | AC 0 [19] | HD 11**** (49hp) | 1×touch (1d10+paralysis) | THAC0 11 [+8] | MV 60'(20') | SV MU 14 | ML 10 | AL C | XP 4,300 | TT A
-Undead immunities. Fear aura (save vs spells or flee 2d6 turns; 5th level+ immune). Immune to mundane attacks, electricity, cold, polymorph/insanity/death spells. Casts as 14th level MU. Touch: paralysis 6 turns (save vs paralysis).
+Inmunidades de no-muerto. Aura de terror (tirada de salvación vs conjuros o huye 2d6 turnos; nivel 5+ inmune). Inmune a ataques mundanos, electricidad, frío, conjuros de polimorfismo/locura/muerte. Lanza como MU de nivel 14. Toque: parálisis 6 turnos (tirada de salvación vs parálisis).
 
 **Living Statue, Crystal** | AC 4 [15] | HD 3 (13hp) | 2×blow (1d6) | THAC0 17 [+2] | MV 90'(30') | SV F3 | ML 11 | AL L | XP 35 | TT None
-Immune to sleep.
+Inmune al sueño.
 
 **Living Statue, Iron** | AC 2 [17] | HD 4 (18hp) | 2×blow (1d8) | THAC0 16 [+3] | MV 30'(10') | SV F4 | ML 11 | AL N | XP 75 | TT None
-Absorbs non-magical metal weapons on hit (save vs spells or weapon stuck).
+Absorbe armas metálicas no mágicas al golpear (tirada de salvación vs conjuros o el arma queda atrapada).
 
 **Living Statue, Rock** | AC 4 [15] | HD 5** (22hp) | 2×magma jet (2d6) | THAC0 15 [+4] | MV 60'(20') | SV F5 | ML 11 | AL C | XP 425 | TT None
 
 **Lizard Man** | AC 5 [14] | HD 2+1 (10hp) | 1×weapon (1d6+1) | THAC0 17 [+2] | MV 60'(20')/120' swim | SV F2 | ML 12 | AL N | XP 25 | TT D
-Favour spears/clubs. Kidnap humanoids to eat.
+Prefieren lanzas/porras. Raptan humanoides para comerlos.
 
 **Lizard, Draco** | AC 5 [14] | HD 4+2 (20hp) | 1×bite (1d10) | THAC0 15 [+4] | MV 120'(40')/210' glide | SV F3 | ML 7 | AL N | XP 125 | TT U
 
 **Lizard, Flame** | AC 2 [17] | HD 7* (31hp) | 2×claw (1d8)+bite (2d8) or breath (2d6) | THAC0 13 [+6] | MV 90'(30') | SV F4 | ML 8 | AL N | XP 850 | TT B, L
-Breath once/day (15' cone fire, save for half). Fire immune. 50% asleep when encountered.
+Aliento una vez/día (cono de fuego de 15', tirada de salvación para la mitad). Inmune al fuego. 50% dormido cuando se le encuentra.
 
-**Lizard, Gecko** | AC 5 [14] | HD 3+1 (14hp) | 1×bite (1d8) | THAC0 16 [+3] | MV 120'(40') | SV F2 | ML 7 | AL N | XP 50 | TT U. Climbs walls.
+**Lizard, Gecko** | AC 5 [14] | HD 3+1 (14hp) | 1×bite (1d8) | THAC0 16 [+3] | MV 120'(40') | SV F2 | ML 7 | AL N | XP 50 | TT U. Trepa paredes.
 
 **Lizard, Horned Chameleon** | AC 2 [17] | HD 5* (22hp) | tongue+bite (2d4)+horn(1d6)+tail | THAC0 15 [+4] | MV 120'(40') | SV F3 | ML 7 | AL N | XP 300 | TT U
-Surprise 1–5 (camouflage). Sticky tongue drags prey. Tail knocks down (no dmg, but target loses attack).
+Sorprende en 1–5 (camuflaje). Lengua pegajosa arrastra a la presa. La cola derriba (sin daño, pero el objetivo pierde un ataque).
 
 **Lizard, Monitor** | AC 4 [15] | HD 8* (36hp) | 2×claw (2d6)+bite (3d6+rend) | THAC0 12 [+7] | MV 60'(20') | SV F4 | ML 9 | AL N | XP 1,200 | TT U
-Surprise 1–4. Rend on 20: holds victim for 3d6 auto next round.
+Sorprende en 1–4. Desgarrar en 20: sujeta a la víctima para 3d6 automático en la siguiente ronda.
 
 **Lizard, Subterranean** | AC 4 [15] | HD 6* (27hp) | 1×bite (2d6+jaw clamp) | THAC0 14 [+5] | MV 120'(40') | SV F3 | ML 9 | AL N | XP 500 | TT U
-Climbs walls/ceilings. Jaw clamp on 20: double damage.
+Trepa paredes y techos. Mordisco en 20: daño doble.
 
 **Lizard, Tuatara** | AC 4 [15] | HD 6 (27hp) | 2×claw (1d4)+bite (2d6) | THAC0 14 [+5] | MV 90'(30') | SV F4 | ML 6 | AL N | XP 275 | TT V
-Infravision 90'.
+Infravisión 90'.
 
 **Locathah** | AC 5 [14] | HD 2 (9hp) | 1×weapon (1d6) | THAC0 18 [+1] | MV 120'(40') | SV F2 | ML 9 | AL N | XP 20 | TT A
-Aquatic humanoids mounted on giant eels.
+Humanoides acuáticos montados en anguilas gigantes.
 
 **Lurker Above** | AC 5 [14] | HD 10* (45hp) | 1×smother (1d6) | THAC0 11 [+8] | MV 10'/90' glide | SV F5 | ML 12 | AL N | XP 1,600 | TT C
-Surprise 1–4. Drops onto 20' square. Trapped: 1d6/round auto, can only fight with short weapons. Climbs walls/ceilings.
+Sorprende en 1–4. Cae sobre un cuadrado de 20'. Atrapado: 1d6/ronda automático, solo se puede luchar con armas cortas. Trepa paredes y techos.
 
-**Lycanthrope** — all animal forms only harmed by silver or magic:
-- **Werebear**: AC 2 [17] | HD 7+3* (35hp) | 3×attack (2d4) | ML 10 | AL N | XP 1,250 | TT C; bear hug. Lycanthropy on damage >50% max HP.
-- **Wereboar**: AC 4 [15] | HD 4+1* (19hp) | 1×tusk (2d6) | ML 9 | AL N | XP 200 | TT C; only surprised on 1 in animal form.
-- **Wererat**: AC 7 [12] | HD 3* (13hp) | 1×bite (1d4) or weapon | ML 8 | AL C | XP 50 | TT C; surprise 1–4; summon 1d6 giant rats.
-- **Weretiger**: AC 3 [16] | HD 5* (22hp) | 2×claw (1d6)+bite (2d6) | ML 9 | AL N | XP 300 | TT C; surprise 1–4; rear claw rake (2d6+2d6) when front claws hit.
-- **Werewolf**: AC 5 [14] | HD 4* (18hp) | 1×bite (2d4) | ML 8 | AL C | XP 175 | TT C; lycanthropy on damage >50%.
+**Lycanthrope** — todas las formas animales solo dañadas por plata o magia:
+- **Werebear**: AC 2 [17] | HD 7+3* (35hp) | 3×attack (2d4) | ML 10 | AL N | XP 1,250 | TT C; abrazo de oso. Licantropia si el daño supera el 50% de PG máximos.
+- **Wereboar**: AC 4 [15] | HD 4+1* (19hp) | 1×tusk (2d6) | ML 9 | AL N | XP 200 | TT C; solo sorprendido en 1 en forma animal.
+- **Wererat**: AC 7 [12] | HD 3* (13hp) | 1×bite (1d4) or weapon | ML 8 | AL C | XP 50 | TT C; sorprende en 1–4; convoca 1d6 ratas gigantes.
+- **Weretiger**: AC 3 [16] | HD 5* (22hp) | 2×claw (1d6)+bite (2d6) | ML 9 | AL N | XP 300 | TT C; sorprende en 1–4; zarpazo trasero (2d6+2d6) cuando las garras delanteras golpean.
+- **Werewolf**: AC 5 [14] | HD 4* (18hp) | 1×bite (2d4) | ML 8 | AL C | XP 175 | TT C; licantropia si el daño supera el 50%.
 
 ---
 
 ## M
 
 **Manticore** | AC 4 [15] | HD 6+1* (28hp) | 2×claw (1d4)+bite (2d4) or 1–6×spike (1d6) | THAC0 13 [+6] | MV 120'(40')/180' fly | SV F6 | ML 9 | AL C | XP 600 | TT D
-Up to 6 tail spikes/round (range 180'). Regrow at 2/day.
+Hasta 6 púas de cola/ronda (alcance 180'). Se regeneran a razón de 2/día.
 
 **Medusa** | AC 8 [11] | HD 4** (18hp) | 1×weapon (1d6+poison) or gaze (petrify) | THAC0 16 [+3] | MV 90'(30') | SV F4 | ML 8 | AL C | XP 175 | TT F
-Gaze: look = save vs petrify or turned to stone. Averting eyes: –4 hit. Hair-snakes: bite for poison death (save vs poison). Can't petrify itself in mirror.
+Mirada: mirarla = tirada de salvación vs petrificación o convertido en piedra. Desviar la mirada: –4 para golpear. Serpientes en el cabello: muerden con veneno mortal (tirada de salvación vs veneno). No puede petrificarse a sí misma en un espejo.
 
 **Merman** | AC 6 [13] | HD 1+1 (5hp) | 1×weapon (1d6) or 1×trident (1d6) | THAC0 18 [+1] | MV 120'(40') | SV F1 | ML 8 (10 near lair) | AL N | XP 15 | TT A
-Breathe air/water. Leaders and kings in lair; priest-casters possible.
+Respiran agua/aire. Líderes y reyes en guaridas; posibles sacerdotes lanzadores.
 
 **Mind Lasher** | AC 5 [14] | HD 8** (36hp) | 4×tentacle (1d4+stun) | THAC0 12 [+7] | MV 120'(40') | SV F8 | ML 11 | AL C | XP 2,300 | TT C
-Mind blast 60' cone (save vs spells or stunned 3d4 rounds). Tentacle stun: save vs paralysis or incapacitated 1 round. Must succeed 4 rounds to attach all tentacles and extract brain (death). Enslaves humanoids. Can levitate. Immune to charm, hold, sleep.
+Ráfaga mental en cono de 60' (tirada de salvación vs conjuros o aturdido 3d4 rondas). Aturdimiento por tentáculo: tirada de salvación vs parálisis o incapacitado 1 ronda. Debe tener éxito durante 4 rondas para adherir todos los tentáculos y extraer el cerebro (muerte). Esclaviza humanoides. Puede levitar. Inmune a encanto, retención, sueño.
 
 **Minotaur** | AC 6 [13] | HD 6 (27hp) | 1×gore (1d6)+bite (1d6) or weapon | THAC0 14 [+5] | MV 120'(40') | SV F6 | ML 12 | AL C | XP 350 | TT C
-Never gets lost underground. Charges when possible.
+Nunca se pierde bajo tierra. Carga siempre que puede.
 
 **Mummy** | AC 3 [16] | HD 5+1* (23hp) | 1×touch (1d12+mummy rot) | THAC0 14 [+5] | MV 60'(20') | SV F5 | ML 12 | AL C | XP 400 | TT D
-Undead. Only magic fire or magical weapons damage it. Non-magical weapons: –1 damage. Mummy rot: wounds heal at 1/10 rate, magic heals 50% normal, cannot be cured except by remove curse+cure disease. Fear aura (save vs spells or paralysed 1d4 rounds).
+No-muerto. Solo fuego mágico o armas mágicas lo dañan. Armas no mágicas: –1 de daño. Podredumbre de momia: las heridas sanan al 1/10 de velocidad, la magia cura 50% de lo normal; solo se cura con romper maldición + curar enfermedad. Aura de terror (tirada de salvación vs conjuros o paralizado 1d4 rondas).
 
 ---
 
 ## N
 
 **Neanderthal** | AC 8 [11] | HD 2 (9hp) | 1×weapon (2d4) | THAC0 18 [+1] | MV 120'(40') | SV F2 | ML 9 | AL N | XP 20 | TT B (C in lair)
-Friendly to elves but hostile to other humanoids (attack goblins/kobolds on sight).
+Amistoso con los elfos pero hostil con otros humanoides (ataca goblins/kobolds a la vista).
 
 **Nixie** | AC 7 [12] | HD 1* (4hp) | 1×weapon (1d4) | THAC0 19 [0] | MV 120'(40') | SV Elf 1 | ML 6 | AL N | XP 13 | TT B
-Charm: 10 nixies charm one target (save vs spells). Victim serves 1 year underwater. Summon giant fish for protection.
+Encanto: 10 nixies encantan a un objetivo (tirada de salvación vs conjuros). La víctima sirve 1 año bajo el agua. Convoca peces gigantes para protección.
 
 **Nomad** | AC 7–4 [12–15] | HD 1 (4hp) | 1×weapon (1d6) | THAC0 19 [0] | MV 120'(40') | SV F1 | ML 8 | AL Any | XP 10 | TT A (in camp)
-Mounted. Desert: lance+leather or chainmail. Steppes: shortbow or lance. Leaders: 2nd–4th level fighters. Tribal chief: 8th level fighter.
+Montados. Desierto: lanza+cuero o cota de malla. Estepas: arco corto o lanza. Líderes: fighters de nivel 2–4. Jefe tribal: fighter de nivel 8.
 
 **Normal Human** | AC 9 [10] | HD ½ (2hp) | 1×weapon (1d6) | THAC0 20 [–1] | MV 120'(40') | SV NH | ML 6 | AL Any | XP 5 | TT U
 
@@ -401,90 +401,90 @@ Mounted. Desert: lance+leather or chainmail. Steppes: shortbow or lance. Leaders
 ## O
 
 **Ochre Jelly** | AC 8 [11] | HD 5* (22hp) | 1×touch (2d6) | THAC0 15 [+4] | MV 30'(10') | SV F3 | ML 12 | AL N | XP 300 | TT None
-Immune to all except cold or fire. Lightning or weapon attacks: divide into 1d4+1 2HD jellies (half damage). Acid: 2d6/round, destroys cloth/leather/wood. Seeps through cracks.
+Inmune a todo excepto frío o fuego. Ataques de rayos o armas: se divide en 1d4+1 gelatinas de 2 DG (medio daño). Ácido: 2d6/ronda, destruye tela/cuero/madera. Se filtra por grietas.
 
 **Octopus, Giant** | AC 7 [12] | HD 8 (36hp) | 8×tentacle (1d3+constrict)+bite (1d6) | THAC0 12 [+7] | MV 90'(30') | SV F4 | ML 7 | AL N | XP 650 | TT None
-Constriction: 1d3 auto/round + –1 to attacks per tentacle. Sever tentacle: cut weapon, 6+ dmg. Ink cloud (80' dia) + triple speed escape.
+Constricción: 1d3 automático/ronda + –1 a los ataques por tentáculo. Cortar tentáculo: arma cortante, 6+ de daño. Nube de tinta (diámetro 80') + triple velocidad de escape.
 
-**Ogre** | AC 5 [14] | HD 4+1 (19hp) | 1×club (1d10) | THAC0 15 [+4] | MV 90'(30') | SV F4 | ML 10 | AL C | XP 125 | TT C+1,000gp
-Carry 1d6×100gp sack outside lair. Hate neanderthals.
+**Ogre** | AC 5 [14] | HD 4+1 (19hp) | 1×club (1d10) | THAC0 15 [+4] | MV 90'(30') | SV F4 | ML 10 | AL C | XP 125 | TT C+1.000gp
+Llevan un saco de 1d6×100 po fuera de su guarida. Odian a los neandertales.
 
 **Orc** | AC 6 [13] | HD 1 (4hp) | 1×weapon (1d6) | THAC0 19 [0] | MV 120'(40') | SV F1 | ML 6 (8 w/leader) | AL C | XP 10 | TT D
-–1 to hit in full daylight. Leader: 8hp, +1 damage. Chieftain: 4 HD, +2 damage. May have ogre/troll companions.
+–1 para golpear con plena luz del día. Líder: 8pg, +1 de daño. Jefe: 4 DG, +2 de daño. Puede tener compañeros ogro/troll.
 
 **Otyugh** | AC 2 [17] | HD 6* to 8* (27–36hp) | 2×tentacle (1d8)+bite (1d4+1+disease) | THAC0 varies | MV 60'(20') | ML 9 | AL N | XP 500–1,200 | TT None
-Disease: fatal in 1d12 days (save vs poison). –2 attack, –1 AC in bright light. Telepathic.
+Enfermedad: fatal en 1d12 días (tirada de salvación vs veneno). –2 a los ataques, –1 a la CA con luz intensa. Telepático.
 
 **Owl Bear** | AC 5 [14] | HD 5 (22hp) | 2×claw (1d8)+bite (1d8) | THAC0 15 [+4] | MV 120'(40') | SV F3 | ML 9 | AL N | XP 175 | TT C
-Bear hug: both claws = +2d8 auto.
+Abrazo de oso: ambas garras = +2d8 automático.
 
 ---
 
 ## P
 
 **Pegasus** | AC 6 [13] | HD 2+2 (11hp) | 2×hoof (1d6) | THAC0 17 [+2] | MV 240'(80')/480' fly | SV F2 | ML 8 | AL L | XP 25 | TT None
-Hates hippogriffs. Can carry rider; trains for Lawful characters if taken young.
+Odia a los hipogrifos. Puede llevar un jinete; se entrena para personajes Lawful si se captura joven.
 
 **Peryton** | AC 6 [13] | HD 4 (18hp) | 1×antlers (4d4) | THAC0 16 [+3] | MV 120'(40')/210' fly | SV F4 | ML 9 | AL C | XP 75 | TT B
-Only magic damages it. Rips out heart of killed victim and flies away.
+Solo daña magia. Arranca el corazón de la víctima muerta y sale volando.
 
 **Phoenix** | AC –2 [21] | HD 20** (90hp) | 2×talon (2d6)+bite (4d6) | THAC0 6 [+13] | MV 150'(50')/450' fly | SV F20 | ML 10 | AL L | XP 4,300 | TT V×2
-Fiery aura 20': 6d6/round (magical fire protection useless). +2 to saves. Only magic damages it. Fire immune. Immune to charm/hold. Death: 20' ball of ash/fire 1d10×10 damage. Resurrects 1 round after death and flees. Feathers: up to 25,000gp each.
+Aura de fuego 20': 6d6/ronda (protección mágica contra el fuego inútil). +2 a las tiradas de salvación. Solo daña magia. Inmune al fuego. Inmune a encanto/retención. Muerte: bola de ceniza/fuego de 20' que hace 1d10×10 de daño. Resucita 1 ronda después de la muerte y huye. Plumas: hasta 25.000 po cada una.
 
 **Piercer** | AC 3 [16] | HD 1–4 (4–18hp) | 1×drop (1d6/HD) | THAC0 varies | MV 10'(3') | ML 12 | AL N | XP 10–75 | TT None
-Indistinguishable from stalactites. Drops on victims below; creeps back up if miss.
+Indistinguible de las estalactitas. Cae sobre víctimas; regresa trepando si falla.
 
 **Pirate** | AC 7/5 [12/14] | HD 1 (4hp) | 1×weapon (1d6) | THAC0 19 [0] | MV 120'(40') | SV F1 | ML 7 | AL C | XP 10 | TT A
-As bandits but sea-going. Leaders up to 11th level fighter (fleet). 75% chance fleet has 9th–10th level magic-user.
+Como los bandidos pero marítimos. Líderes hasta fighter de nivel 11 (flota). 75% de probabilidad de que la flota tenga un magic-user de nivel 9–10.
 
 **Pixie** | AC 3 [16] | HD 1* (4hp) | 1×dagger (1d4) | THAC0 19 [0] | MV 90'(30')/180' fly | SV Elf 1 | ML 7 | AL N | XP 13 | TT R+S
-Naturally invisible; may remain invisible when attacking (–2 to hit after rd 1). Always surprise if invisible. Flight limit: 3 turns, rest 1 turn.
+Naturalmente invisible; puede permanecer invisible al atacar (–2 para golpear tras la ronda 1). Siempre sorprende si es invisible. Límite de vuelo: 3 turnos, descanso 1 turno.
 
 **Poltergeist** | AC 9 [10] | HD 2 (9hp) | 2×hurled object (1d4) | THAC0 18 [+1] | MV 60'(20') | SV F2 | ML 12 | AL C | XP 20 | TT None
-Undead. Always surprises unless PCs see invisible. Hurled objects range 30'. Only silver or magic damages it. –4 to hit poltergeist (location inferred from thrown objects).
+No-muerto. Siempre sorprende a menos que los PJs vean invisible. Objetos arrojados alcance 30'. Solo plata o magia lo daña. –4 para golpear al poltergeist (ubicación inferida por los objetos lanzados).
 
 **Pseudo-Dragon** | AC 2 [17] | HD 2* (9hp) | 1×bite (1d3)+tail sting (1d3+poison) | THAC0 18 [+1] | MV 60'(20')/240' fly | SV F2 | ML 8 | AL L | XP 25 | TT L×10
-Surprise 1–4 (chameleon). Poison: coma 1d6 days (appears dead). +2 to saves vs magic. Telepathy 30'. May bond with Lawful adventurer.
+Sorprende en 1–4 (camaleón). Veneno: coma 1d6 días (parece muerto). +2 a tiradas de salvación vs magia. Telepatía 30'. Puede vincularse con un aventurero Lawful.
 
 **Pteranodon** | AC 6 [13] | HD 5 (22hp) | 1×bite (1d12) | THAC0 15 [+4] | MV 240' fly | SV F3 | ML 8 | AL N | XP 175 | TT V
 
 **Pterodactyl** | AC 7 [12] | HD 1 (4hp) | 1×bite (1d3) | THAC0 19 [0] | MV 180' fly | SV F1 | ML 7 | AL N | XP 10 | TT None
 
 **Purple Worm** | AC 6 [13] | HD 15* (67hp) | 1×bite (2d8)+sting (1d8+poison) | THAC0 9 [+10] | MV 60'(20') | SV F8 | ML 10 | AL N | XP 2,300 | TT D
-Swallow whole on natural 20 or 4+ over target (human-sized): 3d6/round inside, dagger at –4, digest in 6 turns. Poison: death (save vs poison).
+Traga entero en 20 natural o 4+ sobre el objetivo (tamaño humano): 3d6/ronda dentro, daga con –4, digerido en 6 turnos. Veneno: muerte (tirada de salvación vs veneno).
 
 ---
 
 ## R
 
 **Rakshasa** | AC 0 [19] | HD 7** (31hp) | 2×claw (1d3)+bite (1d4+1) | THAC0 13 [+6] | MV 150'(50') | SV F14 | ML 9 | AL C | XP 1,250 | TT F
-Immune to spells 1st–3rd level. Only magic damages it. Casts as 5th level MU + 3rd level Cleric. Blessed crossbow bolt kills instantly. Mind-reads and disguises form.
+Inmune a conjuros de nivel 1–3. Solo daña magia. Lanza como MU nivel 5 + Cleric nivel 3. Un virote de ballesta bendecido lo mata al instante. Lee mentes y cambia de forma.
 
 **Rat, Giant** | AC 7 [12] | HD ½ (2hp) | 1×bite (1d3+disease) | THAC0 19 [0] | MV 120'(40')/60' swim | SV F1 | ML 8 | AL N | XP 5 | TT C
-Disease: 1-in-20 chance; 1-in-4 deadly (die 1d6 days). Afraid of fire.
+Enfermedad: 1/20 de probabilidad; 1/4 mortal (muere en 1d6 días). Teme al fuego.
 
 **Rat, Normal** | AC 9 [10] | HD 1hp | 1×bite per pack (1d6+disease) | THAC0 19 [0] | MV 60'(20')/30' swim | SV NH | ML 5 | AL N | XP 5 | TT L
-Pack of 5–10 attacks as one. Engulf: save vs death or fall prone.
+Una manada de 5–10 ataca como uno. Engullir: tirada de salvación vs muerte o cae de bruces.
 
 **Remorhaz** | AC 0 [19] | HD 7*–14* | 1×bite (6d6) | THAC0 varies | MV 120'(40') | SV varies | ML 10 | AL N | XP 850–2,300 | TT F
-Swallow whole on natural 20 (instantly fatal from internal fires). Metal weapons: 1-in-4 chance of melting. Trying to avoid hot back: –2 to hit.
+Traga entero en 20 natural (mortal al instante por el fuego interno). Armas metálicas: 1/4 de probabilidad de derretirse. Evitar el lomo caliente: –2 para golpear.
 
 **Revenant** | AC 9 [10] | HD 8* (36hp) | 1×grasp (2d8+throttle) | THAC0 12 [+7] | MV 90'(30') | SV F8 | ML 12 | AL N | XP 1,200 | TT None
-Undead. Throttle: locked grip, 2d8 auto each round. Only magic damages it. Regenerates 3hp/round (3 rounds after damage). Returns from 0hp in 2d6 rounds. Only fire can kill permanently. Seeks and kills its murderer (and accomplices), then dissipates.
+No-muerto. Solo daña magia. Estrangulamiento: agarre bloqueado, 2d8 automático cada ronda. Se regenera 3pg/ronda (3 rondas tras el daño). Regresa desde 0pg en 2d6 rondas. Solo el fuego puede matarlo permanentemente. Busca y mata a su asesino (y cómplices), luego se disipa.
 
 **Rhagodessa** | AC 5 [14] | HD 4+2 (20hp) | 1×sucker (grab)+bite (2d8) | THAC0 15 [+4] | MV 150'(50') | SV F2 | ML 9 | AL N | XP 125 | TT U
-Grab: next round auto bitten. Climbs walls.
+Agarre: siguiente ronda mordida automática. Trepa paredes.
 
 **Rhinoceros, Normal** | AC 5 [14] | HD 6 (27hp) | 1×horn (2d4) or trample (2d8) | THAC0 14 [+5] | MV 120'(40') | SV F3 | ML 6 | AL N | XP 275 | TT None
-Charge: double horn damage. Trample: 3-in-4/round, +4 to hit small targets.
+Carga: doble daño de cuerno. Pisoteo: 3/4/ronda, +4 para golpear objetivos pequeños.
 
 **Rhinoceros, Woolly** | AC 4 [15] | HD 8 (36hp) | 1×horn (2d6) or trample (2d12) | THAC0 12 [+7] | MV 120'(40') | SV F4 | ML 6 | AL N | XP 650 | TT None
 
 **Robber Fly** | AC 6 [13] | HD 2 (9hp) | 1×bite (1d8) | THAC0 18 [+1] | MV 90'(30')/180' fly | SV F1 | ML 8 | AL N | XP 20 | TT U
-Surprise 1–4 in shadows. Immune to killer bee poison. Can leap 30'.
+Sorprende en 1–4 en las sombras. Inmune al veneno de las abejas asesinas. Puede saltar 30'.
 
 **Roc, Giant** | AC 0 [19] | HD 36 (162hp) | 2×claw (3d6)+bite (8d6) | THAC0 5 [+14] | MV 60'(20')/480' fly | SV F18 | ML 10 (12 lair) | AL L | XP 6,250 | TT I
-Swoops: double if surprised; carry away on 18+. Eggs/chicks in 50% of nests.
+Picado: doble si sorprendido; se lleva la presa en 18+. Huevos/crías en 50% de los nidos.
 
 **Roc, Large** | AC 2 [17] | HD 12 (54hp) | 2×claw (1d8)+bite (2d10) | THAC0 10 [+9] | MV 60'(20')/480' fly | SV F6 | ML 9 (12 lair) | AL L | XP 1,100 | TT I
 
@@ -493,325 +493,325 @@ Swoops: double if surprised; carry away on 18+. Eggs/chicks in 50% of nests.
 **Rock Baboon** | AC 6 [13] | HD 2 (9hp) | 1×club (1d6)+bite (1d3) | THAC0 18 [+1] | MV 120'(40') | SV F2 | ML 8 | AL N | XP 20 | TT U
 
 **Roper** | AC 0 [19] | HD 12** (54hp) | 1×bite (5d6) or 6×tentacle (grab+weakness) | THAC0 10 [+9] | MV 30'(10') | SV F12 | ML 10 | AL C | XP 2,700 | TT L×5
-Tentacles reach 50'. Weakness: –3 to attack/damage for 3 turns. Grab: dragged 10'/round to mouth. Sever tentacle: magical cutting weapon, 5+ dmg. +2 saves. Only magic damages it. Immune to cold/lightning. Immune to 1st–3rd level spells.
+Tentáculos alcanzan 50'. Debilidad: –3 a ataques/daño durante 3 turnos. Agarre: arrastrado 10'/ronda hacia la boca. Cortar tentáculo: arma cortante mágica, 5+ daño. +2 tiradas de salvación. Solo daña magia. Inmune a frío/rayos. Inmune a conjuros de nivel 1–3.
 
 **Rot Grub** | AC 9 [10] | HD 1hp* | no attack | MV 10'(3') | SV NH | ML 12 | AL N | XP 6 | TT None
-Burrows into flesh on touch; kills in 1d3 turns. Fire applied in first 2 rounds kills (1d6 to victim). Cure disease also works.
+Se excava en la carne al tacto; mata en 1d3 turnos. Fuego aplicado en las primeras 2 rondas lo elimina (1d6 a la víctima). Curar enfermedad también funciona.
 
 **Rust Monster** | AC 2 [17] | HD 5 (22hp) | 1×feeler (rust) | THAC0 15 [+4] | MV 120'(40') | SV F3 | ML 7 | AL N | XP 175 | TT None
-Metal contacting it crumbles to rust (weapons, armour). Magic items: 10%/plus chance to resist per hit; lose one plus if affected.
+El metal que lo toca se oxida y se deshace (armas, armaduras). Objetos mágicos: 10%/plus de probabilidad de resistir por golpe; pierde un plus si es afectado.
 
 ---
 
 ## S
 
 **Sahuagin** | AC 5 [14] | HD 2+2 (11hp) | 1×weapon (1d6) or 2×claw+bite | THAC0 17 [+2] | MV 120'(40')/240' swim | SV F2 | ML 8 | AL C | XP 25–350 | TT A
-–2 attack, –1 AC in bright light. Breathe air 4 hrs. Hear boats 1 mile underwater. Chieftain 4+4 HD; baron 6+6 HD. Shark guardians.
+–2 a los ataques, –1 a la CA con luz intensa. Respiran aire 4 horas. Escuchan botes a 1 milla bajo el agua. Jefe 4+4 DG; barón 6+6 DG. Tiburones guardianes.
 
 **Salamander, Flame** | AC 2 [17] | HD 8* (36hp) | 2×claw (1d4)+bite (1d8)+heat aura (1d8) | THAC0 12 [+7] | MV 120'(40') | SV F8 | ML 8 | AL N | XP 1,200 | TT F
-Heat aura: 20' radius, 1d8/round. Only magic damages it. Fire immune.
+Aura de calor: radio de 20', 1d8/ronda. Solo daña magia. Inmune al fuego.
 
 **Salamander, Frost** | AC 3 [16] | HD 12* (54hp) | 4×claw (1d6)+bite (2d6)+cold aura (1d8) | THAC0 10 [+9] | MV 120'(40') | SV F12 | ML 9 | AL C | XP 1,900 | TT E
-Cold aura: 20' radius, 1d8/round. Only magic damages it. Cold immune.
+Aura de frío: radio de 20', 1d8/ronda. Solo daña magia. Inmune al frío.
 
 **Satyr** | AC 5 [14] | HD 5 (22hp) | 1×horns (2d4) or magic pipes | THAC0 15 [+4] | MV 180'(60') | SV F10 | ML 9 | AL N | XP 175 (piper 300) | TT I, N
-Only surprised on 1. 90% undetectable in woods. Magic pipes (one per group): charm (save vs spells or charmed), fear (flee 2 turns), or sleep (4d4 turns).
+Solo sorprendido en 1. 90% indetectable en el bosque. Flautas mágicas (una por grupo): encanto (tirada de salvación vs conjuros o encantado), miedo (huye 2 turnos) o sueño (4d4 turnos).
 
 **Scorpion, Giant** | AC 2 [17] | HD 4* (18hp) | 2×claw (1d10)+sting (1d4+poison) | THAC0 16 [+3] | MV 150'(50') | SV F2 | ML 11 | AL C | XP 125 | TT V
-Poison: death (save vs poison). +2 to sting if claw hits.
+Veneno: muerte (tirada de salvación vs veneno). +2 al aguijonazo si la garra golpea.
 
 **Scorpionoid** | AC 1 [18] | HD 8* (36hp) | 1×weapon (3d6) or tail sting (1d10+poison) | THAC0 12 [+7] | MV 240'(80') | SV F8 | ML 10 | AL C | XP 1,200 | TT J, K, M
-Poison: death (save vs poison); even on save, paralysed/convulsing 1d8–1 rounds. Keep giant scorpions as pets.
+Veneno: muerte (tirada de salvación vs veneno); incluso si la salva tiene éxito, paralizado/convulsionando 1d8–1 rondas. Mantienen escorpiones gigantes como mascotas.
 
 **Seahorse, Giant** | AC 7 [12] | HD 3 (13hp) | 1×butt (1d4+1) | THAC0 17 [+2] | MV 210'(70') | SV F2 | ML 5 (8 w/rider) | AL N | XP 35 | TT None
-Mount for aquatic humanoids.
+Montura para humanoides acuáticos.
 
 **Sea Serpent, Lesser** | AC 5 [14] | HD 6 (27hp) | 1×bite (2d6) or squeeze (1d10 hull) | THAC0 14 [+5] | MV 150'(50') | SV F3 | ML 8 | AL N | XP 275 | TT None
-Lunge 20' out of water.
+Se lanza 20' fuera del agua.
 
 **Sea Serpent, Greater** | AC 3 [16] | HD 14 (63hp) | 1×bite (3d6) or squeeze (2d10 hull) | THAC0 9 [+10] | MV 240'(80') | SV F7 | ML 9 | AL N | XP 1,350 | TT None
-Lunge 40' out of water.
+Se lanza 40' fuera del agua.
 
 **Shadow** | AC 7 [12] | HD 2+2* (11hp) | 1×touch (1d4+STR drain) | THAC0 17 [+2] | MV 90'(30') | SV F2 | ML 12 | AL C | XP 35 | TT F
-Surprise 1–5. STR drain: 1 per hit; recover after 8 turns; 0 STR = victim becomes shadow. Only magic damages it. Immune to charm/sleep.
+Sorprende en 1–5. Drenaje de FUE: 1 por golpe; se recupera tras 8 turnos; FUE 0 = víctima se convierte en sombra. Solo daña magia. Inmune a encanto/sueño.
 
 **Shambling Mound** | AC 3 [16] | HD 9* (40hp) | 2×fist (2d8) | THAC0 12 [+7] | MV 60'(20') | SV F5 | ML 12 | AL N | XP 1,600 | TT B
-Both fists = entangled and suffocate in 2d4 rounds (only freed by killing shambler). Half weapon damage. Fire immune (soaked in slime). Lightning grows HD by 1. Seeps through holes.
+Ambos puños = enredado y sofocado en 2d4 rondas (solo se libera matando al shambler). Medio daño de armas. Inmune al fuego (empapado en limo). Los rayos aumentan 1 DG. Se filtra por agujeros.
 
 **Shark, Bull** | AC 4 [15] | HD 2 (9hp) | 1×bite (2d4) or ram (stun) | THAC0 18 [+1] | MV 180'(60') | SV F1 | ML 7 | AL N | XP 20 | TT None
-Blood frenzy: detect blood 300'; no morale checks. Ram: stunned 3 rounds (save vs paralysis).
+Frenesi sanguíneo: detecta sangre a 300'; sin tiradas de moral. Embestida: aturdido 3 rondas (tirada de salvación vs parálisis).
 
 **Shark, Great White** | AC 4 [15] | HD 8 (36hp) | 1×bite (2d10) | THAC0 12 [+7] | MV 180'(60') | SV F4 | ML 7 | AL N | XP 650 | TT None
-Blood frenzy.
+Frenesí sanguíneo.
 
 **Shark, Mako** | AC 4 [15] | HD 4 (18hp) | 1×bite (2d6) | THAC0 16 [+3] | MV 180'(60') | SV F2 | ML 7 | AL N | XP 75 | TT None
-Blood frenzy. Unpredictable.
+Frenesí sanguíneo. Impredecible.
 
 **Shrew, Giant** | AC 4 [15] | HD 1 (4hp) | 2×bite (1d6) | THAC0 19 [0] | MV 180'(60') | SV F1 | ML 10 | AL N | XP 10 | TT None
-Always wins initiative (first attack). Ferocity: targets ≤ 3 HD must save vs death or flee. Echolocation 60'; if silenced, AC 8 and –4 to attacks. Territorial.
+Siempre gana la iniciativa (primer ataque). Ferocidad: objetivos de ≤ 3 DG hacen tirada de salvación vs muerte o huyen. Ecolocalización 60'; si silenciada, CA 8 y –4 a ataques. Territorial.
 
 **Shrieker** | AC 7 [12] | HD 3 (13hp) | no attack | MV 9'(3') | SV F1 | ML 12 | AL N | XP 35 | TT None
-Shrieks when light within 60' or movement within 30'. Each round shrieking: 50% chance wandering monster arrives in 2d6 rounds.
+Chilla cuando hay luz a 60' o movimiento a 30'. Cada ronda chillando: 50% de probabilidad de que llegue un monstruo errante en 2d6 rondas.
 
 **Skeleton** | AC 7 [12] | HD 1 (4hp) | 1×weapon (1d6) | THAC0 19 [0] | MV 60'(20') | SV F1 | ML 12 | AL C | XP 10 | TT None
-Undead immunities.
+Inmunidades de no-muerto.
 
 **Slithering Tracker** | AC 5 [14] | HD 5* (22hp) | 1×touch (paralysis) | THAC0 15 [+4] | MV 120'(40') | SV F5 | ML 6 | AL N | XP 300 | TT C
-Surprise 1–5 (transparent). Follows victim until asleep. 1-in-20 chance victim notices it. Paralysis 6 turns (contact maintains indefinitely); then extracts 2d6 blood/turn. Seeps through cracks.
+Sorprende en 1–5 (transparente). Sigue a la víctima hasta que duerma. 1/20 de probabilidad de que la víctima lo note. Parálisis 6 turnos (el contacto la mantiene indefinidamente); luego extrae 2d6 de sangre/turno. Se filtra por grietas.
 
 **Slug, Giant** | AC 8 [11] | HD 12* (54hp) | 1×bite (1d12) or acid spit (4d6) | THAC0 10 [+9] | MV 60'(20') | SV F6 | ML 10 | AL N | XP 1,900 | TT None
-Acid spit: 60' range, save vs breath for half. Immune to non-magical blunt weapons.
+Escupida de ácido: alcance 60', tirada de salvación vs aliento para la mitad. Inmune a armas contundentes no mágicas.
 
 **Snake, Giant Rattler** | AC 5 [14] | HD 4* (18hp) | 2×bite (1d4+poison) | THAC0 16 [+3] | MV 120'(40') | SV F2 | ML 8 | AL N | XP 125 | TT U
-Poison: death in 1d6 turns. Attacks twice per round.
+Veneno: muerte en 1d6 turnos. Ataca dos veces por ronda.
 
 **Snake, Pit Viper** | AC 6 [13] | HD 2* (9hp) | 1×bite (1d4+poison) | THAC0 18 [+1] | MV 90'(30') | SV F1 | ML 7 | AL N | XP 25 | TT None
-Infravision 60'. Always gains initiative. Poison: death (save vs poison).
+Infravisión 60'. Siempre gana la iniciativa. Veneno: muerte (tirada de salvación vs veneno).
 
 **Snake, Rock Python** | AC 6 [13] | HD 5* (22hp) | 1×bite (1d4+constriction) | THAC0 15 [+4] | MV 90'(30') | SV F3 | ML 8 | AL N | XP 300 | TT U
-Constriction on hit: 2d4 auto immediately and each subsequent round.
+Constricción al golpear: 2d4 automático inmediatamente y cada ronda siguiente.
 
 **Snake, Sea Snake** | AC 6 [13] | HD 3* (13hp) | 1×bite (1hp+poison) | THAC0 17 [+2] | MV 90'(30') | SV F2 | ML 7 | AL N | XP 50 | TT None
-Bite 50% unnoticed. Slow poison: effects 1d4+2 turns later; die 1 turn after that (neutralize poison 25% fail at that point).
+Mordida 50% inadvertida. Veneno lento: efectos 1d4+2 turnos después; muere 1 turno después (neutralizar veneno falla 25% en ese punto).
 
 **Snake, Spitting Cobra** | AC 7 [12] | HD 1* (4hp) | 1×spit (blind) or bite (1d3+poison) | THAC0 19 [0] | MV 90'(30') | SV F1 | ML 7 | AL N | XP 13 | TT None
-Blind spit: range 6', save vs poison or permanently blind. Bite poison: death in 1d10 turns.
+Escupida cegadora: alcance 6', tirada de salvación vs veneno o permanentemente ciego. Veneno de mordida: muerte en 1d10 turnos.
 
 **Snake Person** | AC 4 [15] | HD 6* (27hp) | 1×bite (1d10+poison) or weapon | THAC0 14 [+5] | MV 90'(30') | SV F6 | ML 8 | AL C | XP 500 | TT C
-Poison: death in 1d6 turns. +4 to saves vs magic. 1 priest per 10 (casts as 5th level cleric).
+Veneno: muerte en 1d6 turnos. +4 a tiradas de salvación vs magia. 1 sacerdote por cada 10 (lanza como clérigo nivel 5).
 
 **Spawn of the Worm** | AC 9 [10] | HD 4*** (18hp) | 1×fist (1d8+disease)+worm (burrow) | THAC0 16 [+3] | MV 90'(30') | SV F4 | ML 12 | AL C | XP 225 | TT None
-Undead. Fear aura 30' (save vs spells or flee 1 turn). Disease: save vs poison (+4 bonus) or lose 2 CHA/month until CHA 0 (death); no magical healing. Burrowing worm: kills in 1d4 rounds, victim becomes spawn in 6 turns; kill worm: first round = steel/holy water/blessed object; after = cure disease only. Regenerates 2hp/round. Returns from death in 2d6 rounds. Only fire/acid/holy water permanently kills.
+No-muerto. Aura de terror 30' (tirada de salvación vs conjuros o huye 1 turno). Enfermedad: tirada de salvación vs veneno (+4 de bonificación) o pierde 2 CAR/mes hasta CAR 0 (muerte); sin curación mágica. Gusano excavador: mata en 1d4 rondas, la víctima se convierte en spawn en 6 turnos; matar el gusano: primera ronda = acero/agua bendita/objeto bendecido; después = solo curar enfermedad. Se regenera 2pg/ronda. Regresa desde 0pg en 2d6 rondas. Solo fuego/ácido/agua bendita lo mata permanentemente.
 
 **Spectre** | AC 2 [17] | HD 6** (27hp) | 1×touch (1d8+energy drain) | THAC0 14 [+5] | MV 150'(50')/300' fly | SV F6 | ML 11 | AL C | XP 725 | TT E
-Undead. Only magic damages it. Energy drain: –2 levels per hit. Drained to 0 levels = becomes spectre under its slayer's control.
+No-muerto. Solo daña magia. Drenaje de energía: –2 niveles por golpe. Drenado a 0 niveles = se convierte en espectro bajo el control de su asesino.
 
 **Sphinx** | AC 0 [19] | HD 12*** (54hp) | 2×claw (3d6) | THAC0 10 [+9] | MV 180'(60')/360' fly | SV F24 | ML 10 | AL N | XP 3,500 | TT M
-Roar (2/day): 120' all flee 1d6 turns; within 60', stunned 1d6 rounds then flee; within 10', 6d6 dmg + deafened. Only magic damages it. Casts MU spells 1/day each: detect magic, read languages, read magic, detect invisible, locate object, clairvoyance, dispel magic, remove curse.
+Rugido (2/día): 120' todos huyen 1d6 turnos; a 60', aturdidos 1d6 rondas y luego huyen; a 10', 6d6 de daño + ensordecidos. Solo daña magia. Lanza conjuros de MU 1/día cada uno: detectar magia, leer idiomas, leer magia, detectar invisible, localizar objeto, clarividencia, disipar magia, romper maldición.
 
 **Spider, Aquatic** | AC 5 [14] | HD 3+3* (16hp) | 1×bite (1d4+poison) | THAC0 16 [+3] | MV 150'(50') | SV F2 | ML 7 | AL N | XP 75 | TT U
-Surprise 1–3. Poison: paralysis then death in 1d4 turns (save vs poison).
+Sorprende en 1–3. Veneno: parálisis y luego muerte en 1d4 turnos (tirada de salvación vs veneno).
 
 **Spider, Aranea** | AC 7 [12] | HD 3** (13hp) | 1×bite (1d6+poison) | THAC0 17 [+2] | MV 180'(60')/150' web | SV MU 3 | ML 7 | AL N | XP 65 | TT D
-Poison: death in 1 turn (–2 save). Casts as 3rd level MU. Webs: 2d4 turns to escape (STR dependent), fire destroys in 2 rounds.
+Veneno: muerte en 1 turno (–2 a la tirada de salvación). Lanza como MU nivel 3. Telarañas: 2d4 turnos para escapar (depende de FUE), el fuego las destruye en 2 rondas.
 
 **Spider, Black Widow** | AC 6 [13] | HD 3* (13hp) | 1×bite (2d6+poison) | THAC0 17 [+2] | MV 60'(20')/120' web | SV F2 | ML 8 | AL N | XP 50 | TT U
-Poison: death in 1 turn. Webs.
+Veneno: muerte en 1 turno. Telarañas.
 
 **Spider, Crab** | AC 7 [12] | HD 2* (9hp) | 1×bite (1d8+poison) | THAC0 18 [+1] | MV 120'(40') | SV F1 | ML 7 | AL N | XP 25 | TT U
-Surprise 1–4 (camouflage). Poison: death in 1d4 turns (+2 save).
+Sorprende en 1–4 (camuflaje). Veneno: muerte en 1d4 turnos (+2 a la tirada de salvación).
 
 **Spider, Phase** | AC 6 [13] | HD 5* (22hp) | 1×bite (1d6+poison) | THAC0 15 [+4] | MV 60'(20')/150' web | SV F3 | ML 8 | AL N | XP 300 | TT E
-Poison: death in 1 turn (–2 save). Phases in/out; only harmed by magic when phased out; attackers who win initiative may hit when it phases in.
+Veneno: muerte en 1 turno (–2 a la tirada de salvación). Entra/sale de fase; solo daña magia cuando está desfasada; los atacantes que ganan la iniciativa pueden golpear cuando entra en fase.
 
 **Spider, Tarantella** | AC 5 [14] | HD 4* (18hp) | 1×bite (1d8+poison) | THAC0 16 [+3] | MV 120'(40') | SV F2 | ML 8 | AL N | XP 125 | TT U
-Poison: save vs poison or dance 2d6 turns (–4 attack/AC; exhausted after 5 turns). Observers must save vs spells or also dance.
+Veneno: tirada de salvación vs veneno o baila 2d6 turnos (–4 a ataques/CA; agotado tras 5 turnos). Los observadores hacen tirada de salvación vs conjuros o también bailan.
 
 **Sprite** | AC 5 [14] | HD ½* (2hp) | 1×curse | THAC0 19 [0] | MV 60'(20')/180' fly | SV Elf 1 | ML 7 | AL N | XP 6 | TT S
-5 sprites curse one target (save vs spells). Pranksters; no intent to kill.
+5 sprites maldicen a un objetivo (tirada de salvación vs conjuros). Bromistas; sin intención de matar.
 
 **Squid, Giant** | AC 7 [12] | HD 6 (27hp) | 8×small tentacle (1d4+constrict)+2×large (1d4+constrict or 1d10 hull)+beak (1d10) | THAC0 14 [+5] | MV 120'(40') | SV F3 | ML 7 | AL N | XP 275 | TT V
-25% crush boat with 2 large tentacles. 75% grab crew from deck. Ink cloud (60' dia, 2/day) + triple speed.
+25% destruye el bote con los 2 tentáculos grandes. 75% agarra tripulantes del puente. Nube de tinta (diámetro 60', 2/día) + triple velocidad.
 
 **Stegosaurus** | AC 3 [16] | HD 11 (49hp) | 1×tail (2d8) or trample (2d8) | THAC0 11 [+8] | MV 60'(20') | SV F6 | ML 7 | AL N | XP 1,100 | TT None
-Trample: 3-in-4/round, +4 to hit small targets.
+Pisoteo: 3/4/ronda, +4 para golpear objetivos pequeños.
 
 **Stirge** | AC 7 [12] | HD 1* (4hp) | 1×beak (1d3+blood suck) | THAC0 19 [0] | MV 30'(10')/180' fly | SV F2 | ML 9 | AL N | XP 13 | TT L
-First attack +2 to hit (dive). Blood suck: 1d3 auto/round.
+Primer ataque +2 para golpear (picado). Succión de sangre: 1d3 automático/ronda.
 
 **Strangle Weed** | AC 5 [14] | HD 3* (13hp) | 1×grab (1d4+entangle) | THAC0 17 [+2] | MV 0' | SV F2 | ML 7 | AL N | XP 50 | TT U
-Entangle: 1d4 auto/round; STR check each round to escape. Multiple fronds = one "brain."
+Enredo: 1d4 automático/ronda; tirada de FUE cada ronda para escapar. Múltiples frondas = un solo "cerebro."
 
 **Svirfneblin** (Deep Gnome) | AC 5 [14] | HD 1 (4hp) | 1×weapon (1d6) | THAC0 19 [0] | MV 60'(20') | SV Svirfneblin 1 | ML 8 (10 w/leader) | AL N | XP 10 | TT C
-Surprise 1–4 underground. Infravision 90'. –2 attack, –1 AC in bright light. Leaders/chieftains summon 8 HD earth elemental 1/day. Hate deep ones and mind lashers.
+Sorprende en 1–4 bajo tierra. Infravisión 90'. –2 a ataques, –1 a CA con luz intensa. Líderes/jefes convocan elemental de tierra de 8 DG 1/día. Odian a los deep ones y a los mind lashers.
 
 ---
 
 ## T
 
 **Tarrasque** | AC –3 [22] | HD 36** (162hp) | 2×claw (1d12)+bite (5d10+sever)+tail (2d12)+2×horn (1d10) | THAC0 5 [+14] | MV 90'(30') | SV F18 | ML 10 | AL N | XP 17,750 | TT Carapace
-Terror aura: < 3 HD paralysed; 3–6 HD flee 6 turns; 7+ HD save vs paralysis. Charge (first round): double horn dmg. Sever on bite 18+: extremity severed. Regenerates 1hp/round. Returns from 0hp and fully reforms. Only permanently killed by wish after 0hp. Reflects energy (lightning/cold/magic missiles) 1-in-6. Fire immune. Only magic damages it.
+Aura de terror: < 3 DG paralizados; 3–6 DG huyen 6 turnos; 7+ DG tirada de salvación vs parálisis. Carga (primera ronda): doble daño de cuerno. Amputar en mordisco 18+: extremidad amputada. Se regenera 1pg/ronda. Regresa desde 0pg y se reforma completamente. Solo se mata permanentemente con un deseo tras 0pg. Refleja energía (rayos/frío/misiles mágicos) en 1/6. Inmune al fuego. Solo daña magia.
 
 **Thoul** | AC 6 [13] | HD 3** (13hp) | 2×claw (1d3+paralysis) or weapon | THAC0 17 [+2] | MV 120'(40') | SV F3 | ML 10 | AL C | XP 65 | TT C
-Paralysis 2d4 turns (save vs paralysis). Elves and ogre-sized+ immune. Regenerates 1hp/round (while alive).
+Parálisis 2d4 turnos (tirada de salvación vs parálisis). Elfos y criaturas de tamaño ogro+ son inmunes. Se regenera 1pg/ronda (mientras vive).
 
 **Titan** | AC 0 [19] | HD 20*** (90hp) | 1×weapon (8d6) or spells | THAC0 6 [+13] | MV 150'(50') | SV F20 | ML 10 | AL L | XP 5,450 | TT E, L×10, M
-Invisible at will. Levitate at will. Casts 2 of each cleric spell levels 1–5 and 2 of each MU spell levels 1–6 (each once/day). Speaks all giant tongues.
+Invisible a voluntad. Levitar a voluntad. Lanza 2 de cada conjuro de clérigo nivel 1–5 y 2 de cada conjuro de MU nivel 1–6 (cada uno una vez/día). Habla todas las lenguas de gigantes.
 
 **Titanothere** | AC 5 [14] | HD 12 (54hp) | 1×butt (2d6) or trample (3d8) | THAC0 10 [+9] | MV 120'(40') | SV F6 | ML 7 | AL N | XP 1,100 | TT None
-Peaceful grazers; only attack if bothered. Trample 3-in-4/round.
+Herbívoros pacíficos; solo atacan si son molestados. Pisoteo 3/4/ronda.
 
 **Toad, Chameleon** | AC 7 [12] | HD 2+2 (11hp) | 1×bite (1d4+1) | THAC0 17 [+2] | MV 90'(30') | SV F1 | ML 6 | AL N | XP 25 | TT None
-Surprise 1–3. Sticky tongue (15'). Swallow small victim on natural 20.
+Sorprende en 1–3. Lengua pegajosa (15'). Traga víctima pequeña en 20 natural.
 
 **Toad, Frost** | AC 3 [16] | HD 5* (22hp) | 1×bite (3d4) | THAC0 15 [+4] | MV 90'(30') | SV F5 | ML 8 | AL N | XP 300 | TT C
-Cold aura: 10' radius, 3d6/round.
+Aura de frío: radio de 10', 3d6/ronda.
 
 **Toad, Poisonous** | AC 7 [12] | HD 2* (9hp) | 1×bite (1d4+1+poison) | THAC0 18 [+1] | MV 60'(20') | SV F1 | ML 6 | AL N | XP 25 | TT None
-Poison: death (save vs poison).
+Veneno: muerte (tirada de salvación vs veneno).
 
 **Trader** | AC 6 [13] | HD 1 (4hp) | 1×weapon (1d6) | THAC0 19 [0] | MV 120'(40') | SV F1 | ML 7 | AL Any | XP 10 | TT U, V
-Usually armed; mules with trade goods in wilderness.
+Generalmente armado; mulos con mercancías en el yermo.
 
 **Trapper** | AC 3 [16] | HD 12* (54hp) | 1×trap (1d8) | THAC0 10 [+9] | MV 30'(10') | SV F12 | ML 11 | AL N | XP 1,900 | TT G
-Surprise 1–5. Covers 20' square. Trapped: 1d8 auto/round, suffocate in 6 rounds, only short weapons usable inside. Half damage from fire/cold.
+Sorprende en 1–5. Cubre un cuadrado de 20'. Atrapado: 1d8 automático/ronda, sofocación en 6 rondas, solo se pueden usar armas cortas dentro. Medio daño de fuego/frío.
 
 **Treant** | AC 2 [17] | HD 8 (36hp) | 2×fist (2d6) | THAC0 12 [+7] | MV 60'(20') | SV F8 | ML 9 | AL L | XP 650 | TT C
-Surprise 1–3 in forest (looks like tree). Each treant animates 2 trees within 60'.
+Sorprende en 1–3 en el bosque (parece un árbol). Cada treant anima 2 árboles en un radio de 60'.
 
 **Triceratops** | AC 2 [17] | HD 11 (49hp) | 1×gore (3d6) or trample (3d6) | THAC0 11 [+8] | MV 90'(30') | SV F6 | ML 8 | AL N | XP 1,100 | TT None
-Charge: double gore damage. Trample 3-in-4/round.
+Carga: doble daño de corneada. Pisoteo 3/4/ronda.
 
 **Triton** | AC 5 [14] | HD 3 (13hp) | 1×weapon (1d6) | THAC0 17 [+2] | MV 150'(50') | SV F3 | ML 9 | AL L | XP 35 (leader 175, king 900) | TT F
-+4 to saves vs magic. Mounted on hippocampi or seahorses. King (9 HD) has magical conch: calm seas/summon hippocampi/drive away marine animals.
++4 a tiradas de salvación vs magia. Montados en hipocampos o caballitos de mar. El rey (9 DG) tiene una caracola mágica: calma los mares/convoca hipocampos/ahuyenta animales marinos.
 
 **Troglodyte** | AC 5 [14] | HD 2* (9hp) | 2×claw (1d4)+bite (1d4) | THAC0 18 [+1] | MV 120'(40') | SV F2 | ML 9 | AL C | XP 25 | TT A
-Surprise 1–4 (colour change). Nauseating stench: –2 to hit (save vs poison).
+Sorprende en 1–4 (cambio de color). Hedor nauseabundo: –2 para golpear (tirada de salvación vs veneno).
 
 **Troll** | AC 4 [15] | HD 6+3* (30hp) | 2×talon (1d6)+bite (1d10) | THAC0 13 [+6] | MV 120'(40') | SV F6 | ML 10 (8 vs fire) | AL C | XP 650 | TT D
-Regenerates 3hp/round (starts 3 rounds after damage). Returns from 0hp in 2d6 rounds. Only fire and acid permanently kill. Fears fire (ML 8 vs fire/acid).
+Se regenera 3pg/ronda (comienza 3 rondas tras el daño). Regresa desde 0pg en 2d6 rondas. Solo el fuego y el ácido lo matan permanentemente. Teme al fuego (ML 8 vs fuego/ácido).
 
 **Turtle, Sea** | AC 3 [16] | HD 15 (67hp) | 1×bite (4d4) | THAC0 9 [+10] | MV 10'(3')/150' swim | SV F8 | ML 7 | AL N | XP 1,350 | TT None
-50% tips canoes/small boats.
+50% de probabilidad de volcar canoas/botes pequeños.
 
 **Turtle, Snapping** | AC 3 [16] | HD 10 (45hp) | 1×bite (6d4) | THAC0 11 [+8] | MV 30'(10') | SV F5 | ML 8 | AL N | XP 900 | TT None
-Surprise 1–4 (motionless underwater). Long neck: bites up to 10' away.
+Sorprende en 1–4 (inmóvil bajo el agua). Cuello largo: muerde a hasta 10' de distancia.
 
 **Tyrannosaurus Rex** | AC 3 [16] | HD 20 (90hp) | 1×bite (6d6) | THAC0 6 [+13] | MV 120'(40') | SV F10 | ML 11 | AL N | XP 2,000 | TT V×3
-Always attacks largest target first.
+Siempre ataca primero al objetivo más grande.
 
 ---
 
 ## U
 
 **Unicorn** | AC 2 [17] | HD 4* (18hp) | 2×hoof (1d8)+horn (1d8) | THAC0 16 [+3] | MV 240'(80') | SV F8 | ML 7 | AL L | XP 125 | TT None
-Empathy with pure-hearted maidens. Teleport 1/day (360', can carry rider).
+Empatía con doncellas de corazón puro. Se teletransporta 1/día (360', puede llevar jinete).
 
 ---
 
 ## V
 
 **Vampire** | AC 2 [17] | HD 7–9** (31–40hp) | 1×touch (1d10+energy drain) or gaze (charm) | THAC0 13–12 [+6/+7] | MV 120'(40') | SV F7–9 | ML 11 | AL C | XP 1,250–2,300 | TT F
-Undead. Only magic damages it. Energy drain: –2 levels per hit; 0 levels = becomes vampire in 3 days. Charming gaze: –2 save. Regenerates 3hp/round. Shapeshifts: humanoid, dire wolf (bite 2d4), giant bat (bite 1d4), gaseous cloud (immune to weapons). Summons rats/bats/wolves/dire wolves. Coffin rest required. Vulnerabilities: garlic, holy symbols, running water, mirrors, continual light (–4 attacks). Destruction: sunlight (save vs death/round or disintegrate), stake through heart, immersion in water (1 turn), destroying all coffins.
+No-muerto. Solo daña magia. Drenaje de energía: –2 niveles por golpe; 0 niveles = se convierte en vampiro en 3 días. Mirada hipnótica: –2 a la tirada de salvación. Se regenera 3pg/ronda. Cambia de forma: humanoide, lobo terrible (mordisco 2d4), murciélago gigante (mordisco 1d4), nube gaseosa (inmune a armas). Convoca ratas/murciélagos/lobos/lobos terribles. Requiere descansar en ataúd. Vulnerabilidades: ajo, símbolos sagrados, agua corriente, espejos, luz continua (–4 a los ataques). Destrucción: luz solar (tirada de salvación vs muerte/ronda o se desintegra), estaca en el corazón, inmersión en agua (1 turno), destruir todos los ataúdes.
 
 **Veteran** | AC 2 [17] | HD 1–3 (4–13hp) | 1×weapon (1d8) | THAC0 19 [0] | MV 60'(20') | SV F1–3 | ML 9 | AL Any | XP 10–35 | TT V
-Low-level fighters.
+Fighters de bajo nivel.
 
 **Violet Fungus** | AC 7 [12] | HD 3* (13hp) | 2×tentacle (2d4+rot) | THAC0 17 [+2] | MV 10'(3') | SV F2 | ML 12 | AL N | XP 50 | TT None
-Rot: save vs poison or damage only healed by magic. Resembles shrieker.
+Podredumbre: tirada de salvación vs veneno o el daño solo se cura con magia. Se parece al shrieker.
 
 ---
 
 ## W
 
 **Warp Beast** | AC 4 [15] | HD 6* (27hp) | 2×tentacle (2d4) | THAC0 14 [+5] | MV 150'(50') | SV F6 | ML 8 | AL N | XP 500 | TT D
-Appears 3' from actual location (–2 to hit). +2 to all saves. Hates blink dogs.
+Aparece 3' de su ubicación real (–2 para golpear). +2 a todas las tiradas de salvación. Odia a los blink dogs.
 
 **Wasp, Giant** | AC 4 [15] | HD 4* (18hp) | 1×bite (2d4)+sting (1d4+poison) | THAC0 16 [+3] | MV 60'(20')/210' fly | SV F2 | ML 10 | AL N | XP 125 | TT L×20
-Poison: permanent paralysis and death in 1d4 days (save vs poison). Fire burns off wings.
+Veneno: parálisis permanente y muerte en 1d4 días (tirada de salvación vs veneno). El fuego quema las alas.
 
 **Water Fiend** | AC 4 [15] | HD 3+3* (16hp) | 1×strike (grab) | THAC0 16 [+3] | MV 120'(40') | SV F6 | ML 9 | AL C | XP 75 | TT I
-Forms in 2 rounds. Grab: dragged underwater (save vs paralysis). Submerged: 1d4 auto/round + save vs death or unconscious (die in 3 rounds). Only 1 dmg from sharp weapons. Returns from 0hp with full HP in 2 rounds. Cold: paralysis 1d3 rounds. Only permanently killed by magic (dispel evil, purify food and water).
+Se forma en 2 rondas. Agarre: arrastrado bajo el agua (tirada de salvación vs parálisis). Sumergido: 1d4 automático/ronda + tirada de salvación vs muerte o inconsciente (muere en 3 rondas). Solo 1 de daño de armas cortantes. Regresa desde 0pg con PG completos en 2 rondas. Frío: parálisis 1d3 rondas. Solo se mata permanentemente con magia (disipar el mal, purificar comida y agua).
 
 **Water Termite, Freshwater** | AC 6 [13] | HD 2+1 (10hp) | 1×bite (1d4) or spray (stun) | THAC0 17 [+2] | MV 120'(40') | SV F2 | ML 8 | AL N | XP 25 | TT None
 
 **Water Termite, Saltwater** | AC 5 [14] | HD 4 (18hp) | 1×bite (1d6) or spray (stun) | THAC0 16 [+3] | MV 180'(60') | SV F3 | ML 11 | AL N | XP 75 | TT None
 
 **Water Termite, Swamp** | AC 4 [15] | HD 1+1 (5hp) | 1×bite (1d3) or spray (stun) | THAC0 18 [+1] | MV 90'(30') | SV F1 | ML 10 | AL N | XP 15 | TT None
-All termites: eat ships (1d3 hull damage each then drop off). Spray (above water, 1/turn): save vs poison or stunned 1 turn.
+Todas las termitas: comen barcos (1d3 de daño al casco cada una, luego se desprenden). Rocío (sobre el agua, 1/turno): tirada de salvación vs veneno o aturdido 1 turno.
 
 **Weasel, Giant** | AC 7 [12] | HD 4+4 (22hp) | 1×bite (2d4+blood suck) | THAC0 15 [+4] | MV 150'(50') | SV F3 | ML 8 | AL N | XP 125 | TT V
-Blood suck: 2d4 auto/round. Infravision 30'. Tracks by scent.
+Succión de sangre: 2d4 automático/ronda. Infravisión 30'. Rastrea por olfato.
 
 **Whale, Killer** | AC 6 [13] | HD 6 (27hp) | 1×bite (1d20) | THAC0 14 [+5] | MV 240'(80') | SV F3 | ML 10 | AL N | XP 275 | TT V
-Swallow halfling-sized on natural 20: 1d6/round, drown after 10 rounds.
+Traga criaturas de tamaño halfling en 20 natural: 1d6/ronda, se ahoga en 10 rondas.
 
-**Whale, Narwhal** | AC 7 [12] | HD 12 (54hp) | 1×bite (1d8)+horn (2d6) | THAC0 10 [+9] | MV 180'(60') | SV F12 | ML 8 | AL L | XP 1,100 | TT Horn (1d6×1,000gp)
-Horn vibrates near evil.
+**Whale, Narwhal** | AC 7 [12] | HD 12 (54hp) | 1×bite (1d8)+horn (2d6) | THAC0 10 [+9] | MV 180'(60') | SV F12 | ML 8 | AL L | XP 1,100 | TT Horn (1d6×1.000gp)
+El cuerno vibra cerca del mal.
 
 **Whale, Sperm** | AC 6 [13] | HD 36 (162hp) | 1×bite (3d20) or ram (6d6 hull) | THAC0 5 [+14] | MV 180'(60') | SV F15 | ML 7 | AL N | XP 6,250 | TT V
-Swallow human-sized on 4+ over target number. 10% attacks vessels.
+Traga criaturas de tamaño humano con 4+ sobre el número objetivo. 10% ataca embarcaciones.
 
 **Wight** | AC 5 [14] | HD 3* (13hp) | 1×touch (energy drain) | THAC0 17 [+2] | MV 90'(30') | SV F3 | ML 12 | AL C | XP 50 | TT B
-Undead. Only silver or magic damages it. Energy drain: –1 level per hit. 0 levels = becomes wight in 1d4 days.
+No-muerto. Solo plata o magia lo daña. Drenaje de energía: –1 nivel por golpe. 0 niveles = se convierte en wight en 1d4 días.
 
 **Will-o'-the-Wisp** | AC 0 [19] | HD 6 (27hp) | 1×lightning (1d10) | THAC0 14 [+5] | MV 180'(60') | SV F6 | ML 11 | AL C | XP 275 | TT G
-Invisible at will (cannot attack while invisible). Only magic damages it. Immune to electricity. At ≤ 5hp, reveals treasure hoard location.
+Invisible a voluntad (no puede atacar mientras es invisible). Solo daña magia. Inmune a la electricidad. A ≤ 5pg, revela la ubicación de su tesoro.
 
 **Wolf, Dire** | AC 6 [13] | HD 4+1 (19hp) | 1×bite (2d4) | THAC0 15 [+4] | MV 150'(50') | SV F2 | ML 8 | AL N | XP 125 | TT None
-Sometimes used as mounts by goblins.
+A veces utilizado como montura por los goblins.
 
 **Wolf, Normal** | AC 7 [12] | HD 2+2 (11hp) | 1×bite (1d6) | THAC0 17 [+2] | MV 180'(60') | SV F1 | ML 6 (8 in packs 4+) | AL N | XP 25 | TT None
-Packs of 4+ have ML 8; below 50% size loses bonus.
+Manadas de 4+ tienen ML 8; por debajo del 50% del tamaño pierde el bonificador.
 
 **Wolf, Winter** | AC 5 [14] | HD 6* (27hp) | 1×bite (2d4) or frost breath (6d4) | THAC0 14 [+5] | MV 180'(60') | SV F6 | ML 9 | AL C | XP 500 | TT I+pelt
-Frost breath: 10' from mouth, save vs breath for half. Every 10 rounds. Cold immune. Vulnerable to fire (+1 dmg/die). Pelt worth up to 5,000gp.
+Aliento de escarcha: 10' desde la boca, tirada de salvación vs aliento para la mitad. Cada 10 rondas. Inmune al frío. Vulnerable al fuego (+1 daño/dado). Piel vale hasta 5.000 po.
 
 **Wraith** | AC 3 [16] | HD 4** (18hp) | 1×touch (1d6+energy drain) | THAC0 16 [+3] | MV 120'(40')/240' fly | SV F4 | ML 12 | AL C | XP 175 | TT E
-Undead. Silver or magic damages it (half damage from silver). Energy drain: –1 level per hit. 0 levels = becomes wraith in 1 day.
+No-muerto. Plata o magia lo daña (medio daño de plata). Drenaje de energía: –1 nivel por golpe. 0 niveles = se convierte en wraith en 1 día.
 
 **Wyvern** | AC 3 [16] | HD 7* (31hp) | 1×bite (2d8)+sting (1d6+poison) | THAC0 13 [+6] | MV 90'(30')/240' fly | SV F4 | ML 9 | AL C | XP 850 | TT E
-Poison: death (save vs poison).
+Veneno: muerte (tirada de salvación vs veneno).
 
 ---
 
 ## X
 
 **Xorn** | AC –2 [21] | HD 7 (31hp) | 1×bite (6d4)+3×claw (1d3) | THAC0 13 [+6] | MV 90'(30') | SV F7 | ML 8 | AL N | XP 450 | TT J, L×5
-Surprise 1–5 (stone blending). Moves through stone/earth at full speed. Smells metals 20'. Will leave alone if fed precious metals. Immune to fire/cold; half electrical. Earth spells: move earth stuns 1 round; stone to flesh drops AC to 9 [10]; passwall deals 1d10+10.
+Sorprende en 1–5 (se confunde con la piedra). Se mueve a través de piedra/tierra a velocidad completa. Huele metales a 20'. Te dejará en paz si se le alimenta con metales preciosos. Inmune a fuego/frío; medio eléctrico. Conjuros de tierra: mover tierra lo aturde 1 ronda; piedra a carne reduce CA a 9 [10]; paso por las paredes causa 1d10+10 de daño.
 
 ---
 
 ## Y
 
 **Yellow Mould** | AC no roll | HD 2* (9hp) | spore cloud (1d6+choke) | THAC0 18 [+1] | MV 0' | SV F2 | ML 12 | AL N | XP 25 | TT None
-Immune to all except fire (torch = 1d4). Spore cloud on touch/damage (50%): 10' cube area. Choking: save vs death or die in 6 rounds. Erodes wood and leather.
+Inmune a todo excepto al fuego (antorcha = 1d4). Nube de esporas al tacto/daño (50%): área de cubo de 10'. Asfixia: tirada de salvación vs muerte o muere en 6 rondas. Erosiona madera y cuero.
 
 **Yeti** | AC 5 [14] | HD 4+4** (22hp) | 2×claw (1d6+icy squeeze) | THAC0 15 [+4] | MV 150'(50') | SV F4 | ML 8 | AL N | XP 275 | TT D
-Surprise 1–4 (snow camouflage). Icy squeeze on natural 20: +2d8. Paralysing gaze if surprised (save vs paralysis or frozen 3 rounds). Paralysed victims: auto both claws + 2d8. Vulnerable to fire (50% extra damage).
+Sorprende en 1–4 (camuflaje en la nieve). Apretón helado en 20 natural: +2d8. Mirada paralizante si sorprende (tirada de salvación vs parálisis o congelado 3 rondas). Víctimas paralizadas: ambas garras automáticas + 2d8. Vulnerable al fuego (50% de daño extra).
 
 ---
 
 ## Z
 
 **Zombie** | AC 8 [11] | HD 2 (9hp) | 1×weapon (1d8) | THAC0 18 [+1] | MV 60'(20') | SV F1 | ML 12 | AL C | XP 20 | TT None
-Undead. Always attack on sight. Always lose initiative.
+No-muerto. Siempre ataca a la vista. Siempre pierde la iniciativa.
 
 ---
 
-## Quick Damage Immunity Reference
+## Referencia rápida de inmunidades al daño
 
-| Creature | Only Harmed By |
-|----------|---------------|
-| Banshee | Magic |
-| Black Pudding | Fire |
+| Criatura | Solo dañado por |
+|----------|----------------|
+| Banshee | Magia |
+| Black Pudding | Fuego |
 | Blink Dog | — (normal) |
-| Golem (Flesh) | Magic |
-| Golem (Iron) | Magic (+9 or higher weapon) |
-| Golem (Stone) | Magic (+2 or higher) |
-| Green Slime | Cold or fire |
-| Grey Ooze | Weapons (immune to cold/fire) |
-| Jackalwere | Magic |
-| Lich | Magic |
-| Lycanthropes (animal) | Silver or magic |
-| Mummy | Magic fire or magical weapons |
-| Peryton | Magic |
-| Phoenix | Magic |
-| Poltergeist | Silver or magic |
-| Rakshasa | Magic (blessed bolt kills instantly) |
-| Remorhaz | — (normal, but hot back melts weapons) |
-| Revenant | Magic (fire prevents regrowth) |
-| Roper | Magic |
-| Shadow | Magic |
-| Spectre | Magic |
-| Sphinx | Magic |
-| Troll | Normal (fire/acid prevent regen) |
-| Vampire | Magic |
+| Golem (Flesh) | Magia |
+| Golem (Iron) | Magia (arma +9 o superior) |
+| Golem (Stone) | Magia (+2 o superior) |
+| Green Slime | Frío o fuego |
+| Grey Ooze | Armas (inmune a frío/fuego) |
+| Jackalwere | Magia |
+| Lich | Magia |
+| Lycanthropes (animal) | Plata o magia |
+| Mummy | Fuego mágico o armas mágicas |
+| Peryton | Magia |
+| Phoenix | Magia |
+| Poltergeist | Plata o magia |
+| Rakshasa | Magia (virote bendecido mata al instante) |
+| Remorhaz | — (normal, pero el lomo caliente derrite armas) |
+| Revenant | Magia (el fuego evita la regeneración) |
+| Roper | Magia |
+| Shadow | Magia |
+| Spectre | Magia |
+| Sphinx | Magia |
+| Troll | Normal (fuego/ácido evita la regeneración) |
+| Vampire | Magia |
 | Warp Beast | — (normal) |
-| Wight | Silver or magic |
-| Will-o'-Wisp | Magic |
-| Wraith | Silver or magic (half from silver) |
+| Wight | Plata o magia |
+| Will-o'-Wisp | Magia |
+| Wraith | Plata o magia (medio daño de plata) |
 
-## Common Saving Throw Abbreviations
+## Abreviaciones comunes de tiradas de salvación
 
-Saves listed as level number (e.g. "F6" = Fighter level 6, "MU 14" = Magic-User 14, "NH" = Normal Human). Refer to saving-throws.md for full tables.
+Las tiradas de salvación se listan como número de nivel (por ej., "F6" = Fighter nivel 6, "MU 14" = Magic-User nivel 14, "NH" = Humano Normal). Consultar saving-throws.md para las tablas completas.
