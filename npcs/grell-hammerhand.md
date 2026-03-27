@@ -18,4 +18,4 @@ A one-eyed dwarf. The Hammerhand name also appears in the Castleton dwarves grou
 Active. Believed to be in or around Castleton.
 
 ## Images
-- `images/npcs/grell.png` — portrait
+![portrait](images/npcs/grell.png)

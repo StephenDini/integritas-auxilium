@@ -18,4 +18,4 @@ A stout, cheerful older man with a white beard. Wears armor.
 Active. Presumably at Threshold.
 
 ## Images
-- `images/npcs/rusty-swans-bailiff.png` — portrait
+![portrait](images/npcs/rusty-swans-bailiff.png)

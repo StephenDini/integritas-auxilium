@@ -23,4 +23,4 @@ He served as Nemmerle's field agent — by his own account, he has worked with t
 Active. Location currently unknown — not traveling with the party.
 
 ## Images
-- `images/npcs/alton-the-usaf-ranger.png` — portrait
+![portrait](images/npcs/alton-the-usaf-ranger.png)

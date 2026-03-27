@@ -19,5 +19,5 @@ House rules posted on premises:
 See also: locations/kingdom-of-the-rat.md
 
 ## Images
-- `images/locations/linea-rubra.png` — daytime: canal docks, buildings on stilts, boats
-- `images/locations/linea-rubra-2.png` — night: moonlit flooded street, swamp-adjacent buildings
+![daytime: canal docks, buildings on stilts, boats](images/locations/linea-rubra.png)
+![night: moonlit flooded street, swamp-adjacent buildings](images/locations/linea-rubra-2.png)

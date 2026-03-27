@@ -14,9 +14,9 @@ Lockleed is the party's starting city and the location of the Codex of Infinite 
 - Travel northeast approximately one week reaches Castleton.
 
 ## Images
-- `images/locations/lockleed-river-gate.jpg` — the river gate
-- `images/locations/tower-of-high-wizardry-lockleed.png` — Tower of High Wizardry (exterior)
-- `images/locations/tower-of-high-wizardry-lockleed-2.png` — Tower of High Wizardry (second view)
+![the river gate](images/locations/lockleed-river-gate.jpg)
+![Tower of High Wizardry (exterior)](images/locations/tower-of-high-wizardry-lockleed.png)
+![Tower of High Wizardry (second view)](images/locations/tower-of-high-wizardry-lockleed-2.png)
 
 ## Campaign Significance
 

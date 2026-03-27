@@ -9,4 +9,4 @@ A swamp temple complex. The entrance is built into or through the open mouth of 
 - This is the site of module 2 in the campaign (The Croaking Fane, DCC). The party has already cleared it.
 
 ## Images
-- `images/locations/croaking-fane.png` — exterior: giant moss-covered stone frog, mouth as entrance
+![exterior: giant moss-covered stone frog, mouth as entrance](images/locations/croaking-fane.png)

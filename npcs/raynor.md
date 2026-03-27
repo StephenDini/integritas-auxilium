@@ -26,4 +26,4 @@ A ranger affiliated with the USAF Warriors. Operates in the south — forest and
 Active. Operating in the southern forest and swamp region.
 
 ## Images
-- `images/npcs/raynor.png` — portrait
+![portrait](images/npcs/raynor.png)

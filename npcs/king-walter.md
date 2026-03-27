@@ -22,4 +22,5 @@ The name "Walter" is a title applied to every ruler of this kingdom regardless o
 Active. Rules from the swamp. Has not been directly confronted by the party.
 
 ## Images
-- `images/npcs/walter-original.jpg` — original portrait (design changed)
+![portrait — were-rat king, crown, red cape, gold bracers](images/npcs/king-walter.png)
+![original portrait (design changed)](images/npcs/walter-original.jpg)
