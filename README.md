@@ -68,6 +68,8 @@ npcs/           — named NPCs
 locations/      — settlements, regions, dungeons
 lore/           — world history, the Codex, the Moongate
 items/          — significant items
+maps/           — battle maps and tactical map stubs
+images/         — DM-provided artwork, organized by type (npcs, locations, creatures, events, items, maps, keep-on-borderlands)
 rules/          — OSE rules reference (classes, combat, monsters, etc.)
 discord-archive/ — raw Discord channel export
 tosort/         — source notes not yet fully integrated

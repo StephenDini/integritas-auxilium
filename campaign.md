@@ -13,7 +13,7 @@ Two confirmed glyph-bearers located: **Commander Swan (Voronwë)**, male, at Thr
 ## Modules Completed
 
 1. Keep on the Borderlands (B2)
-2. The Krocking Fane (DCC module)
+2. The Croaking Fane (DCC module)
 3. Gygax Classic Red Book — run as OSE module
 
 ## Current State

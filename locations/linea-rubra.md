@@ -2,11 +2,21 @@
 
 ## Overview
 
-A waterfront settlement or district. Name translates to "Red Line." Two distinct views provided by the DM: a daytime canal/dock scene and a moonlit flooded street at night, suggesting it has a significant water presence and a darker atmosphere after dark.
+A waterfront district or establishment within or adjacent to the Kingdom of the Rat. Name translates to "Red Line." Two DM-provided views: a daytime canal/dock scene and a moonlit flooded street at night.
 
 ## Known Info
 
-- No confirmed story events here yet.
+House rules posted on premises:
+- No credit
+- No Dogs
+- No Elfs
+
+**Known staff:**
+- **Black Pete** — albino waiter
+
+**Drinks:** Goblin Piss (1 cp)
+
+See also: locations/kingdom-of-the-rat.md
 
 ## Images
 - `images/locations/linea-rubra.png` — daytime: canal docks, buildings on stilts, boats

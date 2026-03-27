@@ -6,7 +6,7 @@ A post-Reckoning settlement in the Texas region. Run by Jefferson Thomas (Tayhas
 
 ## Known Info
 
-- Jefferson Thomas leads the settlement and offers bounties.
+- Jefferson Thomas leads the settlement and offers bounties; see npcs/jefferson-thomas.md.
 - Raynor regularly travels between Stella Solis and Two Sons.
 - The Snake Temple is a separate structure nearby (or within the same area) — see images.
 

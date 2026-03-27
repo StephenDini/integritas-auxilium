@@ -11,7 +11,7 @@ A ranger affiliated with the USAF Warriors. Operates in the south — forest and
 
 ## Known Info
 
-- Travels between **Stella Solis** (run by Jefferson Thomas, Tayhas Ranger — good bounties available) and **Two Sons** (a free-wheeling border town).
+- Travels between **Stella Solis** (run by Jefferson Thomas, Tayhas Ranger — good bounties available; see locations/stella-solis.md and npcs/jefferson-thomas.md) and **Two Sons** (a free-wheeling border town).
 - Discovered a scroll among Ratfolk that contains drawings of the party — someone is tracking them.
 - Knows the customs for dealing with Lizard Folk:
   - Hold both hands open above your head

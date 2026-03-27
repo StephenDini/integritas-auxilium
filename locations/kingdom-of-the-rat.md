@@ -16,7 +16,7 @@ Someone is tracking the party — Ratfolk were found carrying a scroll with draw
 
 ### Linea Rubra
 
-An establishment in the swamp. House rules posted:
+A waterfront district or establishment. House rules posted:
 - No credit
 - No Dogs
 - No Elfs
@@ -24,6 +24,8 @@ An establishment in the swamp. House rules posted:
 Known staff:
 - **Black Pete** — albino waiter
 - Drink available: **Goblin Piss** (1 cp)
+
+See locations/linea-rubra.md for images.
 
 ### The Prison Raft
 
@@ -55,6 +57,10 @@ Traveling through this region is hazardous:
 King Walter has a problem with Lizard Men in his swamp. He offered the party a deal: eliminate the Lizard Men, and he will release the Noldori elf he holds captive ("a reluctant guest" — Taelendra).
 
 **How to deal with Lizard Folk** (per Raynor): Hold both hands open above your head. Lay your cloak on the ground. Place trade goods on the cloak. Do not haggle more than once. Raynor also suggested putting color bands on Burt and blood or paint lines under his eyes — with Frank the skeleton making Burt resemble a shaman, this may help in negotiations.
+
+## Images
+
+See locations/walters-kingdom.md for full image set (6 images: carousel, founder statue, etc.).
 
 ## Walter's Captive
 

@@ -26,3 +26,4 @@ The settlement was previously called Whitman. Swan renamed it Threshold.
 ## Known NPCs
 
 - **Commander Swan (Voronwë)** — leads this outpost; male Noldori; see npcs/commander-swan.md
+- **Rusty** — Swan's bailiff; see npcs/rusty.md

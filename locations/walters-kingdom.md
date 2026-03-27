@@ -12,6 +12,8 @@ Walter refers to his domain as "the most luxurious swamp."
 - Taelendra's ship operates out of or around this area — she captains Walter's fishing operation.
 - The party has been offered a deal: clear Lizard Men from the swamp in exchange for Taelendra's release.
 
+For full campaign detail (NPCs, culture, Lizard Men situation, centaurs, swamp hazards): see locations/kingdom-of-the-rat.md
+
 ## Images
 - `images/locations/walters-kingdom.png` — flooded carousel in swamp
 - `images/locations/walters-kingdom-2.png` — moss-covered founder statue with mouse figure
