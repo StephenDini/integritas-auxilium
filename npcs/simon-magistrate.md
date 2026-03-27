@@ -19,4 +19,4 @@ Older man with gray beard. Scholarly. Studies documents by candlelight.
 Unknown.
 
 ## Images
-![portrait](images/npcs/simon-magistrate.png)
+![portrait](../images/npcs/simon-magistrate.png)

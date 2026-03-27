@@ -26,4 +26,4 @@ One of the four Noldori bearing a translation glyph for the Codex of Infinite Wi
 At Threshold. The party has been directed to find him there.
 
 ## Images
-![his forearm bearing the Noldori glyph (binary-pattern marking)](images/npcs/commander-swan-arm-glyph.png)
+![his forearm bearing the Noldori glyph (binary-pattern marking)](../images/npcs/commander-swan-arm-glyph.png)

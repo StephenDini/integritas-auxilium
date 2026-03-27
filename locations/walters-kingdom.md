@@ -15,8 +15,8 @@ Walter refers to his domain as "the most luxurious swamp."
 For full campaign detail (NPCs, culture, Lizard Men situation, centaurs, swamp hazards): see locations/kingdom-of-the-rat.md
 
 ## Images
-![flooded carousel in swamp](images/locations/walters-kingdom.png)
-![moss-covered founder statue with mouse figure](images/locations/walters-kingdom-2.png)
-![the castle — dark, overgrown with vines, stormy sky](images/locations/walters-kingdom-3.png)
-![large domed structure, half-submerged in swamp water](images/locations/walters-kingdom-4.png)
-![overgrown roller coaster tower in the swamp](images/locations/walters-kingdom-5.png)
+![flooded carousel in swamp](../images/locations/walters-kingdom.png)
+![moss-covered founder statue with mouse figure](../images/locations/walters-kingdom-2.png)
+![the castle — dark, overgrown with vines, stormy sky](../images/locations/walters-kingdom-3.png)
+![large domed structure, half-submerged in swamp water](../images/locations/walters-kingdom-4.png)
+![overgrown roller coaster tower in the swamp](../images/locations/walters-kingdom-5.png)

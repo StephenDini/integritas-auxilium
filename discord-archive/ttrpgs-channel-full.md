@@ -14,7 +14,7 @@ Archived: 2026-03-13T22:06:20.555369
 
 **Another Damn Matt** `03:26:16`
 https://app.questportal.com/invite/create/LMGZCoeC04
-![img](images/chat-messages-1327094989783564288-1327116274869731370_0.png)
+![img](../images/chat-messages-1327094989783564288-1327116274869731370_0.png)
 
 
 ## 2025-01-11
@@ -35,8 +35,8 @@ hard to tell for me had to make sure
 https://app.questportal.com/invite/create/LMGZCoeC04 The invite link has expired. Contact your game master for an updated link.
 
 **Toe Cutter** `17:51:18`
-![img](images/chat-messages-1327094989783564288-1327696353626820782_0.jpg)
-![img](images/chat-messages-1327094989783564288-1327696353626820782_1.jpg)
+![img](../images/chat-messages-1327094989783564288-1327696353626820782_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1327696353626820782_1.jpg)
 
 **@Toe Cutter** `19:39:46`
 The invite link has expired. Contact your game master for an updated link. Stephen and I were trying something out the other night on the Questportal website.  You can ignore that.
@@ -45,8 +45,8 @@ The invite link has expired. Contact your game master for an updated link. Steph
 ## 2025-01-12
 
 **Toe Cutter** `22:56:17`
-![img](images/chat-messages-1327094989783564288-1328135496437731460_0.jpg)
-![img](images/chat-messages-1327094989783564288-1328135496437731460_1.jpg)
+![img](../images/chat-messages-1327094989783564288-1328135496437731460_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1328135496437731460_1.jpg)
 
 **Toe Cutter** `22:59:05`
 Missed Treasure:
@@ -63,7 +63,7 @@ light em up boys
 
 **Bryan** `23:06:52`
 Pour it down the thiefhole and see what happens
-![img](images/chat-messages-1327094989783564288-1328138157153194074_0.png)
+![img](../images/chat-messages-1327094989783564288-1328138157153194074_0.png)
 
 **Stoven** `23:07:08`
 damn thats a better idea
@@ -94,8 +94,8 @@ I just need Nick to join the server
 ## 2025-01-17
 
 **Toe Cutter** `16:38:36`
-![img](images/chat-messages-1327094989783564288-1329852386033930292_0.jpg)
-![img](images/chat-messages-1327094989783564288-1329852386033930292_1.jpg)
+![img](../images/chat-messages-1327094989783564288-1329852386033930292_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1329852386033930292_1.jpg)
 
 **Stoven** `22:41:04`
 We doing pnp this weekend? (edited)
@@ -103,7 +103,7 @@ Friday, January 17, 2025 at 4:41 PM
 
 **Bryan** `23:31:44`
 I'm in
-![img](images/chat-messages-1327094989783564288-1329956355842510888_0.png)
+![img](../images/chat-messages-1327094989783564288-1329956355842510888_0.png)
 
 
 ## 2025-01-18
@@ -127,15 +127,15 @@ When (not if) Andrew clears Sunday, what time do we want ti start?
 ## 2025-01-23
 
 **Toe Cutter** `19:59:50`
-![img](images/chat-messages-1327094989783564288-1332077354851500173_0.jpg)
-![img](images/chat-messages-1327094989783564288-1332077354851500173_1.jpg)
+![img](../images/chat-messages-1327094989783564288-1332077354851500173_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1332077354851500173_1.jpg)
 
 
 ## 2025-01-24
 
 **Toe Cutter** `18:33:48`
-![img](images/chat-messages-1327094989783564288-1332418093586321441_0.jpg)
-![img](images/chat-messages-1327094989783564288-1332418093586321441_1.jpg)
+![img](../images/chat-messages-1327094989783564288-1332418093586321441_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1332418093586321441_1.jpg)
 
 **Toe Cutter** `18:33:59`
 Frank Mentzer (Author of Redbox D&D and BECMI) with his original college group. Aleena the Cleric was played by Aileen. 
@@ -152,7 +152,7 @@ First woman and first black d&d player
 
 https://www.youtube.com/watch?v=M-sqzX5YalM&t=44s (edited)
 Friday, January 24, 2025 at 6:32 PM
-![img](images/chat-messages-1327094989783564288-1332504515076821094_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1332504515076821094_0.jpg)
 
 **Toe Cutter** `00:23:51`
 That is one of the better ways to explain it. Perfect!
@@ -176,56 +176,56 @@ Any suggestions for Bryan?  Table mic, video cam, folding tables?  I know its th
 Yeah me too.  Nick found a conference mic the other day that we may try out tomorrow.  I’ll bring a laptop.
 
 **Bryan** `05:29:20`
-![img](images/chat-messages-1327094989783564288-1332945452861095957_0.png)
-![img](images/chat-messages-1327094989783564288-1332945452861095957_1.webp)
-![img](images/chat-messages-1327094989783564288-1332945452861095957_2.webp)
+![img](../images/chat-messages-1327094989783564288-1332945452861095957_0.png)
+![img](../images/chat-messages-1327094989783564288-1332945452861095957_1.webp)
+![img](../images/chat-messages-1327094989783564288-1332945452861095957_2.webp)
 
 **Toe Cutter** `14:10:54`
 Everyone remember to bring your character sheets. Andrew has the kill list too, and treasure (I think)
 
 **Bryan** `15:05:13`
-![img](images/chat-messages-1327094989783564288-1333090377963671694_0.png)
-![img](images/chat-messages-1327094989783564288-1333090377963671694_1.gif)
-![img](images/chat-messages-1327094989783564288-1333090377963671694_2.gif)
+![img](../images/chat-messages-1327094989783564288-1333090377963671694_0.png)
+![img](../images/chat-messages-1327094989783564288-1333090377963671694_1.gif)
+![img](../images/chat-messages-1327094989783564288-1333090377963671694_2.gif)
 
 **Bryan** `15:05:37`
 I'm just kidding, fellas. I have nothing but time...
-![img](images/chat-messages-1327094989783564288-1333090476412113038_0.png)
+![img](../images/chat-messages-1327094989783564288-1333090476412113038_0.png)
 
 **Toe Cutter** `15:05:49`
 Cst my dude. CST
 
 **Bryan** `15:11:12`
 Doh!
-![img](images/chat-messages-1327094989783564288-1333091882066120727_0.png)
+![img](../images/chat-messages-1327094989783564288-1333091882066120727_0.png)
 
 **Another Damn Matt** `16:42:03`
-![img](images/chat-messages-1327094989783564288-1333114747767357520_0.jpg)
-![img](images/chat-messages-1327094989783564288-1333114747767357520_1.jpg)
+![img](../images/chat-messages-1327094989783564288-1333114747767357520_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1333114747767357520_1.jpg)
 
 **Another Damn Matt** `18:01:12`
-![img](images/chat-messages-1327094989783564288-1333134665967468604_0.jpg)
-![img](images/chat-messages-1327094989783564288-1333134665967468604_1.jpg)
+![img](../images/chat-messages-1327094989783564288-1333134665967468604_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1333134665967468604_1.jpg)
 
 **Bryan** `18:02:11`
 That works perfectly.
-![img](images/chat-messages-1327094989783564288-1333134912412319836_0.png)
+![img](../images/chat-messages-1327094989783564288-1333134912412319836_0.png)
 
 **Another Damn Matt** `18:06:22`
-![img](images/chat-messages-1327094989783564288-1333135964956131479_0.jpg)
-![img](images/chat-messages-1327094989783564288-1333135964956131479_1.jpg)
+![img](../images/chat-messages-1327094989783564288-1333135964956131479_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1333135964956131479_1.jpg)
 
 **Another Damn Matt** `18:16:49`
-![img](images/chat-messages-1327094989783564288-1333138594704916483_0.jpg)
-![img](images/chat-messages-1327094989783564288-1333138594704916483_1.jpg)
+![img](../images/chat-messages-1327094989783564288-1333138594704916483_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1333138594704916483_1.jpg)
 
 **Another Damn Matt** `19:06:57`
-![img](images/chat-messages-1327094989783564288-1333151209673986128_0.jpg)
-![img](images/chat-messages-1327094989783564288-1333151209673986128_1.jpg)
+![img](../images/chat-messages-1327094989783564288-1333151209673986128_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1333151209673986128_1.jpg)
 
 **Another Damn Matt** `20:00:35`
-![img](images/chat-messages-1327094989783564288-1333164706768224377_0.jpg)
-![img](images/chat-messages-1327094989783564288-1333164706768224377_1.jpg)
+![img](../images/chat-messages-1327094989783564288-1333164706768224377_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1333164706768224377_1.jpg)
 
 **atreck157** `22:19:27`
 I had a great time today!  Thanks for hosting, Snook! Tell Mrs. Dr. Snook thanks for letting us play there, as well!
@@ -246,8 +246,8 @@ it was a blast
 ## 2025-01-27
 
 **Toe Cutter** `00:46:20`
-![img](images/chat-messages-1327094989783564288-1333236621142917130_0.jpg)
-![img](images/chat-messages-1327094989783564288-1333236621142917130_1.jpg)
+![img](../images/chat-messages-1327094989783564288-1333236621142917130_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1333236621142917130_1.jpg)
 
 **Toe Cutter** `00:47:03`
 A Elf Druid and Human Ranger had to escort a halfling merchant through the woods. They took care of a band of goblins and a smelly ogre that lived under the bridge.
@@ -279,12 +279,12 @@ I could do this up coming Sunday, but yeah starting on the 3rd I'd out till the 
 i keep missing a meeting for on sundays for project im working on, so sundays will work but if we could do another one that would be good,
 
 **Toe Cutter** `01:35:35`
-![img](images/chat-messages-1327094989783564288-1333249013746630720_0.png)
-![img](images/chat-messages-1327094989783564288-1333249013746630720_1.png)
+![img](../images/chat-messages-1327094989783564288-1333249013746630720_0.png)
+![img](../images/chat-messages-1327094989783564288-1333249013746630720_1.png)
 
 **Toe Cutter** `01:35:36`
-![img](images/chat-messages-1327094989783564288-1333249020088422420_0.png)
-![img](images/chat-messages-1327094989783564288-1333249020088422420_1.png)
+![img](../images/chat-messages-1327094989783564288-1333249020088422420_0.png)
+![img](../images/chat-messages-1327094989783564288-1333249020088422420_1.png)
 
 **Toe Cutter** `18:52:00`
 Any of you pumpkin-headed dipshits use Owlbear Rodeo?
@@ -300,12 +300,12 @@ So, the journey to Threshold at the feet of the Lost Ore (the Ore is Gone) mount
 ## 2025-01-28
 
 **Toe Cutter** `00:43:59`
-![img](images/chat-messages-1327094989783564288-1333598415711371306_0.jpg)
-![img](images/chat-messages-1327094989783564288-1333598415711371306_1.jpg)
+![img](../images/chat-messages-1327094989783564288-1333598415711371306_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1333598415711371306_1.jpg)
 
 **Toe Cutter** `01:52:45`
-![img](images/chat-messages-1327094989783564288-1333615722131099688_0.jpg)
-![img](images/chat-messages-1327094989783564288-1333615722131099688_1.jpg)
+![img](../images/chat-messages-1327094989783564288-1333615722131099688_0.jpg)
+![img](../images/chat-messages-1327094989783564288-1333615722131099688_1.jpg)
 
 **Toe Cutter** `01:52:53`
 Bryan may remember some of this

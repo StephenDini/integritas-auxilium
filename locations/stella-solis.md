@@ -16,8 +16,8 @@ A post-Reckoning settlement in the Texas region. Run by Jefferson Thomas (Tayhas
 Ancient temple structure within or near Stella Solis.
 
 ## Images
-![settlement street — Texas flags, armed inhabitants](images/locations/stella-solis-snake-temple.png)
-![settlement street — wide view with flags and figures](images/locations/stella-solis-snake-temple-2.png)
-![settlement street — another view](images/locations/stella-solis-snake-temple-3.png)
-![settlement street — armed figure at wall](images/locations/stella-solis-snake-temple-4.png)
-![the Snake Temple — stepped stone pyramid, jungle-covered](images/locations/stella-solis-snake-temple-5.png)
+![settlement street — Texas flags, armed inhabitants](../images/locations/stella-solis-snake-temple.png)
+![settlement street — wide view with flags and figures](../images/locations/stella-solis-snake-temple-2.png)
+![settlement street — another view](../images/locations/stella-solis-snake-temple-3.png)
+![settlement street — armed figure at wall](../images/locations/stella-solis-snake-temple-4.png)
+![the Snake Temple — stepped stone pyramid, jungle-covered](../images/locations/stella-solis-snake-temple-5.png)

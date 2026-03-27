@@ -25,8 +25,8 @@ A large manor on the cliffs above Castleton, purchased by Linus Larabee (legalit
 - Lift leading to dungeon/cave levels below (not yet explored)
 
 ## Images
-![town view (docks/waterfront)](images/locations/castleton.png)
-![the cliffside manor](images/locations/overlook-manor-castleton.jpg)
+![town view (docks/waterfront)](../images/locations/castleton.png)
+![the cliffside manor](../images/locations/overlook-manor-castleton.jpg)
 
 ## Known NPCs
 

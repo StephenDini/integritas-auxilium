@@ -19,5 +19,5 @@ A ranger. Green hooded cloak, bow, arrows. Middle-aged. Hard-looking.
 Active. Based at Stella Solis.
 
 ## Images
-![portrait (green cloak, forest background)](images/npcs/jefferson-thomas-of-stella-solis.png)
-![portrait (darker; arid terrain)](images/npcs/jefferson-thomas-of-stella-solis-2.png)
+![portrait (green cloak, forest background)](../images/npcs/jefferson-thomas-of-stella-solis.png)
+![portrait (darker; arid terrain)](../images/npcs/jefferson-thomas-of-stella-solis-2.png)

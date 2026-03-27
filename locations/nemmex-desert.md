@@ -10,4 +10,4 @@ An arid desert region. Contains ancient ruins — carved stone archways and coll
 - No confirmed party travel to this region yet.
 
 ## Images
-![ancient carved ruins in open desert](images/locations/nemmex-desert.jpg)
+![ancient carved ruins in open desert](../images/locations/nemmex-desert.jpg)

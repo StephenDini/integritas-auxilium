@@ -14,4 +14,4 @@ An armored rat-person. Wears scale armor, a cloak, and a hat. Carries a halberd 
 - No confirmed story events on record yet.
 
 ## Images
-![full figure illustration](images/creatures/lil-sebastian.jpg)
+![full figure illustration](../images/creatures/lil-sebastian.jpg)
