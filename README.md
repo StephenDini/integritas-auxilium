@@ -37,13 +37,18 @@ Each member of the party consulted the Codex and thought of a personal question.
 
 ## Where Things Stand
 
-The party has completed three modules and reached level 6. They are currently working toward **Threshold**, a frontier outpost in the northwest, where **Commander Swan (Voronwë)** — one of the four Noldori — leads the Silverwood Sentinels.
+The party has completed three modules and reached level 6. They traveled by magnet rail train across the desert and arrived at the ruins of **Las Vegas** — a pre-Reckoning city dominated by a step pyramid (ziggurat) with a Luxor-style beacon.
 
-A second Noldori, **Taelendra** (called "Tinker Belle" by her captor), is held by **King Walter**, the were-rat ruler of a swamp kingdom in the southeast. Walter will free her if the party clears Lizard Men from his territory.
+**Current location:** Burial tomb level, second floor below the ziggurat. Session ended mid-combat against 25 skeletons and a mummy. The party will resume next session here.
 
-Two Noldori remain unlocated.
+**Las Vegas situation:** An underground city of ~1,000 Syncydians lives beneath the pyramid. Four factions vie for control: Valley (Bally — justice/truth), Usamagaras (magic users/tricksters), Ariadne followers, and the dominant Apocryphon (tentacled elder evil god, caverns beneath city). The city archives — which may hold Noldori records — are in Apocryphon territory. Valley outpost leader **Canadius** and Usamagaras chief mage **Securinos** have both been contacted.
 
-Someone is also tracking the party. Ratfolk were found carrying a scroll with drawings of each party member.
+**Still active hooks:**
+- **Threshold (NW):** Commander Swan (Voronwë), a Noldori, leads the Silverwood Sentinels. Not yet reached.
+- **King Walter (SE):** Were-rat ruler holds **Taelendra** ("Tinker Belle"), a second Noldori. Will trade her for clearing Lizard Men from his territory.
+- **Two Noldori unlocated.** City archives may have leads.
+- **Someone is tracking the party.** Ratfolk were found carrying scroll drawings of each party member.
+- **Apocryphon** must be dealt with to access the archives and stabilize Las Vegas.
 
 ---
 
@@ -56,6 +61,12 @@ Someone is also tracking the party. Ratfolk were found carrying a scroll with dr
 **Silverwood Sentinels** — Elf force near Threshold, led by Commander Swan. Allied with the party.
 
 **Kingdom of the Rat** — King Walter's were-rat swamp domain. Holds Taelendra captive. Ratfolk have been found with party surveillance scrolls.
+
+**Syncydian Factions (Las Vegas underground city):**
+- **Valley** — Followers of Bally (justice, truth, virtue). Gold bearded masks. Outpost leader: Canadius. Cautiously cooperative.
+- **Usamagaras** — Magic users and tricksters. Silver comedy/tragedy masks. Chief mage: Securinos. Cautiously cooperative.
+- **Ariadne followers** — Mother/maiden/crone. Women warrior masks. Nonviolent; avoid conflict.
+- **Apocryphon** — Followers of a tentacled elder evil god. No masks. Most numerous. Abduct people as offerings. Control city archives.
 
 ---
 
@@ -82,5 +93,6 @@ tosort/         — source notes not yet fully integrated
 | # | Date | Summary |
 |---|------|---------|
 | 001 | 2025-01-12 | Recruited by Alton in Lockleed. Traveled to Castleton. Cleared cliffside manor for Linus Larabee. Found Frank. |
+| ~10–11 | 2026-04-24 | Arrived Las Vegas by magnet rail. Explored ziggurat — discovered vocal tube fraud (gods = operators). Cleared fire beetles. Found underground Syncydian city. Contacted Valley and Usamagaras factions. Descended to burial tomb level. Session ended mid-combat vs. mummy and 25 skeletons. |
 
 *Archive is incomplete — sessions prior to March 2026 are being reconstructed from notes and Discord history.*
