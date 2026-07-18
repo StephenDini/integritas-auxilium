@@ -1,17 +1,19 @@
 # Rowan
 
 **Class:** Fighter
-**Level:** 6
-**XP:** 25,531
+**Level:** 7
+**XP:** 47,295+ (shared party pool; reached level 7 during session ~14)
 
 ## Description
 
-Fighter. His enchanted longsword contains a North Central Positronics gem — identified by Taelendra ("Tinker Belle").
+Fighter — nicknamed **"Troll Slayer."** His enchanted flaming longsword contains a North Central Positronics gem (identified by Taelendra, "Tinker Belle").
 
-## Equipment (from Session 1)
+## Current Notable Items (through session ~14)
 
-- Enchanted longsword (contains a North Central Positronics gem)
-- 30 gp
+- **Flaming longsword** (NCP gem) — **+2 to hit and +1d4 fire damage vs fire-sensitive creatures**; provides light when lit. Especially deadly to trolls; also the party's answer to regenerating and undead foes (burning bodies).
+- **Plate armor +2** (Darius loot; Rowan confirmed holding it in session ~14)
+- **Shield +1**
+- 30 gp (Session 1)
 
 ## The Sword's Gem
 
@@ -19,4 +21,5 @@ Taelendra ("Tinker Belle") identified a North Central Positronics gem in Rowan's
 
 ## Notes
 
+- STR 14 (as of session ~13).
 - Further details to be filled from Discord archive.
