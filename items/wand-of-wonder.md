@@ -18,7 +18,7 @@ Effects seen include lightning bolt, flare, butterflies, and fireball.
 
 ## Notable Uses
 - **Session ~10–11 (2026-04-24):** used against skeletons/mummy. Delusion: a lightning bolt "ripped through"; actual effect: a harmless flare that passed through everything ("nothing happens").
-- **Session ~14 (2026-07-17):** used against displacer beasts. First roll 77 (delusion); actual effect was a **Fireball**, which killed the displacer beasts and also **killed Fraxiga's blink dog** (it was at 1 HP). See [[../sessions/session-2026-07-17]].
+- **Session ~14 (2026-07-17):** several charges spent in the displacer-beast fight — a giant cake (the dogs ate it), a stinking cloud, and a delusional invisibility — then the fatal one: first roll 77 (delusion), actual effect a **Fireball** that killed the displacer beasts **and Fraxiga's blink dog** (at 1 HP). **~96 charges remaining afterward.** See [[../sessions/session-2026-07-17]].
 
 ## Notes
 There is a physical **"Wand of Wonders sheet"** at the table (the effect table) that the DM/Bruce reference. Not listed in `rules/treasure.md`.

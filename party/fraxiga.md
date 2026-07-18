@@ -14,7 +14,7 @@ Wood Elf; a druid-type caster and archer. Name spelling is uncertain across sour
 - **Magic bow** — "bow of acceleration": once/day roll 1d4 for that many rounds of double attacks; +1 bow (attribution to Fraxiga likely but confirm)
 - Enchanted short bow — ownership still unresolved between Fraxiga and Burt
 - 2 healing potions (Session 1)
-- Druid-type spells seen in play: Stone Shape, Heat Metal, Faerie Fire, Cure Light Wounds, Detect Magic
+- Druid-type spells seen in play: Stone Shape, Heat Metal, Faerie Fire, Cure Light Wounds, Detect Magic, Spider Climb (used to carry the blink dog down a ladder, session ~14)
 
 ## Companion
 

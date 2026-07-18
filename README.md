@@ -53,6 +53,8 @@ The party has completed three modules and reached level 7. They traveled by magn
 - **Two Noldori unlocated.** City archives may have leads.
 - **Someone is tracking the party.** Ratfolk were found carrying scroll drawings of each party member.
 - **Apocryphon** must be dealt with to access the archives and stabilize Las Vegas. The party is now descending toward it through the zoo caverns.
+- **Dougal is mistaken for King Alexander** by a group of yellow-robed worshippers (herald **Polycrates**) who escorted the party toward the archives — unused social leverage.
+- **The Tower / "the deceiver in the tower"** — a **necromancer**'s tower west of Las Vegas (source of regional undead), flagged since the party's earlier travel through the Pitching Post and Clearwater; still unreached.
 
 ---
 
@@ -69,7 +71,7 @@ The party has completed three modules and reached level 7. They traveled by magn
 **Syncydian Factions (Las Vegas underground city):**
 - **Valley** — Followers of Bally (justice, truth, virtue). Gold bearded masks. Outpost leader: Canadius. Cautiously cooperative.
 - **Usamagaras** — Magic users and tricksters. Silver comedy/tragedy masks. Chief mage: Securinos. Cautiously cooperative.
-- **Ariadne followers** — Mother/maiden/crone. Women warrior masks. Nonviolent; avoid conflict.
+- **Ariadne followers** — Mother/maiden/crone. Women warrior masks (bronze over green tunics). Nonviolent; avoid conflict. Leader: **Pandora**.
 - **Apocryphon** — Followers of a tentacled elder evil god. No masks. Most numerous. Abduct people as offerings. Control city archives.
 
 ---
@@ -97,7 +99,7 @@ tosort/         — source notes not yet fully integrated
 | # | Date | Summary |
 |---|------|---------|
 | 001 | 2025-01-12 | Recruited by Alton in Lockleed. Traveled to Castleton. Cleared cliffside manor for Linus Larabee. Found Frank. |
-| ~10–11 | 2026-04-24 | Arrived Las Vegas by magnet rail. Explored ziggurat — discovered vocal tube fraud (gods = operators). Cleared fire beetles. Found underground Syncydian city. Contacted Valley and Usamagaras factions. Descended to burial tomb level. Session ended mid-combat vs. mummy and 25 skeletons. |
+| ~10–11 | 2026-04-24 | Arrived Las Vegas by magnet rail. Explored ziggurat — discovered vocal-tube fraud (gods = operators). Cleared fire beetles. Found underground Syncydian city; contacted Valley (Canadius) and Usamagaras (Securinos). Explored the faction-button hallway, the Ariadne treasury (met **Pandora**), and yellow-robe worshippers who took Dougal for **King Alexander** (**Polycrates**). Descended to the burial-tomb level and **cleared** 25 skeletons + a mummy (Horn of Valhalla summoned 7 berserkers), then rested. |
 | ~12 | 2026-05-15 | Cleared the burial tomb level. King Alexander (banshee) & Queen Zenobia (wight), seven shadows, giant pythons, and a polymar. Recovered the tomb treasure (plate +2, a wand, crowns). Bruce donned a white hooded robe and began acting strangely. |
 | ~13 | 2026-06-19 | Descended past the tomb into a cleric's-study level and the "zoo" caverns. The robe was revealed as the ghost Demetrius possessing Bruce; the party killed his brother Darius. Passed the masked-cultist rooms and casino; fought gargoyles, an owlbear, ogres, a scorpion, wraiths, and two black puddings. Resting ~room 63 — Apocryphon not yet reached. |
 | ~14 | 2026-07-17 | Cleared the rest of the first zoo tier: were-tigers (Siegfried & Roy), minotaurs, hell hounds, animate statues, medusas (Burt petrified/restored), weasels, mummies, displacer beasts, and trolls. Leveled to 7. **Fraxiga's blink dog killed** by a Wand of Wonder Fireball. Three smaller levels still lie between the party and Apocryphon/Zargon. |

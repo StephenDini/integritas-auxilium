@@ -7,7 +7,7 @@ Unidentified items and shared consumables not yet assigned to a specific charact
 - **Zenobia's scepter** — a magic wand (glowed under detect magic); type/effect not yet identified (session ~12)
 - **Potion** — from the tapestry-room chest (session ~12); unidentified
 - **Potion** — from the Room 47 office cabinet (session ~13); unidentified
-- **~2 potions** — older, carried since the desert; one of the batch turned out to be **gaseous form** when Burt drank it in session ~14, the rest still unknown
+- **~2 potions** — older, carried since the desert; of this batch one was **gaseous form** (Burt drank it, session ~14) and one was a **dud** (a DM gag — "16 Mountain Dew points"); any remainder still unknown
 - **Cleric scrolls ×3** — from the acid-pool stone box (session ~13); unread
 - **Arcane scrolls ×2** — from the dead Syncytian in the weasel room (session ~14); unread
 - **Arcane scroll ×1** — from the medusa room (session ~14); unread
@@ -29,4 +29,4 @@ Ring ownership got shuffled during sessions ~13–14 and is muddled on the recor
 - Ring of find object — Burt
 - "Ring of curmudgeon" — Burt
 - Aspera's Ring (+3 to all saves) — unclear (possibly Dougal)
-- Ring of protection (+1 AC) — one PC took it in session ~13 for AC; holder unresolved
+- Ring of protection (+1 AC / +1 saves) — **Bruce** owned one as of session ~12; a ring of protection was also passed toward a fighter for AC in session ~13. Whether these are the same ring is unresolved — reconcile.

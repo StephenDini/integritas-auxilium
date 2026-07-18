@@ -19,4 +19,4 @@ The spirit of a Syncydian man killed years ago by his own brother, Darius. Manif
 - His parting counsel: **killing Apocryphon would sever its clerics from their power.**
 
 ## Status
-Departed. His spirit left Bruce once his revenge against Darius was complete. Bruce retained memory of the possession. See [[darius]].
+Departed — but not instantly. Right after Darius died he said "I'm very much still here" (declaring his intent to kill Apocryphon) and only left Bruce **later**, during the post-fight lull. Bruce kept the memories and residual knowledge (e.g., the level's trap/room layout). See [[darius]].

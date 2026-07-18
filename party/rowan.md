@@ -10,7 +10,7 @@ Fighter — nicknamed **"Troll Slayer."** His enchanted flaming longsword contai
 
 ## Current Notable Items (through session ~14)
 
-- **Flaming longsword** (NCP gem) — **+2 to hit and +1d4 fire damage vs fire-sensitive creatures**; provides light when lit. Especially deadly to trolls; also the party's answer to regenerating and undead foes (burning bodies).
+- **Flaming longsword** (NCP gem) — **+2 to hit and +1d4 fire damage vs fire-sensitive creatures**, and **+3 vs undead**; provides light when lit (the whole party can then see, while enemies can't see them). Especially deadly to trolls; also the party's answer to regenerating and undead foes (burning bodies).
 - **Plate armor +2** (Darius loot; Rowan confirmed holding it in session ~14)
 - **Shield +1**
 - 30 gp (Session 1)
