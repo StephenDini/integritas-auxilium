@@ -39,16 +39,18 @@ Each member of the party consulted the Codex and thought of a personal question.
 
 The party has completed three modules and reached level 6. They traveled by magnet rail train across the desert and arrived at the ruins of **Las Vegas** — a pre-Reckoning city dominated by a step pyramid (ziggurat) with a Luxor-style beacon.
 
-**Current location:** Burial tomb level, second floor below the ziggurat. Session ended mid-combat against 25 skeletons and a mummy. The party will resume next session here.
+**Current location:** Zoo caverns beneath the ziggurat (~room 63), resting mid-dungeon. The party has cleared the burial tomb and the cleric's-study level below it and is descending toward **Apocryphon**, who lies at the bottom of the caverns (the ruins of the old "Las Vegas Zoo"). They hold a map of the three cleared levels above.
 
-**Las Vegas situation:** An underground city of ~1,000 Syncydians lives beneath the pyramid. Four factions vie for control: Valley (Bally — justice/truth), Usamagaras (magic users/tricksters), Ariadne followers, and the dominant Apocryphon (tentacled elder evil god, caverns beneath city). The city archives — which may hold Noldori records — are in Apocryphon territory. Valley outpost leader **Canadius** and Usamagaras chief mage **Securinos** have both been contacted.
+**Demetrius / Darius (resolved):** The white hooded robe recovered on the tomb level was not cursed — it carried the ghost of **Demetrius**, who possessed Bruce. Demetrius guided the party to his brother **Darius**, a money-changing priest of Apocryphon, and Darius was killed by Fireball. With his revenge complete, Demetrius's spirit departed and Bruce was freed (retaining all memories). Demetrius's parting counsel: killing Apocryphon would sever its clerics from their power. Demetrius's father had been an ardent follower of Usamgaras who spoke against Apocryphon and vanished; his mother was taken as an Apocryphon sacrifice; Darius, who converted to Apocryphon, was behind both and killed Demetrius years ago.
+
+**Las Vegas situation:** An underground city of ~1,000 Syncydians lives beneath the pyramid. Four factions vie for control: Valley (Bally — justice/truth), Usamagaras (magic users/tricksters), Ariadne followers, and the dominant Apocryphon (tentacled elder evil god, caverns beneath city). The city archives — which may hold Noldori records — are in Apocryphon territory and remain unreached; the party bypassed the city (Room 50 exit) to descend toward the god instead. Valley outpost leader **Canadius** and Usamagaras chief mage **Securinos** have both been contacted.
 
 **Still active hooks:**
 - **Threshold (NW):** Commander Swan (Voronwë), a Noldori, leads the Silverwood Sentinels. Not yet reached.
 - **King Walter (SE):** Were-rat ruler holds **Taelendra** ("Tinker Belle"), a second Noldori. Will trade her for clearing Lizard Men from his territory.
 - **Two Noldori unlocated.** City archives may have leads.
 - **Someone is tracking the party.** Ratfolk were found carrying scroll drawings of each party member.
-- **Apocryphon** must be dealt with to access the archives and stabilize Las Vegas.
+- **Apocryphon** must be dealt with to access the archives and stabilize Las Vegas. The party is now descending toward it through the zoo caverns.
 
 ---
 
@@ -94,5 +96,7 @@ tosort/         — source notes not yet fully integrated
 |---|------|---------|
 | 001 | 2025-01-12 | Recruited by Alton in Lockleed. Traveled to Castleton. Cleared cliffside manor for Linus Larabee. Found Frank. |
 | ~10–11 | 2026-04-24 | Arrived Las Vegas by magnet rail. Explored ziggurat — discovered vocal tube fraud (gods = operators). Cleared fire beetles. Found underground Syncydian city. Contacted Valley and Usamagaras factions. Descended to burial tomb level. Session ended mid-combat vs. mummy and 25 skeletons. |
+| ~12 | 2026-05-15 | Cleared the burial tomb level. King Alexander (banshee) & Queen Zenobia (wight), seven shadows, giant pythons, and a polymar. Recovered the tomb treasure (plate +2, a wand, crowns). Bruce donned a white hooded robe and began acting strangely. |
+| ~13 | 2026-06-19 | Descended past the tomb into a cleric's-study level and the "zoo" caverns. The robe was revealed as the ghost Demetrius possessing Bruce; the party killed his brother Darius. Passed the masked-cultist rooms and casino; fought gargoyles, an owlbear, ogres, a scorpion, wraiths, and two black puddings. Resting ~room 63 — Apocryphon not yet reached. |
 
 *Archive is incomplete — sessions prior to March 2026 are being reconstructed from notes and Discord history.*
