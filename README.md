@@ -26,7 +26,7 @@ Each member of the party consulted the Codex and thought of a personal question.
 
 | Name | Class | Level | Notes |
 |------|-------|-------|-------|
-| Burton Guster (Burt) | Thief | 7 | Short. Carries a partial skeleton named Frank. Wears a torn black tabard with a bird-handprint symbol. Called "Gus" at the table. |
+| Burton Guster (Burt) | Thief | 7 | Rat-folk; can identify potions by scent. Short. Carries a partial skeleton named Frank, a 3-in-1 bag of holding, and (since session ~14) a Wand of Trap Detection. Wears a torn black tabard with a bird-handprint symbol. Called "Gus" at the table. |
 | Bruce | Wizard | 7 | No last name. Flagged as a key story figure. Carries the Wand of Wonder and a crystal ball. |
 | OJ Simpson | Fighter | 7 | Full name possibly Orenthal. Has received a personal recruitment letter from Alton. |
 | Fraxiga | Wood Elf | 7 | Also seen spelled Forxiga (the DM's "Ezekiel" in session ~14 was a slip). Can shift into rat form. Owned the blink dog, killed in session ~14. |
@@ -39,7 +39,7 @@ Each member of the party consulted the Codex and thought of a personal question.
 
 The party has completed three modules and reached level 7. They traveled by magnet rail train across the desert and arrived at the ruins of **Las Vegas** — a pre-Reckoning city dominated by a step pyramid (ziggurat) with a Luxor-style beacon.
 
-**Current location:** Zoo caverns beneath the ziggurat, resting. The party has cleared the burial tomb, the cleric's-study level, and the **entire first zoo tier (tier 6)** — a menagerie of "exhibit" monsters (gargoyles, were-tigers, minotaurs, hell hounds, medusas, weasels, mummies, displacer beasts, trolls). They are descending toward **Apocryphon** (named in play as **Zargon**), who lies at the bottom; the DM notes **three more, progressively smaller, levels remain** before reaching him. They hold a map of the levels above.
+**Current location:** Zoo caverns beneath the ziggurat, resting. The party has cleared the burial tomb, the cleric's-study level, and the **entire first zoo tier (tier 6)** — a menagerie of "exhibit" monsters (gargoyles, were-tigers, minotaurs, hell hounds, medusas, weasels, mummies, displacer beasts, trolls). They are descending toward **Apocryphon** (named in play as **Zargon**), who lies at the bottom; the DM notes **three more, progressively smaller, levels remain** before reaching him — and warns that while the levels shrink, the **monsters ramp up sharply** from here down. They hold a map of the levels above.
 
 **Loss:** Fraxiga's **blink dog was killed** in session ~14 — caught in a Fireball that erupted from Bruce's Wand of Wonder. A replacement animal companion is wanted.
 
