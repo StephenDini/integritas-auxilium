@@ -28,8 +28,8 @@ Each member of the party consulted the Codex and thought of a personal question.
 |------|-------|-------|-------|
 | Burton Guster (Burt) | Thief | 7 | Short. Carries a partial skeleton named Frank. Wears a torn black tabard with a bird-handprint symbol. Called "Gus" at the table. |
 | Bruce | Wizard | 7 | No last name. Flagged as a key story figure. Carries the Wand of Wonder and a crystal ball. |
-| OJ Simpson | Fighter | 7 | Full name possibly Orenthal. Has received a personal recruitment letter from Alton. His blink dog companion died in session ~14. |
-| Fraxiga | Wood Elf | 7 | Also seen spelled Forxiga; addressed as "Ezekiel" in session ~14 (discrepancy to reconcile). Can shift into rat form. |
+| OJ Simpson | Fighter | 7 | Full name possibly Orenthal. Has received a personal recruitment letter from Alton. |
+| Fraxiga | Wood Elf | 7 | Also seen spelled Forxiga (the DM's "Ezekiel" in session ~14 was a slip). Can shift into rat form. Owned the blink dog, killed in session ~14. |
 | Dougal McCurdy | Cleric | 7 | Carries the Moongate and the Staff of Healing. |
 | Rowan | Fighter | 7 | His enchanted flaming sword (pre-Reckoning gem from North Central Positronics) is +2 to hit and +1d4 fire vs fire-sensitive creatures — deadly to trolls. "Troll Slayer." |
 
@@ -41,7 +41,7 @@ The party has completed three modules and reached level 7. They traveled by magn
 
 **Current location:** Zoo caverns beneath the ziggurat, resting. The party has cleared the burial tomb, the cleric's-study level, and the **entire first zoo tier (tier 6)** — a menagerie of "exhibit" monsters (gargoyles, were-tigers, minotaurs, hell hounds, medusas, weasels, mummies, displacer beasts, trolls). They are descending toward **Apocryphon** (named in play as **Zargon**), who lies at the bottom; the DM notes **three more, progressively smaller, levels remain** before reaching him. They hold a map of the levels above.
 
-**Loss:** OJ's **blink dog companion was killed** in session ~14 — caught in a Fireball that erupted from Bruce's Wand of Wonder. OJ is seeking a replacement animal companion.
+**Loss:** Fraxiga's **blink dog was killed** in session ~14 — caught in a Fireball that erupted from Bruce's Wand of Wonder. A replacement animal companion is wanted.
 
 **Demetrius / Darius (resolved):** The white hooded robe recovered on the tomb level was not cursed — it carried the ghost of **Demetrius**, who possessed Bruce. Demetrius guided the party to his brother **Darius**, a money-changing priest of Apocryphon, and Darius was killed by Fireball. With his revenge complete, Demetrius's spirit departed and Bruce was freed (retaining all memories). Demetrius's parting counsel: killing Apocryphon would sever its clerics from their power. Demetrius's father had been an ardent follower of Usamgaras who spoke against Apocryphon and vanished; his mother was taken as an Apocryphon sacrifice; Darius, who converted to Apocryphon, was behind both and killed Demetrius years ago.
 
@@ -100,6 +100,6 @@ tosort/         — source notes not yet fully integrated
 | ~10–11 | 2026-04-24 | Arrived Las Vegas by magnet rail. Explored ziggurat — discovered vocal tube fraud (gods = operators). Cleared fire beetles. Found underground Syncydian city. Contacted Valley and Usamagaras factions. Descended to burial tomb level. Session ended mid-combat vs. mummy and 25 skeletons. |
 | ~12 | 2026-05-15 | Cleared the burial tomb level. King Alexander (banshee) & Queen Zenobia (wight), seven shadows, giant pythons, and a polymar. Recovered the tomb treasure (plate +2, a wand, crowns). Bruce donned a white hooded robe and began acting strangely. |
 | ~13 | 2026-06-19 | Descended past the tomb into a cleric's-study level and the "zoo" caverns. The robe was revealed as the ghost Demetrius possessing Bruce; the party killed his brother Darius. Passed the masked-cultist rooms and casino; fought gargoyles, an owlbear, ogres, a scorpion, wraiths, and two black puddings. Resting ~room 63 — Apocryphon not yet reached. |
-| ~14 | 2026-07-17 | Cleared the rest of the first zoo tier: were-tigers (Siegfried & Roy), minotaurs, hell hounds, animate statues, medusas (Burt petrified/restored), weasels, mummies, displacer beasts, and trolls. Leveled to 7. **OJ's blink dog killed** by a Wand of Wonder Fireball. Three smaller levels still lie between the party and Apocryphon/Zargon. |
+| ~14 | 2026-07-17 | Cleared the rest of the first zoo tier: were-tigers (Siegfried & Roy), minotaurs, hell hounds, animate statues, medusas (Burt petrified/restored), weasels, mummies, displacer beasts, and trolls. Leveled to 7. **Fraxiga's blink dog killed** by a Wand of Wonder Fireball. Three smaller levels still lie between the party and Apocryphon/Zargon. |
 
 *Archive is incomplete — sessions prior to March 2026 are being reconstructed from notes and Discord history.*
